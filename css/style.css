@@ -1,0 +1,161 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0d0d0d;
+  --text: #e8e4df;
+  --text-dim: #6b6560;
+  --text-time: #3a3632;
+  --accent: #c9b99a;
+  --transition: 1.2s ease;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 2rem;
+  overflow: hidden;
+}
+
+/* === Main Clock === */
+#clock {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+}
+
+/* === Quote === */
+#quote-container {
+  opacity: 0;
+  transition: opacity var(--transition);
+}
+
+#quote-container.visible {
+  opacity: 1;
+}
+
+blockquote {
+  font-size: clamp(1.4rem, 3.5vw, 2.2rem);
+  font-weight: 300;
+  font-style: italic;
+  line-height: 1.6;
+  letter-spacing: 0.01em;
+  margin-bottom: 2.5rem;
+  max-height: 60vh;
+  overflow: hidden;
+}
+
+blockquote::before {
+  content: '\201C';
+  display: block;
+  font-size: 4rem;
+  color: var(--text-dim);
+  line-height: 0.5;
+  margin-bottom: 1rem;
+  font-style: normal;
+}
+
+/* === Attribution === */
+cite {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  font-style: normal;
+}
+
+#author {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+#title {
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--text-dim);
+}
+
+/* === Time === */
+#time-display {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 300;
+  letter-spacing: 0.3em;
+  color: var(--text-time);
+  margin-top: 4rem;
+  transition: color 0.5s ease;
+}
+
+/* === Footer === */
+footer {
+  padding: 1.5rem;
+  display: flex;
+  gap: 2rem;
+}
+
+footer a {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-time);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: var(--text-dim);
+}
+
+/* === Fullscreen cursor hide === */
+body.idle {
+  cursor: none;
+}
+
+body.idle footer {
+  opacity: 0;
+  transition: opacity 2s ease;
+}
+
+/* === Responsive === */
+@media (max-width: 600px) {
+  body {
+    padding: 1.5rem;
+  }
+  
+  blockquote {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+  }
+  
+  blockquote::before {
+    font-size: 3rem;
+  }
+}
+
+/* === Truncation for very long quotes === */
+blockquote.long {
+  font-size: clamp(1.1rem, 2.5vw, 1.6rem);
+}
