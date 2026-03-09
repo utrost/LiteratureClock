@@ -159,3 +159,33 @@ body.idle footer {
 blockquote.long {
   font-size: clamp(1.1rem, 2.5vw, 1.6rem);
 }
+
+/* === Time Highlight in Quote === */
+.time-highlight {
+  color: var(--accent);
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* === Keyboard nav hint === */
+#nav-hint {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.6rem;
+  letter-spacing: 0.15em;
+  color: var(--text-time);
+  position: fixed;
+  bottom: 3.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 1s ease;
+  pointer-events: none;
+}
+
+#nav-hint.visible {
+  opacity: 1;
+}
+
+body.idle #nav-hint {
+  opacity: 0;
+}

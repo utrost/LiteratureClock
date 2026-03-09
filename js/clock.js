@@ -3,8 +3,11 @@
 
   let allQuotes = [];
   let quotesByTime = {};
+  let sortedTimes = [];
   let currentTime = '';
+  let browseTime = null; // null = live mode, string = browsing
   let idleTimer = null;
+  let navHintTimer = null;
 
   // --- Format time as HH:MM ---
   function formatTime(date) {
@@ -35,11 +38,11 @@
 
     const [h, m] = time.split(':').map(Number);
     const totalMin = h * 60 + m;
-    
+
     let bestTime = null;
     let bestDist = Infinity;
-    
-    for (const t of Object.keys(quotesByTime)) {
+
+    for (const t of sortedTimes) {
       const [th, tm] = t.split(':').map(Number);
       const tMin = th * 60 + tm;
       const dist = Math.abs(tMin - totalMin);
@@ -49,6 +52,78 @@
       }
     }
     return bestTime;
+  }
+
+  // --- Highlight time expression in quote text ---
+  function highlightTime(text, time) {
+    const [h, m] = time.split(':').map(Number);
+    
+    // Build patterns to match
+    const patterns = [];
+    
+    // Digital formats: "10:30", "10.30"
+    const hh = String(h).padStart(2, '0');
+    const mm = String(m).padStart(2, '0');
+    const h12 = h > 12 ? h - 12 : (h === 0 ? 12 : h);
+    
+    patterns.push(hh + ':' + mm);
+    patterns.push(hh + '.' + mm);
+    patterns.push(h + ':' + mm);
+    patterns.push(h12 + ':' + mm);
+    if (m === 0) {
+      patterns.push(h12 + " o'clock");
+      patterns.push(h12 + " o'clock");
+      patterns.push(h12 + ' oclock');
+    }
+    
+    // AM/PM variants
+    const ampm = h < 12 ? 'a\\.?m\\.?' : 'p\\.?m\\.?';
+    patterns.push(h12 + ':' + mm + '\\s*' + ampm);
+    if (m === 0) {
+      patterns.push(h12 + '\\s*' + ampm);
+    }
+    
+    // Word-based times
+    const wordNums = [
+      'twelve', 'one', 'two', 'three', 'four', 'five', 'six',
+      'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve'
+    ];
+    const hourWord = wordNums[h12];
+    const minuteWords = {
+      0: null, 15: 'fifteen', 30: 'thirty', 45: 'forty-five',
+      10: 'ten', 20: 'twenty', 5: 'five', 25: 'twenty-five',
+      35: 'thirty-five', 40: 'forty', 50: 'fifty', 55: 'fifty-five'
+    };
+    
+    if (m === 0) {
+      patterns.push(hourWord + " o'clock");
+      patterns.push(hourWord + ' o.clock');
+    }
+    if (m === 30) {
+      patterns.push('half\\s+past\\s+' + hourWord);
+    }
+    if (m === 15) {
+      patterns.push('(?:a\\s+)?quarter\\s+past\\s+' + hourWord);
+    }
+    if (m === 45) {
+      const nextHour = wordNums[(h12 % 12) + 1];
+      patterns.push('(?:a\\s+)?quarter\\s+to\\s+' + nextHour);
+    }
+    
+    // "noon", "midnight"
+    if (h === 12 && m === 0) patterns.push('noon', 'midday');
+    if (h === 0 && m === 0) patterns.push('midnight');
+    
+    // Try each pattern
+    for (const pat of patterns) {
+      const regex = new RegExp('(' + pat + ')', 'gi');
+      if (regex.test(text)) {
+        return text.replace(regex, '<span class="time-highlight">$1</span>');
+      }
+    }
+    
+    // No match found — return plain text
+    return null;
   }
 
   // --- Display a quote with fade transition ---
@@ -64,40 +139,95 @@
 
     setTimeout(() => {
       if (quote) {
-        // Truncate very long quotes
         let text = quote.quote;
         if (text.length > 500) {
           text = text.substring(0, 497) + '…';
         }
+
+        // Try to highlight time in quote
+        const displayTime = browseTime || currentTime;
+        const highlighted = highlightTime(text, displayTime);
         
-        quoteEl.textContent = text;
+        if (highlighted) {
+          quoteEl.innerHTML = highlighted;
+        } else {
+          quoteEl.textContent = text;
+        }
+
         quoteEl.classList.toggle('long', text.length > 300);
         authorEl.textContent = quote.author || '';
         titleEl.textContent = quote.title || '';
       } else {
-        quoteEl.textContent = '';
+        quoteEl.innerHTML = '';
         authorEl.textContent = '';
         titleEl.textContent = '';
       }
 
-      timeEl.textContent = currentTime;
+      // Show time with browse indicator
+      if (browseTime) {
+        timeEl.textContent = browseTime + '  ◆';
+        timeEl.style.color = 'var(--accent)';
+      } else {
+        timeEl.textContent = currentTime;
+        timeEl.style.color = '';
+      }
 
       // Fade in
       container.classList.add('visible');
     }, 600);
   }
 
-  // --- Check time and update ---
+  // --- Show quote for a specific time ---
+  function showTimeQuote(time) {
+    const matchTime = findNearest(time);
+    const quote = pickQuote(matchTime);
+    displayQuote(quote);
+  }
+
+  // --- Check time and update (live mode only) ---
   function tick() {
     const now = new Date();
     const time = formatTime(now);
 
     if (time !== currentTime) {
       currentTime = time;
-      const matchTime = findNearest(time);
-      const quote = pickQuote(matchTime);
-      displayQuote(quote);
+      if (!browseTime) {
+        showTimeQuote(time);
+      }
     }
+  }
+
+  // --- Navigate to adjacent time slot ---
+  function navigateTime(direction) {
+    const active = browseTime || currentTime;
+    const idx = sortedTimes.indexOf(findNearest(active));
+    if (idx === -1) return;
+
+    let newIdx = idx + direction;
+    if (newIdx < 0) newIdx = sortedTimes.length - 1;
+    if (newIdx >= sortedTimes.length) newIdx = 0;
+
+    browseTime = sortedTimes[newIdx];
+    showTimeQuote(browseTime);
+    showNavHint();
+  }
+
+  // --- Return to live mode ---
+  function goLive() {
+    browseTime = null;
+    currentTime = '';  // force refresh
+    tick();
+  }
+
+  // --- Show keyboard nav hint briefly ---
+  function showNavHint() {
+    const hint = document.getElementById('nav-hint');
+    if (!hint) return;
+    hint.classList.add('visible');
+    clearTimeout(navHintTimer);
+    navHintTimer = setTimeout(() => {
+      hint.classList.remove('visible');
+    }, 3000);
   }
 
   // --- Idle cursor hide ---
@@ -111,11 +241,46 @@
 
   // --- Click for next quote at same time ---
   function nextQuote() {
-    const matchTime = findNearest(currentTime);
+    const time = browseTime || currentTime;
+    const matchTime = findNearest(time);
     const candidates = quotesByTime[matchTime];
     if (candidates && candidates.length > 1) {
-      const quote = pickQuote(matchTime);
-      displayQuote(quote);
+      showTimeQuote(matchTime);
+    }
+  }
+
+  // --- Keyboard handler ---
+  function onKeyDown(e) {
+    switch (e.key) {
+      case 'ArrowLeft':
+        e.preventDefault();
+        navigateTime(-1);
+        break;
+      case 'ArrowRight':
+        e.preventDefault();
+        navigateTime(1);
+        break;
+      case ' ':
+        e.preventDefault();
+        nextQuote();
+        break;
+      case 'Escape':
+        if (browseTime) {
+          e.preventDefault();
+          goLive();
+        } else if (document.fullscreenElement) {
+          document.exitFullscreen();
+        }
+        break;
+      case 'f':
+      case 'F':
+        e.preventDefault();
+        if (!document.fullscreenElement) {
+          document.documentElement.requestFullscreen().catch(() => {});
+        } else {
+          document.exitFullscreen();
+        }
+        break;
     }
   }
 
@@ -130,6 +295,7 @@
     }
 
     quotesByTime = indexQuotes(allQuotes);
+    sortedTimes = Object.keys(quotesByTime).sort();
 
     // Initial display
     currentTime = '';
@@ -140,6 +306,9 @@
 
     // Click/tap for next quote
     document.getElementById('clock').addEventListener('click', nextQuote);
+
+    // Keyboard navigation
+    document.addEventListener('keydown', onKeyDown);
 
     // Idle cursor
     document.addEventListener('mousemove', resetIdle);
@@ -154,6 +323,9 @@
         document.exitFullscreen();
       }
     });
+
+    // Show nav hint on first load for 4 seconds
+    setTimeout(() => showNavHint(), 2000);
   }
 
   if (document.readyState === 'loading') {
