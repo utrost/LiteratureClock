@@ -16,6 +16,7 @@ Dependencies:
 
 import argparse
 import csv
+import hashlib
 import re
 import sys
 import os
@@ -90,6 +91,45 @@ MORNING_HINTS = re.compile(
     r'morning|dawn|sunrise|breakfast|am|a\.m\.',
     re.IGNORECASE
 )
+
+
+# ── Time jitter for qualifying words ─────────────────────────────────────
+
+QUALIFIER_PATTERNS = [
+    # "a little after", "shortly after", "just after"
+    (re.compile(r'(a little|shortly|just|slightly) after', re.I), 1, 5),
+    # "a little before", "shortly before", "just before"
+    (re.compile(r'(a little|shortly|just|slightly) before', re.I), -5, -1),
+    # "nearly X o'clock"
+    (re.compile(r'nearly \w+ o.clock|nearly \w+$', re.I), -5, -1),
+    # "almost X"
+    (re.compile(r'almost \w+ o.clock', re.I), -5, -1),
+    # "about X o'clock", "about X in the"
+    (re.compile(r'about \w+ o.clock|about \w+ in the', re.I), -5, 5),
+    # "a few minutes past/after"
+    (re.compile(r'(few minutes|a little) (past|after) \w+', re.I), 1, 5),
+]
+
+
+def apply_qualifier_jitter(minutes: int, quote: str) -> int:
+    """Apply deterministic time jitter based on qualifying words in the quote.
+
+    Rules:
+        "about"           → ±1–5 min
+        "nearly/almost"   → -1–5 min (slightly before)
+        "a little after"  → +1–5 min
+        "a little before" → -1–5 min
+
+    Jitter is deterministic: seeded from the quote text, so the same quote
+    always produces the same offset.
+    """
+    for pattern, min_off, max_off in QUALIFIER_PATTERNS:
+        if pattern.search(quote):
+            h = int(hashlib.sha256(quote.encode()).hexdigest(), 16)
+            spread = max_off - min_off + 1
+            offset = min_off + (h % spread)
+            return max(0, min(1439, minutes + offset))
+    return minutes
 
 
 def word_to_hour(w: str) -> int | None:
@@ -334,6 +374,13 @@ def main():
 
     # Output
     out = sys.stdout if args.output == '-' else open(args.output, 'w', newline='', encoding='utf-8')
+
+    # Apply qualifier jitter (deterministic offset for "about", "nearly", etc.)
+    for q in all_quotes:
+        q.minutes = apply_qualifier_jitter(q.minutes, q.quote)
+
+    # Re-sort after jitter
+    all_quotes.sort(key=lambda q: q.minutes)
 
     if args.json:
         import json
