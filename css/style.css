@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-/* Dark theme (default) */
+/* === Theme: Classic (default) — warm, literary === */
 :root {
   --bg: #0d0d0d;
   --text: #e8e4df;
@@ -12,15 +12,83 @@
   --text-time: #3a3632;
   --accent: #c9b99a;
   --transition: 1.2s ease;
+  --font-quote: 'Cormorant Garamond', 'Georgia', serif;
+  --font-ui: 'Inter', sans-serif;
+  --quote-weight: 300;
+  --quote-style: italic;
+  --quote-spacing: 0.01em;
+  --quote-line-height: 1.6;
+  --show-guillemet: block;
 }
 
-/* Light theme */
-[data-theme="light"] {
+[data-theme="classic-light"] {
   --bg: #f5f2ed;
   --text: #1a1a1a;
   --text-dim: #8a8580;
   --text-time: #b8b3ad;
   --accent: #7a6b52;
+}
+
+/* === Theme: Swiss — clean, minimal, Helvetica-on-white === */
+[data-theme="swiss-light"] {
+  --bg: #ffffff;
+  --text: #111111;
+  --text-dim: #777777;
+  --text-time: #bbbbbb;
+  --accent: #111111;
+  --font-quote: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  --font-ui: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  --quote-weight: 300;
+  --quote-style: normal;
+  --quote-spacing: -0.01em;
+  --quote-line-height: 1.5;
+  --show-guillemet: none;
+}
+
+[data-theme="swiss-dark"] {
+  --bg: #111111;
+  --text: #f0f0f0;
+  --text-dim: #777777;
+  --text-time: #444444;
+  --accent: #f0f0f0;
+  --font-quote: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  --font-ui: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  --quote-weight: 300;
+  --quote-style: normal;
+  --quote-spacing: -0.01em;
+  --quote-line-height: 1.5;
+  --show-guillemet: none;
+}
+
+/* === Theme: Typewriter — monospace, raw === */
+[data-theme="typewriter-light"] {
+  --bg: #f8f5f0;
+  --text: #222222;
+  --text-dim: #888888;
+  --text-time: #cccccc;
+  --accent: #444444;
+  --font-quote: 'IBM Plex Mono', 'Courier New', monospace;
+  --font-ui: 'IBM Plex Mono', 'Courier New', monospace;
+  --quote-weight: 400;
+  --quote-style: normal;
+  --quote-spacing: 0;
+  --quote-line-height: 1.7;
+  --show-guillemet: none;
+}
+
+[data-theme="typewriter-dark"] {
+  --bg: #1a1a17;
+  --text: #d4cfc6;
+  --text-dim: #6b6860;
+  --text-time: #3a3832;
+  --accent: #a09880;
+  --font-quote: 'IBM Plex Mono', 'Courier New', monospace;
+  --font-ui: 'IBM Plex Mono', 'Courier New', monospace;
+  --quote-weight: 400;
+  --quote-style: normal;
+  --quote-spacing: 0;
+  --quote-line-height: 1.7;
+  --show-guillemet: none;
 }
 
 html, body {
@@ -30,7 +98,7 @@ html, body {
 body {
   background: var(--bg);
   color: var(--text);
-  font-family: 'Cormorant Garamond', 'Georgia', serif;
+  font-family: var(--font-quote);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -38,6 +106,7 @@ body {
   min-height: 100vh;
   padding: 2rem;
   overflow: hidden;
+  transition: background 0.6s ease, color 0.6s ease;
 }
 
 /* === Main Clock === */
@@ -64,10 +133,10 @@ body {
 
 blockquote {
   font-size: clamp(1.4rem, 3.5vw, 2.2rem);
-  font-weight: 300;
-  font-style: italic;
-  line-height: 1.6;
-  letter-spacing: 0.01em;
+  font-weight: var(--quote-weight);
+  font-style: var(--quote-style);
+  line-height: var(--quote-line-height);
+  letter-spacing: var(--quote-spacing);
   margin-bottom: 2.5rem;
   max-height: 60vh;
   overflow: hidden;
@@ -75,7 +144,7 @@ blockquote {
 
 blockquote::before {
   content: '\201C';
-  display: block;
+  display: var(--show-guillemet);
   font-size: 4rem;
   color: var(--text-dim);
   line-height: 0.5;
@@ -92,7 +161,7 @@ cite {
 }
 
 #author {
-  font-family: 'Inter', sans-serif;
+  font-family: var(--font-ui);
   font-size: 0.85rem;
   font-weight: 400;
   letter-spacing: 0.15em;
@@ -109,7 +178,7 @@ cite {
 
 /* === Time === */
 #time-display {
-  font-family: 'Inter', sans-serif;
+  font-family: var(--font-ui);
   font-size: 0.75rem;
   font-weight: 300;
   letter-spacing: 0.3em;
@@ -126,7 +195,7 @@ footer {
 }
 
 footer a {
-  font-family: 'Inter', sans-serif;
+  font-family: var(--font-ui);
   font-size: 0.65rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -150,8 +219,9 @@ body.idle footer {
 }
 
 /* === Theme Toggle === */
-#theme-toggle {
-  font-family: 'Inter', sans-serif;
+#theme-toggle,
+#style-toggle {
+  font-family: var(--font-ui);
   font-size: 0.65rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -163,11 +233,13 @@ body.idle footer {
   transition: color 0.3s ease;
 }
 
-#theme-toggle:hover {
+#theme-toggle:hover,
+#style-toggle:hover {
   color: var(--text-dim);
 }
 
-body.idle #theme-toggle {
+body.idle #theme-toggle,
+body.idle #style-toggle {
   opacity: 0;
   transition: opacity 2s ease;
 }
@@ -202,7 +274,7 @@ blockquote.long {
 
 /* === Keyboard nav hint === */
 #nav-hint {
-  font-family: 'Inter', sans-serif;
+  font-family: var(--font-ui);
   font-size: 0.6rem;
   letter-spacing: 0.15em;
   color: var(--text-time);

@@ -284,33 +284,70 @@
     }
   }
 
-  // --- Theme Toggle ---
-  function initTheme() {
-    const saved = localStorage.getItem('theme');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    const theme = saved || (prefersDark ? 'dark' : 'light');
-    applyTheme(theme);
+  // --- Theme System ---
+  // Styles: classic, swiss, typewriter
+  // Each style has a dark and light variant
+  const STYLES = ['classic', 'swiss', 'typewriter'];
+  const STYLE_LABELS = { classic: 'Classic', swiss: 'Swiss', typewriter: 'Typewriter' };
+
+  function getStyle() {
+    return localStorage.getItem('lc-style') || 'classic';
   }
 
-  function applyTheme(theme) {
-    if (theme === 'light') {
-      document.documentElement.setAttribute('data-theme', 'light');
+  function getMode() {
+    const saved = localStorage.getItem('lc-mode');
+    if (saved) return saved;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+
+  function applyTheme() {
+    const style = getStyle();
+    const mode = getMode();
+
+    // Map to data-theme attribute
+    let theme;
+    if (style === 'classic') {
+      theme = mode === 'light' ? 'classic-light' : null; // null = default (dark)
+    } else {
+      theme = `${style}-${mode}`;
+    }
+
+    if (theme) {
+      document.documentElement.setAttribute('data-theme', theme);
     } else {
       document.documentElement.removeAttribute('data-theme');
     }
-    localStorage.setItem('theme', theme);
-    updateToggleLabel(theme);
+
+    // Update button labels
+    const modeBtn = document.getElementById('theme-toggle');
+    if (modeBtn) modeBtn.textContent = mode === 'dark' ? '☀ Light' : '● Dark';
+
+    const styleBtn = document.getElementById('style-toggle');
+    if (styleBtn) styleBtn.textContent = 'Style: ' + STYLE_LABELS[style];
   }
 
-  function updateToggleLabel(theme) {
-    const btn = document.getElementById('theme-toggle');
-    if (!btn) return;
-    btn.textContent = theme === 'dark' ? '☀ Light' : '● Dark';
+  function initTheme() {
+    // Migrate old 'theme' key to new system
+    const legacy = localStorage.getItem('theme');
+    if (legacy && !localStorage.getItem('lc-mode')) {
+      localStorage.setItem('lc-mode', legacy);
+      localStorage.removeItem('theme');
+    }
+    applyTheme();
   }
 
   function toggleTheme() {
-    const current = localStorage.getItem('theme') || 'dark';
-    applyTheme(current === 'dark' ? 'light' : 'dark');
+    const mode = getMode() === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('lc-mode', mode);
+    applyTheme();
+  }
+
+  function cycleStyle() {
+    const current = getStyle();
+    const idx = STYLES.indexOf(current);
+    const next = STYLES[(idx + 1) % STYLES.length];
+    localStorage.setItem('lc-style', next);
+    applyTheme();
   }
 
   // --- Init ---
@@ -353,9 +390,10 @@
       }
     });
 
-    // Theme toggle
+    // Theme + Style toggles
     initTheme();
     document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
+    document.getElementById('style-toggle').addEventListener('click', cycleStyle);
 
     // Show nav hint on first load for 4 seconds
     setTimeout(() => showNavHint(), 2000);
