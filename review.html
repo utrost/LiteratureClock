@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Literature Clock — Quote Review</title>
+<style>
+  :root { --bg: #1a1a2e; --card: #16213e; --text: #e0e0e0; --accent: #0f3460; --green: #2ecc71; --red: #e74c3c; --yellow: #f39c12; --dim: #666; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Georgia', serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+  
+  .header { background: var(--accent); padding: 1rem; text-align: center; position: sticky; top: 0; z-index: 10; }
+  .header h1 { font-size: 1.2rem; margin-bottom: 0.3rem; }
+  .stats { font-size: 0.85rem; color: #aaa; }
+  .stats span { margin: 0 0.5rem; }
+  .stats .done { color: var(--green); }
+  .stats .removed { color: var(--red); }
+  
+  .filters { display: flex; gap: 0.5rem; justify-content: center; margin-top: 0.5rem; flex-wrap: wrap; }
+  .filters button { padding: 0.3rem 0.8rem; border: 1px solid #444; border-radius: 1rem; background: transparent; color: #ccc; cursor: pointer; font-size: 0.8rem; }
+  .filters button.active { background: var(--accent); border-color: var(--accent); color: white; }
+  
+  .card { background: var(--card); margin: 0.8rem; padding: 1.2rem; border-radius: 0.5rem; border-left: 4px solid var(--accent); transition: opacity 0.3s; }
+  .card.decided { opacity: 0.4; border-left-color: var(--dim); }
+  .card.decided.accepted { border-left-color: var(--green); }
+  .card.decided.removed { border-left-color: var(--red); }
+  
+  .card-meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.6rem; flex-wrap: wrap; gap: 0.3rem; }
+  .time-badge { background: var(--accent); padding: 0.2rem 0.6rem; border-radius: 0.3rem; font-family: monospace; font-size: 1.1rem; font-weight: bold; }
+  .match-info { font-size: 0.75rem; color: var(--yellow); }
+  .confidence { font-size: 0.7rem; padding: 0.15rem 0.4rem; border-radius: 0.2rem; }
+  .confidence.medium { background: #7f8c8d33; color: var(--yellow); }
+  .confidence.low { background: #e74c3c33; color: var(--red); }
+  
+  .quote-text { font-style: italic; line-height: 1.6; margin-bottom: 0.5rem; font-size: 0.95rem; }
+  .quote-text mark { background: var(--yellow); color: #000; padding: 0 0.15rem; border-radius: 2px; }
+  .attribution { font-size: 0.8rem; color: #999; margin-bottom: 0.8rem; }
+  
+  .actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+  .actions button { padding: 0.5rem 1rem; border: none; border-radius: 0.3rem; cursor: pointer; font-size: 0.85rem; font-weight: bold; transition: transform 0.1s; }
+  .actions button:active { transform: scale(0.95); }
+  .btn-accept { background: var(--green); color: white; }
+  .btn-pm { background: #3498db; color: white; }
+  .btn-remove { background: var(--red); color: white; }
+  .btn-undo { background: #555; color: #ddd; font-size: 0.75rem; }
+  .decision-label { font-size: 0.85rem; font-weight: bold; margin-left: auto; padding: 0.3rem 0.6rem; border-radius: 0.3rem; }
+  .decision-label.accepted { background: var(--green); color: white; }
+  .decision-label.removed { background: var(--red); color: white; }
+  
+  .export-bar { position: fixed; bottom: 0; left: 0; right: 0; background: var(--accent); padding: 0.8rem; display: flex; justify-content: center; gap: 1rem; z-index: 10; }
+  .export-bar button { padding: 0.6rem 1.5rem; border: none; border-radius: 0.3rem; cursor: pointer; font-weight: bold; font-size: 0.9rem; }
+  .btn-export { background: var(--green); color: white; }
+  .btn-clear { background: #555; color: #ddd; }
+  
+  .empty { text-align: center; padding: 3rem; color: #666; }
+  .pad-bottom { height: 4rem; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>📚 Literature Clock — Quote Review</h1>
+  <div class="stats">
+    <span id="total"></span> quotes · 
+    <span class="done" id="accepted-count">0 ✓</span> · 
+    <span class="removed" id="removed-count">0 ✗</span> · 
+    <span id="remaining-count"></span> remaining
+  </div>
+  <div class="filters">
+    <button class="active" data-filter="pending">Pending</button>
+    <button data-filter="all">All</button>
+    <button data-filter="medium">Medium</button>
+    <button data-filter="low">Low</button>
+    <button data-filter="decided">Decided</button>
+  </div>
+</div>
+
+<div id="cards"></div>
+<div class="pad-bottom"></div>
+
+<div class="export-bar">
+  <button class="btn-export" onclick="exportDecisions()">💾 Export Decisions</button>
+  <button class="btn-clear" onclick="clearDecisions()">🗑️ Reset All</button>
+</div>
+
+<script>
+let QUOTES = []; // loaded from review-data.json
+let decisions = {}; // id -> { action: "accept"|"remove", time?: "HH:MM" }
+let currentFilter = 'pending';
+
+async function init() {
+  const resp = await fetch('data/review-queue.json');
+  QUOTES = await resp.json();
+  // assign IDs
+  QUOTES.forEach((q, i) => q._id = i);
+  // load saved decisions
+  const saved = localStorage.getItem('litclock-review');
+  if (saved) decisions = JSON.parse(saved);
+  render();
+}
+
+function save() {
+  localStorage.setItem('litclock-review', JSON.stringify(decisions));
+  updateStats();
+}
+
+function updateStats() {
+  const accepted = Object.values(decisions).filter(d => d.action === 'accept').length;
+  const removed = Object.values(decisions).filter(d => d.action === 'remove').length;
+  document.getElementById('total').textContent = QUOTES.length;
+  document.getElementById('accepted-count').textContent = accepted + ' ✓';
+  document.getElementById('removed-count').textContent = removed + ' ✗';
+  document.getElementById('remaining-count').textContent = (QUOTES.length - accepted - removed);
+}
+
+function togglePM(timeStr) {
+  const [h, m] = timeStr.split(':').map(Number);
+  if (h < 12) return `${String(h + 12).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+  return `${String(h - 12).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+}
+
+function highlightMatch(text, match) {
+  if (!match) return text;
+  const idx = text.toLowerCase().indexOf(match.toLowerCase());
+  if (idx === -1) return text;
+  return text.slice(0, idx) + '<mark>' + text.slice(idx, idx + match.length) + '</mark>' + text.slice(idx + match.length);
+}
+
+function decide(id, action, time) {
+  if (action === 'remove') {
+    decisions[id] = { action: 'remove' };
+  } else {
+    decisions[id] = { action: 'accept', time: time };
+  }
+  save();
+  render();
+}
+
+function undoDecision(id) {
+  delete decisions[id];
+  save();
+  render();
+}
+
+function render() {
+  const container = document.getElementById('cards');
+  let filtered = QUOTES.filter(q => {
+    const d = decisions[q._id];
+    if (currentFilter === 'pending') return !d;
+    if (currentFilter === 'decided') return !!d;
+    if (currentFilter === 'medium') return q.confidence === 'medium' && !d;
+    if (currentFilter === 'low') return q.confidence === 'low' && !d;
+    return true; // all
+  });
+
+  if (filtered.length === 0) {
+    container.innerHTML = '<div class="empty">No quotes matching this filter. 🎉</div>';
+    updateStats();
+    return;
+  }
+
+  container.innerHTML = filtered.map(q => {
+    const d = decisions[q._id];
+    const decided = d ? 'decided' : '';
+    const decClass = d ? (d.action === 'accept' ? 'accepted' : 'removed') : '';
+    const pmTime = togglePM(q.time);
+    
+    return `<div class="card ${decided} ${decClass}">
+      <div class="card-meta">
+        <span class="time-badge">${d && d.time ? d.time : q.time}</span>
+        <span class="match-info">matched: "${q.time_match}"</span>
+        <span class="confidence ${q.confidence}">${q.confidence}</span>
+      </div>
+      <div class="quote-text">"${highlightMatch(q.quote, q.time_match)}"</div>
+      <div class="attribution">— ${q.author}, <em>${q.title}</em></div>
+      <div class="actions">
+        ${d ? `
+          <span class="decision-label ${decClass}">${d.action === 'accept' ? '✓ ' + d.time : '✗ Removed'}</span>
+          <button class="btn-undo" onclick="undoDecision(${q._id})">↩ Undo</button>
+        ` : `
+          <button class="btn-accept" onclick="decide(${q._id},'accept','${q.time}')">✓ ${q.time} (AM)</button>
+          <button class="btn-pm" onclick="decide(${q._id},'accept','${pmTime}')">✓ ${pmTime} (PM)</button>
+          <button class="btn-remove" onclick="decide(${q._id},'remove')">✗ Remove</button>
+        `}
+      </div>
+    </div>`;
+  }).join('');
+  
+  updateStats();
+}
+
+function exportDecisions() {
+  const result = Object.entries(decisions).map(([id, d]) => {
+    const q = QUOTES[parseInt(id)];
+    return { ...d, original_time: q.time, quote_start: q.quote.slice(0, 80), author: q.author, title: q.title };
+  });
+  const blob = new Blob([JSON.stringify(result, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'review-decisions.json';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+function clearDecisions() {
+  if (!confirm('Reset all decisions? This cannot be undone.')) return;
+  decisions = {};
+  localStorage.removeItem('litclock-review');
+  render();
+}
+
+// Filter buttons
+document.querySelectorAll('.filters button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.filters button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentFilter = btn.dataset.filter;
+    render();
+  });
+});
+
+init();
+</script>
+</body>
+</html>
