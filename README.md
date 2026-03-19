@@ -6,7 +6,9 @@ A minimal web clock that displays a literary quote matching the current time. Ev
 
 **[→ Try it live](https://simiono.com/clock/)** · **[Read the essay](https://simiono.com/Literature-Clock.html)**
 
-![Literature Clock — L. M. Montgomery, Anne of Green Gables](docs/screenshot-web.jpg)
+| Web | Android PWA |
+|:---:|:---:|
+| ![Web](docs/screenshot-web.jpg) | ![Android PWA](docs/screenshot-pwa-android.jpg) |
 
 ## The Clock
 
