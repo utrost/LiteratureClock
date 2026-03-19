@@ -113,10 +113,12 @@ function updateStats() {
   document.getElementById('remaining-count').textContent = (QUOTES.length - accepted - removed);
 }
 
-function togglePM(timeStr) {
+function amPm(timeStr) {
   const [h, m] = timeStr.split(':').map(Number);
-  if (h < 12) return `${String(h + 12).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
-  return `${String(h - 12).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+  const fmt = (hr) => `${String(hr).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+  const am = h >= 12 ? fmt(h - 12) : fmt(h);
+  const pm = h < 12 ? fmt(h + 12) : fmt(h);
+  return { am, pm };
 }
 
 function highlightMatch(text, match) {
@@ -163,7 +165,7 @@ function render() {
     const d = decisions[q._id];
     const decided = d ? 'decided' : '';
     const decClass = d ? (d.action === 'accept' ? 'accepted' : 'removed') : '';
-    const pmTime = togglePM(q.time);
+    const { am, pm } = amPm(q.time);
     
     return `<div class="card ${decided} ${decClass}">
       <div class="card-meta">
@@ -178,8 +180,8 @@ function render() {
           <span class="decision-label ${decClass}">${d.action === 'accept' ? '✓ ' + d.time : '✗ Removed'}</span>
           <button class="btn-undo" onclick="undoDecision(${q._id})">↩ Undo</button>
         ` : `
-          <button class="btn-accept" onclick="decide(${q._id},'accept','${q.time}')">✓ ${q.time} (AM)</button>
-          <button class="btn-pm" onclick="decide(${q._id},'accept','${pmTime}')">✓ ${pmTime} (PM)</button>
+          <button class="btn-accept" onclick="decide(${q._id},'accept','${am}')">✓ ${am} (AM)</button>
+          <button class="btn-pm" onclick="decide(${q._id},'accept','${pm}')">✓ ${pm} (PM)</button>
           <button class="btn-remove" onclick="decide(${q._id},'remove')">✗ Remove</button>
         `}
       </div>
