@@ -6,6 +6,8 @@ A minimal web clock that displays a literary quote matching the current time. Ev
 
 **[→ Try it live](https://simiono.com/clock/)** · **[Read the essay](https://simiono.com/Literature-Clock.html)**
 
+![Literature Clock — L. M. Montgomery, Anne of Green Gables](docs/screenshot-web.jpg)
+
 ## The Clock
 
 A single screen. The time. A quote. The book. The author. Nothing else.
@@ -19,9 +21,7 @@ The clock cycles through curated literary excerpts where the current time is exp
 
 ## Collection
 
-**910 quotes** from **374 authors** across **399 unique time slots**.
-
-Top contributors: Mark Haddon (56), Steve Toltz (24), David Foster Wallace (23), Sophie Kinsella (23), Douglas Adams (20), Haruki Murakami (19).
+**996 quotes** from **252 authors** across **311 unique time slots**.
 
 Quotes stored as JSON in `data/quotes.json`:
 
@@ -56,16 +56,15 @@ python3 scripts/extract-quotes.py *.epub --confidence high --json
 
 ## Roadmap
 
-- [x] Import existing quote collection → JSON (910 quotes)
 - [x] Static site with time-based quote display
 - [x] Typography selection (Cormorant Garamond)
 - [x] Deploy to simiono.com
-- [x] ePub quote extraction tool
+- [x] ePub quote extraction tool with confidence scoring
+- [x] PWA manifest + service worker for offline
+- [x] Batch ePub processing pipeline with review queue
 - [ ] Parse more books — grow the collection
 - [ ] Fill time gaps (minutes without any quote)
 - [ ] Smooth fade transitions between minutes
-- [ ] Multiple quotes per time slot (random cycle)
-- [ ] PWA manifest + service worker for offline
 - [ ] Screensaver builds (macOS, Windows)
 - [ ] German quotes as secondary collection
 
