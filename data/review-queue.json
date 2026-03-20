@@ -32,22 +32,6 @@
     "time_match": "at 3:29"
   },
   {
-    "time": "06:21",
-    "quote": "If such things were logged, the first phone call would have been recorded at 6:21. “Diggers are here, coming up the drive, two of them. . . .",
-    "title": "The Thursday Murder Club",
-    "author": "Richard Osman",
-    "confidence": "medium",
-    "time_match": "at 6:21"
-  },
-  {
-    "time": "09:17",
-    "quote": "Secondly, Elizabeth rang at 9:17, and we’re off to Folkestone.",
-    "title": "The Thursday Murder Club",
-    "author": "Richard Osman",
-    "confidence": "medium",
-    "time_match": "at 9:17"
-  },
-  {
     "time": "03:00",
     "quote": "…over, then turns to Corrie. “When is your rent-a-cop due?” “He’ll meet me—both of us, if you want—in the lobby at three o’clock.",
     "title": "Never Flinch",
@@ -86,14 +70,6 @@
     "author": "Stephen King",
     "confidence": "medium",
     "time_match": "Quarter past seven"
-  },
-  {
-    "time": "02:00",
-    "quote": "Instead, Maisie reminds him of his two o’clock dentist’s appointment.",
-    "title": "Never Flinch",
-    "author": "Stephen King",
-    "confidence": "medium",
-    "time_match": "two o’clock"
   },
   {
     "time": "01:15",
@@ -136,52 +112,12 @@
     "time_match": "two o’clock"
   },
   {
-    "time": "06:15",
-    "quote": "At 6:15 or 6:20, you escort her downstairs.",
-    "title": "Never Flinch",
-    "author": "Stephen King",
-    "confidence": "medium",
-    "time_match": "At 6:15"
-  },
-  {
-    "time": "02:45",
-    "quote": "Corrie comes down at quarter to three and tells Kate she might want to get out of the water.",
-    "title": "Never Flinch",
-    "author": "Stephen King",
-    "confidence": "medium",
-    "time_match": "quarter to three"
-  },
-  {
-    "time": "19:17",
-    "quote": "If all goes as he hopes, tomorrow evening at 7:17 there will be a crowd milling in and around the Mingo, wondering where their idol is.",
-    "title": "Never Flinch",
-    "author": "Stephen King",
-    "confidence": "medium",
-    "time_match": "at 7:17"
-  },
-  {
-    "time": "05:30",
-    "quote": "Barbara: Pick her up there at 5:30 she said and bring her to the Garden City Plaza.",
-    "title": "Never Flinch",
-    "author": "Stephen King",
-    "confidence": "medium",
-    "time_match": "at 5:30"
-  },
-  {
     "time": "03:00",
     "quote": "I’ll be pouring him out of here around three o’clock , he thinks, but the guy is still relatively sober, so John pours him another drink but tells him to slow down. “What?” Robbie asks. “Wasn’t talking to you.",
     "title": "Never Flinch",
     "author": "Stephen King",
     "confidence": "medium",
     "time_match": "three o’clock"
-  },
-  {
-    "time": "07:17",
-    "quote": "The signboard needs to change at 7:17, while the game is going on at Dingley and at the Mingo the crowds are wondering where the hell Kate is.",
-    "title": "Never Flinch",
-    "author": "Stephen King",
-    "confidence": "medium",
-    "time_match": "at 7:17"
   },
   {
     "time": "04:45",
@@ -217,27 +153,11 @@
   },
   {
     "time": "07:40",
-    "quote": "I want you here at the Holman Rink at 7:40.",
-    "title": "Never Flinch",
-    "author": "Stephen King",
-    "confidence": "medium",
-    "time_match": "at 7:40"
-  },
-  {
-    "time": "07:40",
     "quote": "If I don’t hear a knock at 7:40, I’ll shoot her.",
     "title": "Never Flinch",
     "author": "Stephen King",
     "confidence": "medium",
     "time_match": "at 7:40"
-  },
-  {
-    "time": "07:40",
-    "quote": "She can make it by 7:40, but her margin for error is melting away.",
-    "title": "Never Flinch",
-    "author": "Stephen King",
-    "confidence": "medium",
-    "time_match": "by 7:40"
   },
   {
     "time": "07:40",
@@ -272,14 +192,6 @@
     "time_match": "eight o’clock in the morning"
   },
   {
-    "time": "11:00",
-    "quote": "I promised Norma Banks I would meet her at the Supreme Court building, Nassau County, at eleven o’clock, traffic on the Long Island Expressway and Northern State permitting.",
-    "title": "The Hamptons Lawyer",
-    "author": "James Patterson",
-    "confidence": "medium",
-    "time_match": "eleven o’clock"
-  },
-  {
     "time": "04:55",
     "quote": "It is a little before five o’clock when the last prospective juror of the long day sits down.",
     "title": "The Hamptons Lawyer",
@@ -304,32 +216,8 @@
     "time_match": "one o’clock"
   },
   {
-    "time": "08:06",
-    "quote": "The dashboard clock says 8:06 when she comes walking out the door and straight for Jimmy’s car.",
-    "title": "The Hamptons Lawyer",
-    "author": "James Patterson",
-    "confidence": "medium",
-    "time_match": "says 8:06"
-  },
-  {
     "time": "09:00",
     "quote": "…clock behind me, waiting for the moment when the two of us will make the walk down the hallway a few minutes before nine o’clock.",
-    "title": "The Hamptons Lawyer",
-    "author": "James Patterson",
-    "confidence": "medium",
-    "time_match": "nine o’clock"
-  },
-  {
-    "time": "05:00",
-    "quote": "In normal circumstances, my only immediate goal once this day in court had mercifully ended at five o’clock would be getting home, getting in a long beach walk with Rip no matter what the hour, followed by an even longer hot bath, followed by rice and beans from Fondita that I’ve been…",
-    "title": "The Hamptons Lawyer",
-    "author": "James Patterson",
-    "confidence": "medium",
-    "time_match": "five o’clock"
-  },
-  {
-    "time": "09:00",
-    "quote": "It takes him about forty minutes to drive over from the bar, but he gets there right on time, nine o’clock.",
     "title": "The Hamptons Lawyer",
     "author": "James Patterson",
     "confidence": "medium",
@@ -398,22 +286,6 @@
     "author": "Jules Verne",
     "confidence": "medium",
     "time_match": "eight o’clock"
-  },
-  {
-    "time": "08:00",
-    "quote": "At noon we were no further advanced than at eight o’clock in the morning.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "eight o’clock in the morning"
-  },
-  {
-    "time": "23:00",
-    "quote": "The collision of the frigate with the cetacean had occurred about eleven\no’clock the evening before.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "eleven\no’clock"
   },
   {
     "time": "01:00",
@@ -536,14 +408,6 @@
     "time_match": "six o’clock in the morning"
   },
   {
-    "time": "10:59",
-    "quote": "As for the savages, they returned to the shore\nabout eleven o’clock in the morning, as soon as the coral tops began to\ndisappear under the rising tide; but I saw their numbers had increased\nconsiderably on the shore.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "eleven o’clock in the morning"
-  },
-  {
     "time": "02:30",
     "quote": "The clock marked\nhalf-past two.",
     "title": "Twenty Thousand Leagues under the Sea",
@@ -584,14 +448,6 @@
     "time_match": "one o’clock"
   },
   {
-    "time": "04:04",
-    "quote": "Nothing on the horizon, till about four o’clock a\nsteamer running west on our counter.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "four o’clock"
-  },
-  {
     "time": "17:00",
     "quote": "At five o’clock in the evening, before that fleeting twilight which binds night\nto day in tropical zones, Conseil and I were astonished by a curious spectacle.",
     "title": "Twenty Thousand Leagues under the Sea",
@@ -616,14 +472,6 @@
     "time_match": "four o’clock"
   },
   {
-    "time": "05:30",
-    "quote": "About half-past five the first tints on the horizon showed the upper line of\ncoast more distinctly.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "half-past five"
-  },
-  {
     "time": "06:00",
     "quote": "At six o’clock it became suddenly daylight, with that rapidity peculiar\nto tropical regions, which know neither dawn nor twilight.",
     "title": "Twenty Thousand Leagues under the Sea",
@@ -638,14 +486,6 @@
     "author": "Jules Verne",
     "confidence": "medium",
     "time_match": "seven o’clock"
-  },
-  {
-    "time": "08:30",
-    "quote": "At half-past eight we were again on board the Nautilus .",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "half-past eight"
   },
   {
     "time": "16:58",
@@ -704,28 +544,12 @@
     "time_match": "nine o’clock"
   },
   {
-    "time": "11:00",
-    "quote": "Let circumstances only favour us, and by ten or eleven o’clock we\nshall have landed on some spot of terra firma, alive or dead.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "eleven o’clock"
-  },
-  {
     "time": "07:00",
     "quote": "I left the table at seven o’clock.",
     "title": "Twenty Thousand Leagues under the Sea",
     "author": "Jules Verne",
     "confidence": "medium",
     "time_match": "seven o’clock"
-  },
-  {
-    "time": "11:30",
-    "quote": "At about half-past eleven the reservoirs were emptied, and our vessel rose to\nthe surface of the ocean.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "half-past eleven"
   },
   {
     "time": "22:56",
@@ -808,14 +632,6 @@
     "time_match": "half-past eleven"
   },
   {
-    "time": "05:00",
-    "quote": "Conseil and I remained to survey the shore,\nobserving and studying until five o’clock.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "five o’clock"
-  },
-  {
     "time": "11:45",
     "quote": "At a quarter to twelve\nthe sun, then seen only by refraction, looked like a golden disc shedding its\nlast rays upon this deserted continent and seas which never man had yet\nploughed.",
     "title": "Twenty Thousand Leagues under the Sea",
@@ -824,28 +640,12 @@
     "time_match": "quarter to twelve"
   },
   {
-    "time": "12:00",
-    "quote": "If the disappearance of the half-disc of the sun coincided with twelve\no’clock on the chronometer, we were at the pole itself. “Twelve!” I exclaimed. “The South Pole!” replied Captain Nemo, in a grave voice, handing me the glass,\nwhich showed the orb cut…",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "twelve\no’clock"
-  },
-  {
     "time": "15:00",
     "quote": "Towards three o’clock in the\nevening this feeling rose to a violent degree.",
     "title": "Twenty Thousand Leagues under the Sea",
     "author": "Jules Verne",
     "confidence": "medium",
     "time_match": "three o’clock in the\nevening"
-  },
-  {
-    "time": "19:00",
-    "quote": "We were off the American point, March 31st, at seven o’clock in the\nevening.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "seven o’clock in the\nevening"
   },
   {
     "time": "11:01",
@@ -880,22 +680,6 @@
     "time_match": "ten o’clock in the\nevening"
   },
   {
-    "time": "14:30",
-    "quote": "It was within 638 miles of the coast of Ireland; and at half-past\ntwo in the afternoon they discovered that communication with Europe had ceased.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "half-past\ntwo"
-  },
-  {
-    "time": "23:00",
-    "quote": "The electricians on board resolved to cut the cable before fishing it up, and\nat eleven o’clock at night they had recovered the damaged part.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "eleven o’clock at night"
-  },
-  {
     "time": "05:00",
     "quote": "At five o’clock, the log showed that the speed of the Nautilus was\nslackening, and I knew that it was allowing them to draw nearer.",
     "title": "Twenty Thousand Leagues under the Sea",
@@ -910,14 +694,6 @@
     "author": "Jules Verne",
     "confidence": "medium",
     "time_match": "half-past six"
-  },
-  {
-    "time": "09:30",
-    "quote": "It was then half-past nine.",
-    "title": "Twenty Thousand Leagues under the Sea",
-    "author": "Jules Verne",
-    "confidence": "medium",
-    "time_match": "half-past nine"
   },
   {
     "time": "13:30",
@@ -958,38 +734,6 @@
     "author": "Arthur Conan Doyle",
     "confidence": "medium",
     "time_match": "half-past three"
-  },
-  {
-    "time": "05:30",
-    "quote": "Chapter III In Quest of a Solution It was half-past five before Holmes returned.",
-    "title": "The Sign of the Four",
-    "author": "Arthur Conan Doyle",
-    "confidence": "medium",
-    "time_match": "half-past five"
-  },
-  {
-    "time": "19:00",
-    "quote": "It was a September evening, and not yet seven o’clock, but the day had\nbeen a dreary one, and a dense drizzly fog lay low upon the great city.",
-    "title": "The Sign of the Four",
-    "author": "Arthur Conan Doyle",
-    "confidence": "medium",
-    "time_match": "seven o’clock"
-  },
-  {
-    "time": "22:56",
-    "quote": "Chapter V The Tragedy of Pondicherry Lodge It was nearly eleven o’clock when we reached this final stage of our\nnight’s adventures.",
-    "title": "The Sign of the Four",
-    "author": "Arthur Conan Doyle",
-    "confidence": "medium",
-    "time_match": "eleven o’clock"
-  },
-  {
-    "time": "22:00",
-    "quote": "I left him here last night, and I heard him\nlock the door as I came downstairs.” “What time was that?” “It was ten o’clock.",
-    "title": "The Sign of the Four",
-    "author": "Arthur Conan Doyle",
-    "confidence": "medium",
-    "time_match": "ten o’clock"
   },
   {
     "time": "01:55",
@@ -1120,36 +864,12 @@
     "time_match": "eight o’clock"
   },
   {
-    "time": "12:00",
-    "quote": "The very night of his arrival he became very much the worse for drink, and,\nindeed, after twelve o’clock in the day he could hardly ever be said to be\nsober.",
-    "title": "A Study in Scarlet",
-    "author": "Arthur Conan Doyle",
-    "confidence": "medium",
-    "time_match": "twelve o’clock"
-  },
-  {
     "time": "06:01",
     "quote": "Joseph Stangerson,” said Lestrade gravely, “was murdered at\nHalliday’s Private Hotel about six o’clock this morning.”\n\nCHAPTER VII.",
     "title": "A Study in Scarlet",
     "author": "Arthur Conan Doyle",
     "confidence": "medium",
     "time_match": "six o’clock"
-  },
-  {
-    "time": "20:30",
-    "quote": "They had been seen together at Euston Station about half-past eight\non the evening of the third.",
-    "title": "A Study in Scarlet",
-    "author": "Arthur Conan Doyle",
-    "confidence": "medium",
-    "time_match": "half-past eight"
-  },
-  {
-    "time": "08:00",
-    "quote": "This morning I began very early, and at eight o’clock I\nreached Halliday’s Private Hotel, in Little George Street.",
-    "title": "A Study in Scarlet",
-    "author": "Arthur Conan Doyle",
-    "confidence": "medium",
-    "time_match": "eight o’clock"
   },
   {
     "time": "12:15",
@@ -1176,14 +896,6 @@
     "time_match": "eight o’clock"
   },
   {
-    "time": "08:45",
-    "quote": "I heard of it first from my newspaper boy about a quarter to\nnine when I went out to get my Daily Chronicle .",
-    "title": "The war of the worlds",
-    "author": "H. G. Wells",
-    "confidence": "medium",
-    "time_match": "quarter to\nnine"
-  },
-  {
     "time": "06:00",
     "quote": "I failed to find Lord Hilton at\nhis house, but I was told he was expected from London by the six o’clock\ntrain from Waterloo; and as it was then about a quarter past five, I went home,\nhad some tea, and walked up to the station to waylay him.",
     "title": "The war of the worlds",
@@ -1200,28 +912,12 @@
     "time_match": "quarter past five"
   },
   {
-    "time": "08:30",
-    "quote": "By half past eight, when the Deputation was destroyed, there may have been a\ncrowd of three hundred people or more at this place, besides those who had left\nthe road to approach the Martians nearer.",
-    "title": "The war of the worlds",
-    "author": "H. G. Wells",
-    "confidence": "medium",
-    "time_match": "half past eight"
-  },
-  {
     "time": "09:00",
     "quote": "…the\nengines from the junction, mingled with their shouts of “Men from\nMars!” Excited men came into the station about nine o’clock with\nincredible tidings, and caused no more disturbance than drunkards might have\ndone.",
     "title": "The war of the worlds",
     "author": "H. G. Wells",
     "confidence": "medium",
     "time_match": "nine o’clock"
-  },
-  {
-    "time": "16:30",
-    "quote": "About half past four I went up to the railway station to get an\nevening paper, for the morning papers had contained only a very inaccurate\ndescription of the killing of Stent, Henderson, Ogilvy, and…",
-    "title": "The war of the worlds",
-    "author": "H. G. Wells",
-    "confidence": "medium",
-    "time_match": "half past four"
   },
   {
     "time": "02:56",
@@ -1248,14 +944,6 @@
     "time_match": "five o’clock"
   },
   {
-    "time": "15:55",
-    "quote": "He dispatched a telegram, which never reached me,\nabout four o’clock, and spent the evening at a music hall.",
-    "title": "The war of the worlds",
-    "author": "H. G. Wells",
-    "confidence": "medium",
-    "time_match": "four o’clock"
-  },
-  {
     "time": "19:00",
     "quote": "…intelligence so much a matter of course in\nthe papers, that they could read without any personal tremors: “About\nseven o’clock last night the Martians came out of the cylinder, and,\nmoving about under an armour of metallic shields, have completely wrecked\nWoking station with the adjacent houses, and…",
     "title": "The war of the worlds",
@@ -1280,36 +968,12 @@
     "time_match": "eight o’clock"
   },
   {
-    "time": "08:00",
-    "quote": "But three certainly came out about eight o’clock and, advancing slowly\nand cautiously, made their way through Byfleet and Pyrford towards Ripley and\nWeybridge, and so came in sight of the expectant batteries against the…",
-    "title": "The war of the worlds",
-    "author": "H. G. Wells",
-    "confidence": "medium",
-    "time_match": "eight o’clock"
-  },
-  {
     "time": "10:00",
     "quote": "By ten\no’clock the police organisation, and by midday even the railway\norganisations, were losing coherency, losing shape and efficiency, guttering,\nsoftening, running at last in that swift…",
     "title": "The war of the worlds",
     "author": "H. G. Wells",
     "confidence": "medium",
     "time_match": "ten\no’clock"
-  },
-  {
-    "time": "02:00",
-    "quote": "People were fighting savagely for standing-room in the carriages even\nat two o’clock.",
-    "title": "The war of the worlds",
-    "author": "H. G. Wells",
-    "confidence": "medium",
-    "time_match": "two o’clock"
-  },
-  {
-    "time": "04:30",
-    "quote": "He would overtake them, he said, at about half past four in the\nmorning, and now it was nearly nine and they had seen nothing of him.",
-    "title": "The war of the worlds",
-    "author": "H. G. Wells",
-    "confidence": "medium",
-    "time_match": "half past four"
   },
   {
     "time": "13:01",
@@ -1326,14 +990,6 @@
     "author": "H. G. Wells",
     "confidence": "medium",
     "time_match": "two o’clock"
-  },
-  {
-    "time": "17:00",
-    "quote": "And all being quiet throughout the afternoon, we started about\nfive o’clock, as I should judge, along the blackened road to Sunbury.",
-    "title": "The war of the worlds",
-    "author": "H. G. Wells",
-    "confidence": "medium",
-    "time_match": "five o’clock"
   },
   {
     "time": "08:30",
@@ -1440,14 +1096,6 @@
     "time_match": "ten o’clock"
   },
   {
-    "time": "10:15",
-    "quote": "It was a quarter past ten as we went up the stairs.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "quarter past ten"
-  },
-  {
     "time": "09:00",
     "quote": "He\n    asked me the way to Fernly Park.” “What time would that be?” “Just nine o’clock.",
     "title": "The murder of Roger Ackroyd",
@@ -1457,27 +1105,11 @@
   },
   {
     "time": "09:30",
-    "quote": "Ackroyd was certainly alive at half-past nine,” put in Raymond,\n    “for I heard his voice in here talking.” “Who was he talking to?” “That I don’t know.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "half-past nine"
-  },
-  {
-    "time": "09:30",
     "quote": "…nine,” I said. “I didn’t go out again\n    until I received the telephone call.” “Who could have been with him at half-past nine?” queried the\n    inspector. “It wasn’t you, Mr.—er——” “Major Blunt,” I said. “Major Hector Blunt?” asked the inspector, a respectful tone creeping\n    into his voice.",
     "title": "The murder of Roger Ackroyd",
     "author": "Agatha Christie",
     "confidence": "medium",
     "time_match": "half-past nine"
-  },
-  {
-    "time": "09:45",
-    "quote": "About a quarter to ten that would be.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "quarter to ten"
   },
   {
     "time": "09:45",
@@ -1504,14 +1136,6 @@
     "time_match": "ten o’clock"
   },
   {
-    "time": "20:57",
-    "quote": "They told me, what I suppose they told you last night, that\n    he went out at about nine o’clock yesterday evening—and—and never came\n    back.” Her eyes met mine defiantly, and as though answering something in my\n    look, she burst out:— “Well, why shouldn’t he?",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "nine o’clock"
-  },
-  {
     "time": "21:00",
     "quote": "…to murder.” “Maybe not,” said the inspector tonelessly. “What have you got against him?” I asked. “Went out just on nine o’clock last night.",
     "title": "The murder of Roger Ackroyd",
@@ -1526,30 +1150,6 @@
     "author": "Agatha Christie",
     "confidence": "medium",
     "time_match": "quarter past ten"
-  },
-  {
-    "time": "09:00",
-    "quote": "He went to the window and stood there, looking out. “You say it was nine o’clock, Dr.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "nine o’clock"
-  },
-  {
-    "time": "09:45",
-    "quote": "Ackroyd was last seen alive at a quarter to ten by his\n    niece, Miss Flora Ackroyd.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "quarter to ten"
-  },
-  {
-    "time": "10:30",
-    "quote": "At half-past ten, the doctor here says that Mr.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "half-past ten"
   },
   {
     "time": "09:45",
@@ -1568,14 +1168,6 @@
     "time_match": "half-past nine"
   },
   {
-    "time": "06:00",
-    "quote": "I went to see a couple of patients and arrived home about six o’clock.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "six o’clock"
-  },
-  {
     "time": "09:00",
     "quote": "At nine o’clock you\n    run into a man—and here we come to what we will call the Romance of the\n    Mysterious Stranger—just outside the Park gates.",
     "title": "The murder of Roger Ackroyd",
@@ -1590,14 +1182,6 @@
     "author": "Agatha Christie",
     "confidence": "medium",
     "time_match": "ten o’clock"
-  },
-  {
-    "time": "21:30",
-    "quote": "Ackroyd was heard talking to some one at\n    half-past nine. “ Point No. 2. —At some time during the evening Ralph Paton must\n    have come in through the window, as evidenced by the prints of his\n    shoes. “ Point No. 3. —Mr.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "half-past nine"
   },
   {
     "time": "09:45",
@@ -1665,22 +1249,6 @@
   },
   {
     "time": "10:00",
-    "quote": "Perhaps you remember this: the papers say that the old gent\n    was croaked between a quarter to ten and ten o’clock?” “That is so,” agreed Poirot. “Yes, but is it really so?",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "ten o’clock"
-  },
-  {
-    "time": "09:45",
-    "quote": "Perhaps you remember this: the papers say that the old gent\n    was croaked between a quarter to ten and ten o’clock?” “That is so,” agreed Poirot. “Yes, but is it really so?",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "quarter to ten"
-  },
-  {
-    "time": "10:00",
     "quote": "Between a quarter to ten and ten o’clock.” “Then you’ve nothing to keep me here for,” said Kent. “I was away from\n    Fernly Park by twenty-five minutes past nine.",
     "title": "The murder of Roger Ackroyd",
     "author": "Agatha Christie",
@@ -1698,14 +1266,6 @@
   {
     "time": "09:45",
     "quote": "As near as\n    nothing to quarter to ten, it was.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "quarter to ten"
-  },
-  {
-    "time": "09:45",
-    "quote": "It was just a quarter to ten when he came into the bar, and the\n    Dog and Whistle is well over a mile from Fernly Park.",
     "title": "The murder of Roger Ackroyd",
     "author": "Agatha Christie",
     "confidence": "medium",
@@ -1768,14 +1328,6 @@
     "time_match": "nine o’clock"
   },
   {
-    "time": "09:30",
-    "quote": "It was just half-past nine when I went out to meet him.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "half-past nine"
-  },
-  {
     "time": "09:45",
     "quote": "I was\n    with him ten minutes—not longer, for it was just a quarter to ten when\n    I got back to the house.” I saw now the insistence of her question the other day.",
     "title": "The murder of Roger Ackroyd",
@@ -1808,28 +1360,12 @@
     "time_match": "Nine o’clock"
   },
   {
-    "time": "20:00",
-    "quote": "I was obliged to go out to a case at some distance away, and it was\n    past eight o’clock when I got back, to be greeted with a plate of hot\n    dinner on a tray, and the announcement that Poirot and my sister had\n    supped together at half-past seven, and that the…",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "eight o’clock"
-  },
-  {
     "time": "19:30",
     "quote": "…with a plate of hot\n    dinner on a tray, and the announcement that Poirot and my sister had\n    supped together at half-past seven, and that the former had then gone\n    to my workshop to finish his reading of the manuscript. “I hope, James,” said my sister, “that you’ve been careful in what you\n    say…",
     "title": "The murder of Roger Ackroyd",
     "author": "Agatha Christie",
     "confidence": "medium",
     "time_match": "half-past seven"
-  },
-  {
-    "time": "09:43",
-    "quote": "Her color flared up, but she answered steadily enough. “Ralph and I parted just before a quarter to ten.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "quarter to ten"
   },
   {
     "time": "09:00",
@@ -1854,13 +1390,5 @@
     "author": "Agatha Christie",
     "confidence": "medium",
     "time_match": "half-past nine"
-  },
-  {
-    "time": "09:45",
-    "quote": "I wish I could have known beforehand that Flora was going to say she’d\n    seen her uncle alive at a quarter to ten.",
-    "title": "The murder of Roger Ackroyd",
-    "author": "Agatha Christie",
-    "confidence": "medium",
-    "time_match": "quarter to ten"
   }
 ]
