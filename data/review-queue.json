@@ -1,1 +1,346 @@
-[]
+[
+  {
+    "time": "10:00",
+    "quote": "Would ten o’clock be too late?",
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "confidence": "medium",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "22:15",
+    "quote": "…his faithful heart beating on. “And why are you up so late, Donna?” Donna sneaks a look at her watch. “Well, it’s quarter past ten; sometimes I just stay up this late.",
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "confidence": "medium",
+    "time_match": "quarter past ten"
+  },
+  {
+    "time": "15:32",
+    "quote": "…that Ian Ventham had left Coopers Chase at exactly three p.m., and they knew that Tony Curran had been murdered at 3:32.",
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "confidence": "medium",
+    "time_match": "at 3:32"
+  },
+  {
+    "time": "15:29",
+    "quote": "…left Coopers Chase at three p.m., he would have arrived at Tony Curran’s house (big, but a bit tacky, but still nice) at 3:29.",
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "confidence": "medium",
+    "time_match": "at 3:29"
+  },
+  {
+    "time": "06:21",
+    "quote": "If such things were logged, the first phone call would have been recorded at 6:21. “Diggers are here, coming up the drive, two of them. . . .",
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "confidence": "medium",
+    "time_match": "at 6:21"
+  },
+  {
+    "time": "09:17",
+    "quote": "Secondly, Elizabeth rang at 9:17, and we’re off to Folkestone.",
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "confidence": "medium",
+    "time_match": "at 9:17"
+  },
+  {
+    "time": "03:00",
+    "quote": "…over, then turns to Corrie. “When is your rent-a-cop due?” “He’ll meet me—both of us, if you want—in the lobby at three o’clock.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "three o’clock"
+  },
+  {
+    "time": "14:00",
+    "quote": "It’s only two o’clock in the afternoon, but there are at least twenty customers, mostly men, sitting at the bar and imbibing their own drug of choice, which happens to be legal.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "two o’clock in the afternoon"
+  },
+  {
+    "time": "05:00",
+    "quote": "Can you do five o’clock?” “Yes, I suppose.” “For now, you can go back to work.” Marie looks at him like he’s crazy. “I’m going home .",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "five o’clock"
+  },
+  {
+    "time": "09:15",
+    "quote": "So are you.”\n\nChapter 5 1 At quarter past nine the next morning, Holly is going over the Corrections Department’s daily list of bail jumpers.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "quarter past nine"
+  },
+  {
+    "time": "07:15",
+    "quote": "What time is it?” “Quarter past seven.” “Are you kidding?",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "Quarter past seven"
+  },
+  {
+    "time": "02:00",
+    "quote": "Instead, Maisie reminds him of his two o’clock dentist’s appointment.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "two o’clock"
+  },
+  {
+    "time": "01:15",
+    "quote": "Kate gives him a frostbite smile. “Not a chance.” 6 Maisie buzzes Trig at quarter past one and reminds him it’s D-Day, as in dentist. “You better get going now if you want to be on time, because the crosstown traffic builds up early on Friday.” Trig thanks her and…",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "quarter past one"
+  },
+  {
+    "time": "03:00",
+    "quote": "Three o’clock break is mandatory.” Then, raising her voice: “ I heard you, Bull, was you born in a barn? ” General laughter greets this, and Betty Brady gives Barbara a quick sideways hug.…",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "Three o’clock"
+  },
+  {
+    "time": "03:00",
+    "quote": "…man.” Barbara gives a slight frown at this, then joins Tones Kelly and Ross MacFarland, presumably heading for their three o’clock break.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "three o’clock"
+  },
+  {
+    "time": "06:15",
+    "quote": "While she’s brushing her teeth at quarter past six, her phone rings.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "quarter past six"
+  },
+  {
+    "time": "02:00",
+    "quote": "He flaps it at them. “At two o’clock on that Sunday, Jimmy Sykes came over to fix my desktop computer.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "two o’clock"
+  },
+  {
+    "time": "06:15",
+    "quote": "At 6:15 or 6:20, you escort her downstairs.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "At 6:15"
+  },
+  {
+    "time": "02:45",
+    "quote": "Corrie comes down at quarter to three and tells Kate she might want to get out of the water.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "quarter to three"
+  },
+  {
+    "time": "19:17",
+    "quote": "If all goes as he hopes, tomorrow evening at 7:17 there will be a crowd milling in and around the Mingo, wondering where their idol is.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "at 7:17"
+  },
+  {
+    "time": "05:30",
+    "quote": "Barbara: Pick her up there at 5:30 she said and bring her to the Garden City Plaza.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "at 5:30"
+  },
+  {
+    "time": "03:00",
+    "quote": "I’ll be pouring him out of here around three o’clock , he thinks, but the guy is still relatively sober, so John pours him another drink but tells him to slow down. “What?” Robbie asks. “Wasn’t talking to you.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "three o’clock"
+  },
+  {
+    "time": "07:17",
+    "quote": "The signboard needs to change at 7:17, while the game is going on at Dingley and at the Mingo the crowds are wondering where the hell Kate is.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "at 7:17"
+  },
+  {
+    "time": "04:45",
+    "quote": "It’s going on quarter to five.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "quarter to five"
+  },
+  {
+    "time": "05:05",
+    "quote": "…also stuck in Dingley Park traffic, the driver inching ahead by fits and starts while Kate’s phone seems to be racing past 5:05 to 5:10 and then to 5:15.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "past 5:05"
+  },
+  {
+    "time": "09:00",
+    "quote": "If you don’t hear from me by… say nine o’clock, call the cops and ask for either Isabelle Jaynes or Tom Atta.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "nine o’clock"
+  },
+  {
+    "time": "18:20",
+    "quote": "…the night is pleasant, and they are primed for a good time. 9 The doors of the Mingo Auditorium opened at 6 PM, and by 6:20 the seats are filling up.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "by 6:20"
+  },
+  {
+    "time": "07:40",
+    "quote": "I want you here at the Holman Rink at 7:40.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "at 7:40"
+  },
+  {
+    "time": "07:40",
+    "quote": "If I don’t hear a knock at 7:40, I’ll shoot her.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "at 7:40"
+  },
+  {
+    "time": "07:40",
+    "quote": "She can make it by 7:40, but her margin for error is melting away.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "by 7:40"
+  },
+  {
+    "time": "07:40",
+    "quote": "He said get there by 7:40 or he’d kill her, but I cain’t… legs just give out.” He’s up at once, but Betty grasps his wrist with surprising force. “You cain’t, either.",
+    "title": "Never Flinch",
+    "author": "Stephen King",
+    "confidence": "medium",
+    "time_match": "by 7:40"
+  },
+  {
+    "time": "07:57",
+    "quote": "…hoped she and Justin would be able to slip into the function room without too many people noticing that it was nearly eight o’clock, but here they were, caught in a criss-cross of caterers, musicians and now Kristin herself. ‘Hailey!’ she heard a familiar voice call out, and she turned to see her friend…",
+    "title": "Game, Set & Murder: The deliciously gripping new cosy murder mystery for 2025!",
+    "author": "Judy Murray",
+    "confidence": "medium",
+    "time_match": "eight o’clock"
+  },
+  {
+    "time": "10:00",
+    "quote": "It was only ten o’clock and the sun was already high in the sky, but she felt chilly, fragile, unsure of what she should be saying to anyone.",
+    "title": "Game, Set & Murder: The deliciously gripping new cosy murder mystery for 2025!",
+    "author": "Judy Murray",
+    "confidence": "medium",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "08:00",
+    "quote": "…that game,” he says. “Trust me,” I say. “Neither do I.” Truth is, I had already been having a day, and it isn’t even eight o’clock in the morning.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "eight o’clock in the morning"
+  },
+  {
+    "time": "11:00",
+    "quote": "I promised Norma Banks I would meet her at the Supreme Court building, Nassau County, at eleven o’clock, traffic on the Long Island Expressway and Northern State permitting.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "eleven o’clock"
+  },
+  {
+    "time": "04:55",
+    "quote": "It is a little before five o’clock when the last prospective juror of the long day sits down.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "five o’clock"
+  },
+  {
+    "time": "05:00",
+    "quote": "But we’re almost up against Judge Horton’s five o’clock deadline.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "five o’clock"
+  },
+  {
+    "time": "01:00",
+    "quote": "The kid Bernstein looks as if he’s just come from his one o’clock class.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "one o’clock"
+  },
+  {
+    "time": "08:06",
+    "quote": "The dashboard clock says 8:06 when she comes walking out the door and straight for Jimmy’s car.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "says 8:06"
+  },
+  {
+    "time": "09:00",
+    "quote": "…clock behind me, waiting for the moment when the two of us will make the walk down the hallway a few minutes before nine o’clock.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "nine o’clock"
+  },
+  {
+    "time": "05:00",
+    "quote": "In normal circumstances, my only immediate goal once this day in court had mercifully ended at five o’clock would be getting home, getting in a long beach walk with Rip no matter what the hour, followed by an even longer hot bath, followed by rice and beans from Fondita that I’ve been…",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "five o’clock"
+  },
+  {
+    "time": "09:00",
+    "quote": "It takes him about forty minutes to drive over from the bar, but he gets there right on time, nine o’clock.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "nine o’clock"
+  },
+  {
+    "time": "00:56",
+    "quote": "At last, a little before one o’clock, there is a knock on the door and Sam Wylie and Dr.",
+    "title": "The Hamptons Lawyer",
+    "author": "James Patterson",
+    "confidence": "medium",
+    "time_match": "one o’clock"
+  }
+]

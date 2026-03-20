@@ -3,3 +3,6 @@ dist/
 .DS_Store
 *.log
 .env
+processed/
+__pycache__/
+*.bak

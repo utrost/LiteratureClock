@@ -104,5 +104,151 @@
         "timestamp": "2026-03-19T13:03:49.554008"
       }
     ]
+  },
+  {
+    "batch_date": "2026-03-19T13:52:00.203725",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 152,
+    "details": [
+      {
+        "file": "pg2701.epub",
+        "title": "Moby Dick; Or, The Whale",
+        "author": "Herman Melville",
+        "total_found": 87,
+        "high_added": 0,
+        "review_queued": 11,
+        "duplicates": 1,
+        "timestamp": "2026-03-19T13:51:55.164027"
+      },
+      {
+        "file": "pg28054.epub",
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoyevsky",
+        "total_found": 146,
+        "high_added": 0,
+        "review_queued": 46,
+        "duplicates": 0,
+        "timestamp": "2026-03-19T13:51:55.983515"
+      },
+      {
+        "file": "pg42324.epub",
+        "title": "Frankenstein; Or, The Modern Prometheus",
+        "author": "Mary Wollstonecraft Shelley",
+        "total_found": 39,
+        "high_added": 0,
+        "review_queued": 7,
+        "duplicates": 1,
+        "timestamp": "2026-03-19T13:51:57.264904"
+      },
+      {
+        "file": "pg4300.epub",
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "total_found": 95,
+        "high_added": 0,
+        "review_queued": 10,
+        "duplicates": 0,
+        "timestamp": "2026-03-19T13:51:57.524347"
+      },
+      {
+        "file": "pg45.epub",
+        "title": "Anne of Green Gables",
+        "author": "L. M. Montgomery",
+        "total_found": 44,
+        "high_added": 0,
+        "review_queued": 9,
+        "duplicates": 0,
+        "timestamp": "2026-03-19T13:51:58.530545"
+      },
+      {
+        "file": "pg5200-images.epub",
+        "title": "Metamorphosis",
+        "author": "Franz Kafka",
+        "total_found": 21,
+        "high_added": 0,
+        "review_queued": 12,
+        "duplicates": 0,
+        "timestamp": "2026-03-19T13:51:58.922463"
+      },
+      {
+        "file": "pg64317.epub",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "total_found": 56,
+        "high_added": 0,
+        "review_queued": 15,
+        "duplicates": 17,
+        "timestamp": "2026-03-19T13:51:59.006991"
+      },
+      {
+        "file": "pg768.epub",
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "total_found": 56,
+        "high_added": 0,
+        "review_queued": 21,
+        "duplicates": 5,
+        "timestamp": "2026-03-19T13:51:59.209687"
+      },
+      {
+        "file": "pg98.epub",
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "total_found": 76,
+        "high_added": 0,
+        "review_queued": 21,
+        "duplicates": 1,
+        "timestamp": "2026-03-19T13:51:59.638895"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-20T03:00:36.814494",
+    "books_processed": 4,
+    "quotes_added": 45,
+    "quotes_review": 43,
+    "details": [
+      {
+        "file": "A_Novel_-_Richard_Osman_2020.epub",
+        "title": "The Thursday Murder Club",
+        "author": "Richard Osman",
+        "total_found": 87,
+        "high_added": 1,
+        "review_queued": 6,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T03:00:34.861343"
+      },
+      {
+        "file": "A_Novel_-_Stephen_King_2025.epub",
+        "title": "Never Flinch",
+        "author": "Stephen King",
+        "total_found": 160,
+        "high_added": 44,
+        "review_queued": 25,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T03:00:35.345395"
+      },
+      {
+        "file": "Game_Set_Murder_by_Judy_Murray.epub",
+        "title": "Game, Set & Murder: The deliciously gripping new cosy murder mystery for 2025!",
+        "author": "Judy Murray",
+        "total_found": 17,
+        "high_added": 0,
+        "review_queued": 2,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T03:00:36.021152"
+      },
+      {
+        "file": "The_Hamptons_Lawyer_-_James_Patterson_2025.epub",
+        "title": "The Hamptons Lawyer",
+        "author": "James Patterson",
+        "total_found": 55,
+        "high_added": 0,
+        "review_queued": 10,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T03:00:36.324615"
+      }
+    ]
   }
 ]
