@@ -250,5 +250,131 @@
         "timestamp": "2026-03-20T03:00:36.324615"
       }
     ]
+  },
+  {
+    "batch_date": "2026-03-20T12:22:19.566579",
+    "books_processed": 5,
+    "quotes_added": 0,
+    "quotes_review": 92,
+    "details": [
+      {
+        "file": "pg164---e2d58e63-bd41-49f2-8b90-a08b2ff0ecb2.epub",
+        "title": "Twenty Thousand Leagues under the Sea",
+        "author": "Jules Verne",
+        "total_found": 176,
+        "high_added": 0,
+        "review_queued": 72,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:18.388705"
+      },
+      {
+        "file": "pg1695---bc97be47-0f14-4606-be85-6e56c4f8f2e0.epub",
+        "title": "The Man Who Was Thursday: A Nightmare",
+        "author": "G. K. Chesterton",
+        "total_found": 21,
+        "high_added": 0,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:18.814820"
+      },
+      {
+        "file": "pg204---cbe9b0d3-cbc3-4ecd-837e-9500e55836e6.epub",
+        "title": "The innocence of Father Brown",
+        "author": "G. K. Chesterton",
+        "total_found": 24,
+        "high_added": 0,
+        "review_queued": 2,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:19.038256"
+      },
+      {
+        "file": "pg2097---8b591b60-4619-4a19-9d40-cc24fa68e66d.epub",
+        "title": "The Sign of the Four",
+        "author": "Arthur Conan Doyle",
+        "total_found": 39,
+        "high_added": 0,
+        "review_queued": 17,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:19.347581"
+      },
+      {
+        "file": "pg22541---c528c8ff-4b22-4086-8015-235d525900f7.epub",
+        "title": "The Misplaced Battleship",
+        "author": "Harry Harrison",
+        "total_found": 3,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:19.512839"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-20T12:22:26.550000",
+    "books_processed": 6,
+    "quotes_added": 1,
+    "quotes_review": 98,
+    "details": [
+      {
+        "file": "pg244---ee78d37b-4c8c-4361-90ac-fa75e45f78ed.epub",
+        "title": "A Study in Scarlet",
+        "author": "Arthur Conan Doyle",
+        "total_found": 28,
+        "high_added": 0,
+        "review_queued": 9,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:25.383312"
+      },
+      {
+        "file": "pg36---c58bf3e4-96c6-471b-871f-bb76f934df6c.epub",
+        "title": "The war of the worlds",
+        "author": "H. G. Wells",
+        "total_found": 61,
+        "high_added": 0,
+        "review_queued": 25,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:25.559108"
+      },
+      {
+        "file": "pg43---9f4d51cb-2707-4288-9934-a17d77ad3852.epub",
+        "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "total_found": 15,
+        "high_added": 0,
+        "review_queued": 5,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:25.788288"
+      },
+      {
+        "file": "pg62---38d888e5-098d-428b-a823-a84a5b401a8e.epub",
+        "title": "A princess of Mars",
+        "author": "Edgar Rice Burroughs",
+        "total_found": 46,
+        "high_added": 1,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:25.890382"
+      },
+      {
+        "file": "pg68283---c10f3c4b-57d1-4f0c-b904-5c0c14b8d7c4.epub",
+        "title": "The call of Cthulhu",
+        "author": "H. P. Lovecraft",
+        "total_found": 3,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:26.144056"
+      },
+      {
+        "file": "pg69087---742caf01-f667-4e66-ba4c-478bf8377d21.epub",
+        "title": "The murder of Roger Ackroyd",
+        "author": "Agatha Christie",
+        "total_found": 109,
+        "high_added": 0,
+        "review_queued": 58,
+        "duplicates": 0,
+        "timestamp": "2026-03-20T12:22:26.196903"
+      }
+    ]
   }
 ]
