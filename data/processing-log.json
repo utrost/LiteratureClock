@@ -376,5 +376,929 @@
         "timestamp": "2026-03-20T12:22:26.196903"
       }
     ]
+  },
+  {
+    "batch_date": "2026-03-22T08:08:46.345408",
+    "books_processed": 5,
+    "quotes_added": 1,
+    "quotes_review": 44,
+    "details": [
+      {
+        "file": "pg219.epub",
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "total_found": 12,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T08:08:44.829414"
+      },
+      {
+        "file": "pg2852.epub",
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "total_found": 28,
+        "high_added": 0,
+        "review_queued": 12,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T08:08:44.970054"
+      },
+      {
+        "file": "pg76.epub",
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "total_found": 82,
+        "high_added": 0,
+        "review_queued": 16,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T08:08:45.211612"
+      },
+      {
+        "file": "pg829.epub",
+        "title": "Gulliver's Travels into Several Remote Nations of the World",
+        "author": "Jonathan Swift",
+        "total_found": 152,
+        "high_added": 0,
+        "review_queued": 5,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T08:08:45.672291"
+      },
+      {
+        "file": "pg8492.epub",
+        "title": "The King in Yellow",
+        "author": "Robert W. Chambers",
+        "total_found": 35,
+        "high_added": 1,
+        "review_queued": 11,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T08:08:46.049407"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T10:29:58.545558",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 16,
+    "details": [
+      {
+        "file": "pg76.epub",
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "total_found": 82,
+        "high_added": 0,
+        "review_queued": 16,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T10:29:58.085283"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T10:48:20.342657",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 12,
+    "details": [
+      {
+        "file": "pg2852.epub",
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "total_found": 28,
+        "high_added": 0,
+        "review_queued": 12,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T10:48:20.100358"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:30:20.167887",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 7,
+    "details": [
+      {
+        "file": "a_love_story.epub",
+        "title": "Atmosphere",
+        "author": "Taylor Jenkins Reid",
+        "total_found": 52,
+        "high_added": 0,
+        "review_queued": 7,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T15:30:19.673452"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:30:34.509816",
+    "books_processed": 1,
+    "quotes_added": 56,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "billion_dollar_ransom.epub",
+        "title": "Billion-Dollar Ransom",
+        "author": "James Patterson",
+        "total_found": 114,
+        "high_added": 56,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T15:30:34.112004"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:30:46.923363",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 3,
+    "details": [
+      {
+        "file": "caught_up.epub",
+        "title": "Caught Up",
+        "author": "Navessa Allen",
+        "total_found": 28,
+        "high_added": 1,
+        "review_queued": 3,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T15:30:46.425530"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:32:22.972705",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "game_set_murder.epub",
+        "title": "Game, Set & Murder: The deliciously gripping new cosy murder mystery for 2025!",
+        "author": "Judy Murray",
+        "total_found": 17,
+        "high_added": 0,
+        "review_queued": 1,
+        "duplicates": 1,
+        "timestamp": "2026-03-22T15:32:22.648023"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:32:33.961874",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "framed_in_death.epub",
+        "title": "Framed in Death",
+        "author": "J. D. Robb",
+        "total_found": 51,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T15:32:33.455640"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:32:45.327122",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 2,
+    "details": [
+      {
+        "file": "edge_of_honor.epub",
+        "title": "Edge of Honor: A Thriller",
+        "author": "Brad Thor",
+        "total_found": 52,
+        "high_added": 1,
+        "review_queued": 2,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T15:32:44.849150"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:34:20.270308",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "my_ex_antichrist.epub",
+        "title": "My Ex, the Antichrist",
+        "author": "Craig DiLouie",
+        "total_found": 25,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T15:34:19.782633"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:34:32.406825",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 4,
+    "details": [
+      {
+        "file": "license_invoked.epub",
+        "title": "License Invoked",
+        "author": "Robert Asprin",
+        "total_found": 35,
+        "high_added": 2,
+        "review_queued": 4,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T15:34:32.049071"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T15:35:57.347406",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "quicksilver.epub",
+        "title": "Quicksilver",
+        "author": "Neal Stephenson",
+        "total_found": 41,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T15:35:56.521372"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:43:14.518062",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 55,
+    "details": [
+      {
+        "file": "hallmarked_man.epub",
+        "title": "The Hallmarked Man",
+        "author": "Robert Galbraith",
+        "total_found": 164,
+        "high_added": 0,
+        "review_queued": 55,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:43:12.974139"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:43:35.106432",
+    "books_processed": 1,
+    "quotes_added": 5,
+    "quotes_review": 6,
+    "details": [
+      {
+        "file": "color_of_death.epub",
+        "title": "The Color of Death",
+        "author": "Trey Gowdy",
+        "total_found": 38,
+        "high_added": 5,
+        "review_queued": 6,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:43:34.664251"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:51:38.534201",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "2001_space_odyssey.epub",
+        "title": "2001: A Space Odyssey",
+        "author": "Arthur C. Clarke",
+        "total_found": 45,
+        "high_added": 1,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:51:38.239015"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:52:06.041824",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "revelation_space.epub",
+        "title": "Revelation Space",
+        "author": "Alastair Reynolds",
+        "total_found": 43,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:52:05.260745"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:52:36.399901",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 5,
+    "details": [
+      {
+        "file": "dirk_gently.epub",
+        "title": "Dirk Gentlys Holistic Detective Agency",
+        "author": "Douglas Adams",
+        "total_found": 24,
+        "high_added": 0,
+        "review_queued": 5,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:52:36.094110"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:53:07.919314",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 5,
+    "details": [
+      {
+        "file": "twelve_months.epub",
+        "title": "Twelve Months",
+        "author": "Jim Butcher",
+        "total_found": 59,
+        "high_added": 0,
+        "review_queued": 5,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:53:07.210050"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:56:21.787930",
+    "books_processed": 1,
+    "quotes_added": 9,
+    "quotes_review": 6,
+    "details": [
+      {
+        "file": "cemetery_road.epub",
+        "title": "Cemetery Road: A Novel",
+        "author": "Greg Iles",
+        "total_found": 136,
+        "high_added": 9,
+        "review_queued": 6,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:56:20.833632"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:56:49.872357",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "crash.epub",
+        "title": "Crash",
+        "author": "J. G. Ballard",
+        "total_found": 8,
+        "high_added": 0,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:56:49.643617"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:57:22.676040",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "do_androids_dream.epub",
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "total_found": 17,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:57:22.396787"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:58:19.664010",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "dungeon_crawler_carl.epub",
+        "title": "Dungeon Crawler Carl",
+        "author": "Matt Dinniman",
+        "total_found": 73,
+        "high_added": 1,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:58:19.052416"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T16:58:58.888950",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 19,
+    "details": [
+      {
+        "file": "hard_boiled_wonderland.epub",
+        "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+        "author": "Haruki Murakami",
+        "total_found": 69,
+        "high_added": 1,
+        "review_queued": 19,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T16:58:58.381281"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:00:23.058764",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "idoru.epub",
+        "title": "Idoru",
+        "author": "William Gibson",
+        "total_found": 11,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:00:22.712030"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:00:26.188913",
+    "books_processed": 1,
+    "quotes_added": 4,
+    "quotes_review": 20,
+    "details": [
+      {
+        "file": "reamde.epub",
+        "title": "Reamde",
+        "author": "Neal Stephenson",
+        "total_found": 189,
+        "high_added": 4,
+        "review_queued": 20,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:00:24.542512"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:00:28.296780",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 2,
+    "details": [
+      {
+        "file": "run_away.epub",
+        "title": "Run Away",
+        "author": "Harlan Coben",
+        "total_found": 34,
+        "high_added": 1,
+        "review_queued": 2,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:00:27.777270"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:00:30.251879",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 26,
+    "details": [
+      {
+        "file": "sun_also_rises.epub",
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "total_found": 60,
+        "high_added": 0,
+        "review_queued": 26,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:00:29.956885"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:00:32.331690",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 13,
+    "details": [
+      {
+        "file": "survivor.epub",
+        "title": "Survivor: A Novel",
+        "author": "Chuck Palahniuk",
+        "total_found": 69,
+        "high_added": 1,
+        "review_queued": 13,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:00:31.821426"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:03:13.218591",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 24,
+    "details": [
+      {
+        "file": "glamorama.epub",
+        "title": "Glamorama",
+        "author": "Bret Easton Ellis",
+        "total_found": 82,
+        "high_added": 1,
+        "review_queued": 24,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:03:12.327849"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:03:15.276462",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 8,
+    "details": [
+      {
+        "file": "the_weight.epub",
+        "title": "The Weight",
+        "author": "Andrew Vachss",
+        "total_found": 42,
+        "high_added": 0,
+        "review_queued": 8,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:03:14.836352"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:03:17.284987",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 3,
+    "details": [
+      {
+        "file": "virtual_light.epub",
+        "title": "Virtual Light",
+        "author": "William Gibson",
+        "total_found": 36,
+        "high_added": 1,
+        "review_queued": 3,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:03:16.869769"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:03:19.033446",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 2,
+    "details": [
+      {
+        "file": "vox.epub",
+        "title": "Vox",
+        "author": "Nicholson Baker",
+        "total_found": 26,
+        "high_added": 1,
+        "review_queued": 2,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:03:18.852325"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:03:20.889348",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "vulgar_things.epub",
+        "title": "Vulgar Things",
+        "author": "Lee Rourke",
+        "total_found": 31,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:03:20.578988"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:03:22.940461",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 8,
+    "details": [
+      {
+        "file": "weight_the.epub",
+        "title": "The Weight",
+        "author": "Andrew Vachss",
+        "total_found": 42,
+        "high_added": 0,
+        "review_queued": 8,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:03:22.497202"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:04:49.135393",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "uninnocent.epub",
+        "title": "The Uninnocent: Stories",
+        "author": "Bradford Morrow",
+        "total_found": 23,
+        "high_added": 0,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:04:48.828645"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:04:51.174623",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 11,
+    "details": [
+      {
+        "file": "unnatural_creatures.epub",
+        "title": "Unnatural Creatures",
+        "author": "Neil Gaiman",
+        "total_found": 37,
+        "high_added": 0,
+        "review_queued": 11,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:04:50.722302"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:04:53.478253",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "zero_history.epub",
+        "title": "Zero History",
+        "author": "William Gibson",
+        "total_found": 17,
+        "high_added": 0,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:04:52.782167"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:06:50.237041",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "prayer_crown_shy.epub",
+        "title": "A Prayer for the Crown-Shy--A Monk and Robot Book",
+        "author": "Becky Chambers",
+        "total_found": 6,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:06:50.057277"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:06:52.055605",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "psalm_wild_built.epub",
+        "title": "A Psalm for the Wild-Built",
+        "author": "Becky Chambers",
+        "total_found": 7,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:06:51.876505"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:06:54.296373",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "golden_son.epub",
+        "title": "Brown, Pierce - Red Rising 02 - Golden Son 02",
+        "author": "Brown, Pierce",
+        "total_found": 35,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:06:53.654267"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:06:56.153337",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 16,
+    "details": [
+      {
+        "file": "expecting_someone_taller.epub",
+        "title": "Expecting Someone Taller",
+        "author": "Tom Holt",
+        "total_found": 32,
+        "high_added": 0,
+        "review_queued": 16,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:06:55.853501"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:06:58.141355",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 7,
+    "details": [
+      {
+        "file": "faust_among_equals.epub",
+        "title": "Faust Among Equals",
+        "author": "Tom Holt",
+        "total_found": 40,
+        "high_added": 0,
+        "review_queued": 7,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:06:57.757822"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:09:05.199796",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "lyorn.epub",
+        "title": "Lyorn",
+        "author": "Steven Brust",
+        "total_found": 31,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:09:04.729804"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:09:07.634532",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "morning_star.epub",
+        "title": "Morning Star",
+        "author": "Pierce Brown",
+        "total_found": 72,
+        "high_added": 0,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:09:06.854880"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:09:10.051334",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 31,
+    "details": [
+      {
+        "file": "penguin_short_stories.epub",
+        "title": "The Penguin Book of American Short Stories",
+        "author": "James Cochrane",
+        "total_found": 93,
+        "high_added": 1,
+        "review_queued": 31,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:09:09.427043"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:09:11.885731",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 2,
+    "details": [
+      {
+        "file": "rivers_of_london.epub",
+        "title": "Tales From the Folly",
+        "author": "Ben Aaronovitch",
+        "total_found": 16,
+        "high_added": 0,
+        "review_queued": 2,
+        "duplicates": 0,
+        "timestamp": "2026-03-22T17:09:11.685139"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-22T17:09:13.830456",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 2,
+    "details": [
+      {
+        "file": "run_away2.epub",
+        "title": "Run Away",
+        "author": "Harlan Coben",
+        "total_found": 34,
+        "high_added": 0,
+        "review_queued": 2,
+        "duplicates": 1,
+        "timestamp": "2026-03-22T17:09:13.325819"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-23T03:00:11.465549",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 34,
+    "details": [
+      {
+        "file": "pg174.epub",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "total_found": 68,
+        "high_added": 0,
+        "review_queued": 22,
+        "duplicates": 11,
+        "timestamp": "2026-03-23T03:00:10.509123"
+      },
+      {
+        "file": "pg84.epub",
+        "title": "Frankenstein; or, the modern prometheus",
+        "author": "Mary Wollstonecraft Shelley",
+        "total_found": 39,
+        "high_added": 0,
+        "review_queued": 7,
+        "duplicates": 2,
+        "timestamp": "2026-03-23T03:00:10.812233"
+      },
+      {
+        "file": "sherlock-holmes.epub",
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "total_found": 105,
+        "high_added": 0,
+        "review_queued": 5,
+        "duplicates": 61,
+        "timestamp": "2026-03-23T03:00:11.077728"
+      }
+    ]
   }
 ]

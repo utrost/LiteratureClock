@@ -60,6 +60,8 @@ PATTERNS = [
     # ── MEDIUM confidence (real time refs, may need AM/PM) ──
     # Digital without AM/PM (contextual): "at 3:45" "by 11:07"
     (r'(?:at|by|around|about|nearly|past|before|after|until|till|struck|striking|says?|read|said|showed?|clock\s+said|watch\s+said)\s+(\d{1,2}):(\d{2})', 'digital_context'),
+    # "X o'clock and Y minutes" — must match before plain o'clock
+    (r"\b(\w+)\s+o['\u2019]?\s*clock\s+and\s+(\w+[\w-]*)\s+minutes?\b", 'oclock_and_minutes'),
     # "X o'clock" with optional AM/PM
     (r"\b(\w+)\s+o['\u2019]?\s*clock(?:\s+(?:in the|at)\s+(?:morning|afternoon|evening|night))?\b", 'oclock'),
     # "half past X", "half-past X"  — MUST be before word_time to take priority
@@ -86,16 +88,40 @@ WORD_TO_NUM = {
 }
 
 MINUTE_WORDS = {
-    'five': 5, 'ten': 10, 'fifteen': 15, 'twenty': 20,
-    'twenty-five': 25, 'half': 30, 'quarter': 15,
+    'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5,
+    'six': 6, 'seven': 7, 'eight': 8, 'nine': 9, 'ten': 10,
+    'eleven': 11, 'twelve': 12, 'thirteen': 13, 'fourteen': 14,
+    'fifteen': 15, 'sixteen': 16, 'seventeen': 17, 'eighteen': 18,
+    'nineteen': 19, 'twenty': 20, 'twenty-one': 21, 'twenty-two': 22,
+    'twenty-three': 23, 'twenty-four': 24, 'twenty-five': 25,
+    'twenty-six': 26, 'twenty-seven': 27, 'twenty-eight': 28,
+    'twenty-nine': 29, 'thirty': 30, 'thirty-one': 31, 'thirty-two': 32,
+    'thirty-three': 33, 'thirty-four': 34, 'thirty-five': 35,
+    'thirty-six': 36, 'thirty-seven': 37, 'thirty-eight': 38,
+    'thirty-nine': 39, 'forty': 40, 'forty-one': 41, 'forty-two': 42,
+    'forty-three': 43, 'forty-four': 44, 'forty-five': 45,
+    'forty-six': 46, 'forty-seven': 47, 'forty-eight': 48,
+    'forty-nine': 49, 'fifty': 50, 'fifty-one': 51, 'fifty-two': 52,
+    'fifty-three': 53, 'fifty-four': 54, 'fifty-five': 55,
+    'fifty-six': 56, 'fifty-seven': 57, 'fifty-eight': 58,
+    'fifty-nine': 59, 'half': 30, 'quarter': 15,
 }
 
 AFTERNOON_HINTS = re.compile(
-    r'afternoon|evening|night|pm|p\.m\.|supper|dinner|dusk|sunset|dark',
+    r'afternoon|evening|night(?:time)?|pm|p\.m\.|supper|dinner|dusk|sunset|'
+    r'dark(?:ness)?|twilight|moonlight|moon(?:rise)?|starlight|stars?\b|'
+    r'cocktail|nightcap|pub|bar\b|wine|whiskey|brandy|'
+    r'\bbed(?:time)?\b|\bsleep\b|\btired\b|\bweary\b|\byawn\b|'
+    r'\blight\s+off\b|\bturned?\s+off\s+the\s+light\b|\blights?\s+out\b|'
+    r'\blate\s+(?:in the|at)\b|\bafter\s+dark\b|\bgetting\s+dark\b|sun\s+(?:had\s+)?set',
     re.IGNORECASE
 )
 MORNING_HINTS = re.compile(
-    r'morning|dawn|sunrise|breakfast|am|a\.m\.',
+    r'\bmorning\b|\bdawn\b|\bsunrise\b|\bbreakfast\b|\bam\b|\ba\.m\.\b|'
+    r'\bwoke\b|\bwaking\b|\balarm\s+clock\b|\bcoffee\b|\btoast\b|\bcereal\b|\beggs?\b|'
+    r'\bearly\s+(?:in the|hours)\b|\bfirst\s+light\b|\bdaybreak\b|\bcockcrow\b|\brooster\b|'
+    r'\bschool\b|\bcommute\b|\boffice\b|\bwork\b.*(?:start|begin)|'
+    r'sun\s+(?:had\s+)?(?:just\s+)?risen|sun\s+was\s+(?:just\s+)?rising',
     re.IGNORECASE
 )
 
@@ -115,6 +141,14 @@ QUALIFIER_PATTERNS = [
     (re.compile(r'about \w+ o.clock|about \w+ in the', re.I), -5, 5),
     # "a few minutes past/after"
     (re.compile(r'(few minutes|a little) (past|after) \w+', re.I), 1, 5),
+    # "after X o'clock", "after X" (bare, no other qualifier already matched)
+    (re.compile(r'\bafter\s+\w+\s+o.clock\b|\bafter\s+(?:midnight|noon|midday)\b', re.I), 1, 10),
+    (re.compile(r'\b(?:it was|was)\s+after\s+\w+\b', re.I), 1, 10),
+    # "before X o'clock", "before X"
+    (re.compile(r'\bbefore\s+\w+\s+o.clock\b|\bbefore\s+(?:midnight|noon|midday)\b', re.I), -10, -1),
+    (re.compile(r'\b(?:it was|was)\s+before\s+\w+\b', re.I), -10, -1),
+    # "past X" (as in "past midnight", "past noon")
+    (re.compile(r'\bpast\s+(?:midnight|noon|midday)\b', re.I), 1, 10),
 ]
 
 
@@ -145,21 +179,76 @@ def word_to_hour(w: str) -> int | None:
     return WORD_TO_NUM.get(w) or (int(w) if w.isdigit() and 0 <= int(w) <= 23 else None)
 
 
-def guess_ampm(hour: int, context: str) -> int:
-    """Guess whether an ambiguous hour (1-12) is AM or PM from surrounding text."""
-    if hour == 0 or hour == 12:
-        return hour  # midnight / noon unambiguous
-    if AFTERNOON_HINTS.search(context):
-        return hour + 12 if hour < 12 else hour
-    if MORNING_HINTS.search(context):
+def guess_ampm(hour: int, context: str, match_pos: int = -1) -> int:
+    """Guess whether an ambiguous hour (1-12) is AM or PM from surrounding text.
+    
+    Uses proximity-weighted scoring: hints closer to the time reference
+    carry more weight than distant ones.
+    
+    Args:
+        hour: The hour (1-12) to disambiguate
+        context: Full quote/sentence text
+        match_pos: Character position of the time match in context (-1 = unknown)
+    
+    Priority:
+    1. Explicit 'in the morning/afternoon/evening/night' or 'a.m./p.m.' (weight 100)
+    2. Proximity-weighted contextual hints (weight decays with distance)
+    3. Default: AM interpretation
+    """
+    if hour == 0:
+        return hour  # midnight unambiguous
+    if hour == 12:
+        if re.search(r'\bnight\b|\bmidnight\b|\bdark\b|\bcold\b.*\bnight\b', context, re.I):
+            return 0
         return hour
-    # Default: leave ambiguous (return as-is, likely AM interpretation)
+
+    # --- Explicit phrases (highest priority, weight=100) ---
+    EXPLICIT_AM = re.compile(
+        r'\bin the morning\b|\bin the early hours\b|\bbefore dawn\b|\ba\.m\.\b|\bam\b(?=[\s,;.]|$)',
+        re.I)
+    EXPLICIT_PM = re.compile(
+        r'\bin the afternoon\b|\bin the evening\b|\bat night\b|\bin the night\b|\bp\.m\.\b|\bpm\b(?=[\s,;.]|$)',
+        re.I)
+
+    am_score = 0.0
+    pm_score = 0.0
+
+    def proximity_weight(hint_pos, ref_pos, base_weight=10.0):
+        """Closer hints get higher weight. Max at distance 0, decays over ~200 chars."""
+        if ref_pos < 0:
+            return base_weight * 0.5  # unknown position: flat mid-weight
+        dist = abs(hint_pos - ref_pos)
+        return base_weight * max(0.1, 1.0 - dist / 200.0)
+
+    # Explicit AM/PM (very high weight, still proximity-aware)
+    for m in EXPLICIT_AM.finditer(context):
+        am_score += proximity_weight(m.start(), match_pos, 100.0)
+    for m in EXPLICIT_PM.finditer(context):
+        pm_score += proximity_weight(m.start(), match_pos, 100.0)
+
+    # Broader contextual hints (lower base weight)
+    for m in MORNING_HINTS.finditer(context):
+        am_score += proximity_weight(m.start(), match_pos, 10.0)
+    for m in AFTERNOON_HINTS.finditer(context):
+        pm_score += proximity_weight(m.start(), match_pos, 10.0)
+
+    if pm_score > am_score and pm_score > 5.0:
+        # Edge case: hours 1-3 with "night" context usually means past midnight (AM)
+        # e.g., "at two at night" = 02:00, not 14:00
+        if hour <= 3 and re.search(r'\bat night\b|\bin the night\b', context, re.I):
+            return hour  # keep as AM (post-midnight)
+        return hour + 12 if hour < 12 else hour
+    if am_score > pm_score and am_score > 5.0:
+        return hour
+
+    # Both similar or neither → default AM
     return hour
 
 
 def parse_time(match, pattern_type: str, context: str) -> int | None:
     """Parse a regex match into minutes-since-midnight. Returns None if unparseable."""
     groups = match.groups()
+    mpos = match.start()  # position for proximity-based AM/PM guessing
 
     if pattern_type == 'digital_ampm':
         h, m, ampm = int(groups[0]), int(groups[1]), groups[2].lower().replace('.', '')
@@ -174,7 +263,7 @@ def parse_time(match, pattern_type: str, context: str) -> int | None:
         if h > 23 or m > 59:
             return None
         if h <= 12:
-            h = guess_ampm(h, context)
+            h = guess_ampm(h, context, mpos)
         return h * 60 + m
 
     elif pattern_type == 'military':
@@ -183,18 +272,31 @@ def parse_time(match, pattern_type: str, context: str) -> int | None:
             return None
         return h * 60 + m
 
+    elif pattern_type == 'oclock_and_minutes':
+        h = word_to_hour(groups[0])
+        if h is None or h > 12:
+            return None
+        m_word = groups[1].lower()
+        mins = MINUTE_WORDS.get(m_word)
+        if mins is None:
+            mins = word_to_hour(m_word)
+        if mins is None:
+            return None
+        h = guess_ampm(h, context, mpos)
+        return h * 60 + mins
+
     elif pattern_type == 'oclock':
         h = word_to_hour(groups[0])
         if h is None or h > 12:
             return None
-        h = guess_ampm(h, context)
+        h = guess_ampm(h, context, mpos)
         return h * 60
 
     elif pattern_type == 'half_past':
         h = word_to_hour(groups[0])
         if h is None or h > 12:
             return None
-        h = guess_ampm(h, context)
+        h = guess_ampm(h, context, mpos)
         return h * 60 + 30
 
     elif pattern_type == 'quarter':
@@ -202,7 +304,7 @@ def parse_time(match, pattern_type: str, context: str) -> int | None:
         h = word_to_hour(groups[1])
         if h is None or h > 12:
             return None
-        h = guess_ampm(h, context)
+        h = guess_ampm(h, context, mpos)
         if direction in ('past', 'after'):
             return h * 60 + 15
         else:  # to, before
@@ -217,7 +319,7 @@ def parse_time(match, pattern_type: str, context: str) -> int | None:
         mins = MINUTE_WORDS.get(min_word.lower()) or word_to_hour(min_word)
         if mins is None:
             return None
-        h = guess_ampm(h, context)
+        h = guess_ampm(h, context, mpos)
         if direction in ('past', 'after'):
             return h * 60 + mins
         else:  # to, before, of
@@ -228,7 +330,7 @@ def parse_time(match, pattern_type: str, context: str) -> int | None:
         h = word_to_hour(groups[0])
         if h is None or h > 12:
             return None
-        h = guess_ampm(h, context)
+        h = guess_ampm(h, context, mpos)
         return h * 60
 
     elif pattern_type == 'noon_midnight':
@@ -239,7 +341,7 @@ def parse_time(match, pattern_type: str, context: str) -> int | None:
         h = word_to_hour(groups[0])
         if h is None or h > 12:
             return None
-        h = guess_ampm(h, context)
+        h = guess_ampm(h, context, mpos)
         return h * 60
 
     return None

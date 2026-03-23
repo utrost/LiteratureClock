@@ -224,6 +224,31 @@
     "language": "en"
   },
   {
+    "time": "00:00",
+    "quote": "It was\nmidnight when he left Clifford peacefully slumbering in somebody’s\narm-chair, with a long suede glove dangling in his hand and a plumy boa\ntwisted about his neck to protect his throat…",
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers"
+  },
+  {
+    "time": "00:00",
+    "quote": "At twelve o’clock         Barrymore, finding the hall door still open, became alarmed, and,         lighting a lantern, went in search of his master.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "twelve o’clock"
+  },
+  {
+    "time": "00:00",
+    "quote": "It was midnight when we headed underground, so only a little over two hours had passed.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami"
+  },
+  {
+    "time": "00:02",
+    "quote": "Parker. [ Call ends. ]\n\nCHAPTER 85 Friday, 12:02 a.m. “I HAVE… THEM … on line one,” Hope Alonso said.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "00:05",
     "quote": "E.M. Security, normally so scrupulous with their fucking trucks at 0005h., is nowhere around, lending weight to yet another cliché. If you asked Gately what he was feeling right this second he'd have no idea.",
     "title": "Infinite Jest",
@@ -385,6 +410,12 @@
     "language": "en"
   },
   {
+    "time": "01:17",
+    "quote": "This photo was shot two nights ago, at 1:17 a.m.",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
+  },
+  {
     "time": "01:20",
     "quote": "Then it was 1.20 am, but I hadn't heard Father come upstairs to bed. I wondered if he was asleep downstairs or whether he was waiting to come in and kill me. So I got out my Swiss Army Knife and opened the saw blade so that I could defend myself.",
     "title": "The Curious Incident of the Dog in the Night-time",
@@ -420,7 +451,7 @@
     "language": "en"
   },
   {
-    "time": "01:30",
+    "time": "01:00",
     "quote": "The late hour helped. It simplified things. It categorized the population. Innocent bystanders were mostly home in bed. I walked for half an hour, but nothing happened. Until one thirty in the morning. Until I looped around to 22nd and Broadway.",
     "title": "Gone Tomorrow",
     "author": "Lee Child",
@@ -448,7 +479,7 @@
     "language": "en"
   },
   {
-    "time": "01:30",
+    "time": "05:00",
     "quote": "Who is she?” “Guess.” “Do I know her?” “Guess.” “I am not going to guess, at five o’clock in the morning, with my brains\n      frying and sputtering in my head.",
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
@@ -474,6 +505,12 @@
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
     "language": "en"
+  },
+  {
+    "time": "01:40",
+    "quote": "My iPhone wakes me at 1:40 a.m.",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
   },
   {
     "time": "01:56",
@@ -651,7 +688,7 @@
     "language": "en"
   },
   {
-    "time": "02:00",
+    "time": "04:59",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "The accident happened about five o’clock in the morning, as the day was\nbreaking.",
@@ -698,6 +735,20 @@
     "title": "Adventures of Huckleberry Finn",
     "author": "Mark Twain",
     "language": "en"
+  },
+  {
+    "time": "02:00",
+    "quote": "Louis, but I never believed it till I see that wonderful spread of lights at two o’clock that still night.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "two o’clock"
+  },
+  {
+    "time": "02:00",
+    "quote": "…affair has flurried me rather.” “I’ll join you in a walk, with pleasure,” said his companion. “Then we meet again at two o’clock.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "two o’clock"
   },
   {
     "time": "02:02",
@@ -747,6 +798,12 @@
     "title": "The Night People",
     "author": "Jack Finney",
     "language": "en"
+  },
+  {
+    "time": "02:23",
+    "quote": "The Venerable Bede\n\n1 The transformation occurred at approximately 2:23 AM, Pacific Standard Time.",
+    "title": "Dungeon Crawler Carl",
+    "author": "Matt Dinniman"
   },
   {
     "time": "02:30",
@@ -824,6 +881,19 @@
     "title": "Twenty Thousand Leagues under the Sea",
     "author": "Jules Verne",
     "language": "en"
+  },
+  {
+    "time": "02:57",
+    "quote": "Randolph Schraeder said: “Pay the sons of bitches.”\n\nCHAPTER 89 Friday, 2:57 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "02:59",
+    "quote": "I sat up with Sir Henry in       his rooms until nearly three o’clock in the morning, but no sound of any       sort did we hear except the chiming clock upon the stairs.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "three o’clock in the morning"
   },
   {
     "time": "03:00",
@@ -980,7 +1050,7 @@
     "language": "en"
   },
   {
-    "time": "03:00",
+    "time": "16:00",
     "quote": "Let us praise nature: you see what sunshine, how\nclear the sky is, the leaves are all green, it’s still summer; four\no’clock in the afternoon and the stillness!",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
@@ -1015,28 +1085,28 @@
     "language": "en"
   },
   {
-    "time": "03:00",
+    "time": "08:00",
     "author": "James Patterson",
     "title": "The Hamptons Lawyer",
     "quote": "…that game,” he says. “Trust me,” I say. “Neither do I.” Truth is, I had already been having a day, and it isn’t even eight o’clock in the morning.",
     "language": "en"
   },
   {
-    "time": "03:00",
+    "time": "02:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "Towards two o’clock in the morning, the burning light reappeared, not less\nintense, about five miles to windward of the Abraham Lincoln .",
     "language": "en"
   },
   {
-    "time": "03:00",
+    "time": "01:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "Near one o’clock in the morning, I was seized with dreadful fatigue.",
     "language": "en"
   },
   {
-    "time": "03:00",
+    "time": "19:02",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "About seven o’clock in the evening, the Nautilus , half-immersed, was\nsailing in a sea of milk.",
@@ -1097,6 +1167,12 @@
     "title": "Adventures of Huckleberry Finn",
     "author": "Mark Twain",
     "language": "en"
+  },
+  {
+    "time": "03:00",
+    "quote": "ONE MONTH LATER\n\nCHAPTER 99 Friday, 3:00 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "03:02",
@@ -1162,6 +1238,12 @@
     "language": "en"
   },
   {
+    "time": "03:17",
+    "quote": "My iPhone reads 3:17 a.m.",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
+  },
+  {
     "time": "03:25",
     "quote": "It was 3:25 a.m. A strange thrill, to think I was the only Mulvaney awake in the house.",
     "title": "We Were the Mulvaneys",
@@ -1197,7 +1279,7 @@
     "language": "en"
   },
   {
-    "time": "03:30",
+    "time": "03:00",
     "quote": "Now, look. I am not going to call Dr. McGrath at three thirty in the morning to ask if it's all right for my son to eat worms. That's flat.",
     "title": "How to Eat Fried Worms",
     "author": "Thomas Rockwell",
@@ -1211,11 +1293,29 @@
     "language": "en"
   },
   {
+    "time": "03:30",
+    "quote": "CHAPTER 103 Friday, 3:30 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "03:30",
+    "quote": "Chapter 22 Ben Tate dropped the Buck Ferris murder story into our web edition at 3:30 a.m. , and it was like kicking over a hornet’s nest.",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
+  },
+  {
     "time": "03:32",
     "quote": "…that Ian Ventham had left Coopers Chase at exactly three p.m., and they knew th",
     "title": "The Thursday Murder Club",
     "author": "Richard Osman",
     "language": "en"
+  },
+  {
+    "time": "03:41",
+    "quote": "It was 3:41 A.M .; he had been sleeping upright in a chair for almost three hours.",
+    "title": "Reamde",
+    "author": "Neal Stephenson"
   },
   {
     "time": "03:43",
@@ -1414,7 +1514,7 @@
     "language": "en"
   },
   {
-    "time": "04:00",
+    "time": "05:00",
     "quote": "I meant to shoot myself not far from here, beyond the\nvillage, and I’d planned to do it at five o’clock in the morning.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
@@ -1554,6 +1654,18 @@
     "language": "en"
   },
   {
+    "time": "04:02",
+    "quote": "…for all the advanced degrees she’ll earn someday.” “So let’s keep our eyes on her college fund.”\n\nCHAPTER 91 Friday, 4:02 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "04:19",
+    "quote": "CHAPTER 95 Friday, 4:19 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "04:23",
     "quote": "Her chip pulsed the time. 04:23:04. It had been a long day.",
     "title": "Neuromancer",
@@ -1587,6 +1699,24 @@
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "We were off the American point, March 31st, at seven o’clock in the\nevening.",
     "language": "en"
+  },
+  {
+    "time": "04:32",
+    "quote": "…going to be a beautiful day and… well, this is embarrassing to admit, but I’m a very huge fan.”\n\nCHAPTER 96 Friday, 4:32 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "04:42",
+    "quote": "He checked the time: 4:42 A.M .",
+    "title": "Reamde",
+    "author": "Neal Stephenson"
+  },
+  {
+    "time": "04:46",
+    "quote": "CHAPTER 97 Friday, 4:46 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "04:48",
@@ -1799,7 +1929,7 @@
     "language": "en"
   },
   {
-    "time": "05:00",
+    "time": "08:00",
     "quote": "It was\nby now eight o’clock in the morning.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
@@ -1848,7 +1978,7 @@
     "language": "en"
   },
   {
-    "time": "05:00",
+    "time": "16:58",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "About five o’clock in the evening we sighted to the north the Cape of\nRas-Mohammed.",
@@ -1932,7 +2062,7 @@
     "language": "en"
   },
   {
-    "time": "05:30",
+    "time": "05:00",
     "quote": "On the day they were going to kill him, Santiago Nasar got up at five-thirty in the morning to wait for the boat the bishop was coming on.",
     "title": "Chronicle of a Death Foretold",
     "author": "Gabriel García Márquez",
@@ -1951,6 +2081,12 @@
     "title": "Never Flinch",
     "author": "Stephen King",
     "language": "en"
+  },
+  {
+    "time": "05:30",
+    "quote": "Our main switchboard started ringing off the hook at\n            5:30 a.m. , as the print subscribers began calling in to voice their displeasure.",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
   },
   {
     "time": "05:35",
@@ -1981,7 +2117,7 @@
     "language": "en"
   },
   {
-    "time": "05:56",
+    "time": "02:00",
     "quote": "Steelkilt calculated his time, and found that his next trick at the helm\n      would come round at two o’clock, in the morning of the third day from that\n      in which he had been betrayed.",
     "title": "Moby Dick; Or, The Whale",
     "author": "Herman Melville",
@@ -2107,7 +2243,7 @@
     "language": "en"
   },
   {
-    "time": "06:00",
+    "time": "03:00",
     "quote": "Here he paid a heavy price for his escort, and hence he\n      started with it on the wet, wet roads at three o’clock in the morning.",
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
@@ -2226,11 +2362,23 @@
     "language": "en"
   },
   {
+    "time": "06:03",
+    "quote": "…up?” “You’re a genius.” “You’re buttering me up.” “Both can be true, Agent Gordon.”\n\nDAY TWO\n\nCHAPTER 28 Thursday, 6:03 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "06:05",
     "quote": "Hudson\nto examine its crop.” I had been delayed at a case, and it was a little after half-past six when I\nfound myself in Baker Street once more.",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Arthur Conan Doyle",
     "language": "en"
+  },
+  {
+    "time": "06:05",
+    "quote": "…dropped off the radar, literally, while we were chasing the phantom money on that mountain.”\n\nCHAPTER 98 Friday, 6:05 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "06:13",
@@ -2352,6 +2500,12 @@
     "language": "en"
   },
   {
+    "time": "06:32",
+    "quote": "We need you to open up right now !”\n\nCHAPTER 29 Thursday, 6:32 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "06:33",
     "quote": "Woke 6.33 a.m. Last session with Anderson. He made it plain he's seen enough of me, and from now on I'm better alone. To sleep 8:00? (These count-downs terrify me.) He paused, then added: Goodbye, Eniwetok.",
     "title": "The Voices of Time",
@@ -2364,6 +2518,12 @@
     "title": "The Adventures of Sherlock Holmes",
     "author": "Arthur Conan Doyle",
     "language": "en"
+  },
+  {
+    "time": "06:39",
+    "quote": "CHAPTER 30 Thursday, 6:39 a.m. “NICKY.” “Hmm?” “ Kill it, Nicky.” Nicky rolled over, mumbling something she intended to be a coherent sentence. “Nicky,” Mike said, “I swear, if you don’t shoot it, I will.”…",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "06:45",
@@ -2541,7 +2701,7 @@
     "language": "en"
   },
   {
-    "time": "07:00",
+    "time": "08:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "At noon we were no further advanced than at eight o’clock in the morning.",
@@ -2569,7 +2729,7 @@
     "language": "en"
   },
   {
-    "time": "07:00",
+    "time": "15:00",
     "author": "Arthur Conan Doyle",
     "title": "The Sign of the Four",
     "quote": "At three o’clock in the afternoon there was a loud peal at the bell, an\nauthoritative voice in the hall, and, to my surprise, no less a person than Mr.",
@@ -2602,6 +2762,12 @@
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
     "language": "en"
+  },
+  {
+    "time": "07:05",
+    "quote": "CHAPTER 31 Thursday, 7:05 a.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "07:07",
@@ -2735,6 +2901,12 @@
     "title": "tightrope (a poem in Selected Poems 1967-1987)",
     "author": "Roger McGough",
     "language": "en"
+  },
+  {
+    "time": "07:55",
+    "quote": "Chapter 45 At 7:55 a.m.",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
   },
   {
     "time": "08:00",
@@ -2947,14 +3119,14 @@
     "language": "en"
   },
   {
-    "time": "08:00",
+    "time": "06:00",
     "quote": "But his\nonly attendant was a deaf and rheumatic old crone who went to bed at six\no’clock every evening and got up at six in the morning.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
     "language": "en"
   },
   {
-    "time": "08:00",
+    "time": "09:00",
     "quote": "Plans For Mitya’s Escape Very early, at nine o’clock in the morning, five days after the trial,\nAlyosha went to Katerina Ivanovna’s to talk over a matter of great\nimportance to both of them, and to give her a message.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
@@ -2989,7 +3161,7 @@
     "language": "en"
   },
   {
-    "time": "08:00",
+    "time": "17:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "Till five o’clock in the evening I employed myself\nin arranging my notes.",
@@ -3101,6 +3273,13 @@
     "language": "en"
   },
   {
+    "time": "08:00",
+    "quote": "The sun was up so high when I waked that I judged it was after eight o’clock.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "eight o’clock"
+  },
+  {
     "time": "08:01",
     "quote": "The landlady informed me that he had left the house shortly after\neight o’clock in the morning.",
     "title": "The Adventures of Sherlock Holmes",
@@ -3162,6 +3341,12 @@
     "title": "The Undomestic Goddess",
     "author": "Sophie Kinsella",
     "language": "en"
+  },
+  {
+    "time": "08:23",
+    "quote": "It looks like he’s going to be active for a while.” It was 8:23 A.M .",
+    "title": "Reamde",
+    "author": "Neal Stephenson"
   },
   {
     "time": "08:30",
@@ -3255,6 +3440,12 @@
     "language": "en"
   },
   {
+    "time": "08:40",
+    "quote": "About 8:40 a.m. a retired kayaker discovered a man he believed to be Buck Ferris wedged in the fork of a cottonwood snag in the Mississippi\n            River, four hundred yards south of the…",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
+  },
+  {
     "time": "08:43",
     "quote": "8.43 a.m. Go past tropical fish shop",
     "title": "The Curious Incident of the Dog in the Night-time",
@@ -3288,6 +3479,12 @@
     "title": "Dirk Gently's Holistic Detective Agency",
     "author": "Douglas Adams",
     "language": "en"
+  },
+  {
+    "time": "08:49",
+    "quote": "…to send a text: Nicky, we located Rubin Padilla in Las Vegas but he resisted our operatives…\n\nCHAPTER 32 Thursday, 8:49 a.m. “I CAN’T BELIEVE this.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "08:50",
@@ -3591,7 +3788,7 @@
     "language": "en"
   },
   {
-    "time": "09:00",
+    "time": "11:01",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "About eleven o’clock in the morning the Tropic of Capricorn\nwas crossed on the thirty-seventh meridian, and we passed Cape Frio standing\nout to sea.",
@@ -3680,6 +3877,13 @@
     "title": "The King in Yellow",
     "author": "Robert W. Chambers",
     "language": "en"
+  },
+  {
+    "time": "09:00",
+    "quote": "I began this desperate voyage on February 15, 1714–15, at nine o’clock in the morning.",
+    "title": "Gulliver's Travels into Several Remote Nations of the World",
+    "author": "Jonathan Swift",
+    "time_match": "nine\no’clock in the morning"
   },
   {
     "time": "09:01",
@@ -3897,6 +4101,13 @@
     "title": "The Hound of the Baskervilles",
     "author": "Arthur Conan Doyle",
     "language": "en"
+  },
+  {
+    "time": "09:30",
+    "quote": "Tell me where you picked him up and all that occurred.” “He hailed me at half-past nine in Trafalgar Square.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "half-past nine"
   },
   {
     "time": "09:35",
@@ -4193,7 +4404,7 @@
     "language": "en"
   },
   {
-    "time": "10:00",
+    "time": "06:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "At six o’clock in the morning of the 8th January I went up on to the platform.",
@@ -4312,11 +4523,59 @@
     "language": "en"
   },
   {
+    "time": "10:00",
+    "quote": "At ten o’clock tomorrow, Dr.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "10:00",
+    "quote": "…Sherlock Holmes made a note of it. “Now, Clayton, tell me all about the fare who came and watched this house       at ten o’clock this morning and afterwards followed the two gentlemen down       Regent Street.” The man looked surprised and a little embarrassed. “Why, there’s no good       my telling you…",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "10:00",
+    "quote": "…     the letter and it said: ‘Please, please, as you are a gentleman, burn this       letter, and be at the gate by ten o clock.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "ten o clock"
+  },
+  {
+    "time": "10:00",
+    "quote": "It ran ‘Please, please, as you are a gentleman, burn this       letter, and be at the gate by ten o’clock.’” I thought that she had fainted, but she recovered herself by a supreme       effort. “Is there no such thing as a gentleman?” she gasped. “You do Sir Charles an injustice.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "10:00",
+    "quote": "…“What have I withheld?” she asked defiantly. “You have confessed that you asked Sir Charles to be at the gate at ten       o’clock.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "ten\n      o’clock"
+  },
+  {
+    "time": "10:00",
+    "quote": "It is already ten       o’clock.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "ten\n      o’clock"
+  },
+  {
     "time": "10:10",
     "quote": "10:10 Shot is fired.",
     "title": "The Hollow Man",
     "author": "John Dickson Carr",
     "language": "en"
+  },
+  {
+    "time": "10:12",
+    "quote": "They reached the hotel at 10:12 A.M. and the hotel bar at 10:13, and after dutifully gulping down glasses of water for technical rehydration purposes, they moved on to alcohol. “You can’t tell me that bizjet…",
+    "title": "Reamde",
+    "author": "Neal Stephenson"
   },
   {
     "time": "10:15",
@@ -4634,7 +4893,7 @@
     "language": "en"
   },
   {
-    "time": "11:00",
+    "time": "10:00",
     "quote": "The Fatal Day At ten o’clock in the morning of the day following the events I have\ndescribed, the trial of Dmitri Karamazov began in our district court.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
@@ -4669,7 +4928,7 @@
     "language": "en"
   },
   {
-    "time": "11:00",
+    "time": "02:56",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "On the 18th of February, about three o’clock in the morning, we were at the\nentrance of the Straits of Gibraltar.",
@@ -4723,6 +4982,13 @@
     "title": "Twenty Thousand Leagues under the Sea",
     "author": "Jules Verne",
     "language": "en"
+  },
+  {
+    "time": "11:03",
+    "quote": "On the second morning, about eleven o’clock, the king himself in person, attended by his nobility, courtiers, and officers, having prepared all their musical instruments, played on them for three hours without…",
+    "title": "Gulliver's Travels into Several Remote Nations of the World",
+    "author": "Jonathan Swift",
+    "time_match": "eleven o’clock"
   },
   {
     "time": "11:04",
@@ -4814,6 +5080,13 @@
     "title": "Twenty Thousand Leagues under the Sea",
     "author": "Jules Verne",
     "language": "en"
+  },
+  {
+    "time": "11:30",
+    "quote": "…slid for the cellar cupboard and loaded up a good lunch and took it up to our room and went to bed, and got up about half-past eleven, and Tom put on Aunt Sally’s dress that he stole and was going to start with the lunch, but says: “Where’s the butter?” “I laid out a hunk of it,” I says, “on a piece of a…",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "half-past eleven"
   },
   {
     "time": "11:40",
@@ -4933,6 +5206,19 @@
     "title": "Wuthering Heights",
     "author": "Emily Brontë",
     "language": "en"
+  },
+  {
+    "time": "11:58",
+    "quote": "About twelve o’clock we turned out and went along up the bank.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "twelve o’clock"
+  },
+  {
+    "time": "11:58",
+    "quote": "He checked his watch. 11:58 a.m.",
+    "title": "Run Away",
+    "author": "Harlan Coben"
   },
   {
     "time": "12:00",
@@ -5166,11 +5452,30 @@
     "language": "en"
   },
   {
+    "time": "12:00",
+    "quote": "It was midday Sunday, and all the churches in the neighborhood had just let out.",
+    "title": "Caught Up",
+    "author": "Navessa Allen"
+  },
+  {
+    "time": "12:00",
+    "quote": "It was noon, and there was no one passing in the street, except a colored girl, baby-fat and sugar-plum shaped, who hummed along carrying a pail of blackberries.",
+    "title": "The Penguin Book of American Short Stories",
+    "author": "James Cochrane"
+  },
+  {
     "time": "12:01",
     "quote": "It was the twelfth of December, the twelfth month. A was twelve. The electric clock/radio by his bedside table said 12:01. A was waiting for it to read 12:12, he hoped there would be some sense of cosmic rightness when it did.",
     "title": "Boy A",
     "author": "Jonathan Trigell",
     "language": "en"
+  },
+  {
+    "time": "12:02",
+    "quote": "He said “that about twelve o’clock at noon, as he was looking through his glass, he spied it at a distance, and thought it was a sail, which he had a mind to make, being not much out of his course, in hopes of…",
+    "title": "Gulliver's Travels into Several Remote Nations of the World",
+    "author": "Jonathan Swift",
+    "time_match": "twelve o’clock"
   },
   {
     "time": "12:15",
@@ -5227,6 +5532,12 @@
     "title": "The Picture of Dorian Gray",
     "author": "Oscar Wilde",
     "language": "en"
+  },
+  {
+    "time": "12:35",
+    "quote": "Mike nodded. “I call dibs on Green Cap.”\n\nCHAPTER 35 Thursday, 12:35 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "12:45",
@@ -5376,7 +5687,7 @@
     "language": "en"
   },
   {
-    "time": "13:00",
+    "time": "04:00",
     "quote": "Fyodor Pavlovitch used to go to bed\nvery late, at three or four o’clock in the morning, and would wander\nabout the room at night or sit in an arm‐chair, thinking.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
@@ -5439,6 +5750,34 @@
     "language": "en"
   },
   {
+    "time": "13:00",
+    "quote": "It must a been close on to one o’clock when we got below the island at last, and the raft did seem to go mighty slow.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "one o’clock"
+  },
+  {
+    "time": "13:00",
+    "quote": "He says to Boggs, mighty ca’m and slow—he says: “I’m tired of this, but I’ll endure it till one o’clock.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "one o’clock"
+  },
+  {
+    "time": "13:00",
+    "quote": "Till one o’clock, mind—no longer.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "one o’clock"
+  },
+  {
+    "time": "13:00",
+    "quote": "Some men crowded around him and tried to get him to shut up, but he wouldn’t; they told him it would be one o’clock in about fifteen minutes, and so he must go home—he must go right away.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "one o’clock"
+  },
+  {
     "time": "13:01",
     "quote": "It was a little after one o'clock when I got there, time for lunch, so I had it. The food was awful. But it would go on the expense account, and after I'd eaten I got out my notebook and put it down. Lunch $1.50. Taxi $1.00.",
     "title": "The Big Clock",
@@ -5451,6 +5790,24 @@
     "title": "The war of the worlds",
     "author": "H. G. Wells",
     "language": "en"
+  },
+  {
+    "time": "13:03",
+    "quote": "…things back then.” Cal turned to face Three. “This might not be your brightest moment either.”\n\nCHAPTER 37 Thursday, 1:03 p.m. “YOU DON’T SEEM like an idiot,” Boo Schraeder said suddenly in the near dark of the room. “Uh, thank you?” Two replied.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "13:05",
+    "quote": "CHAPTER 38 Thursday, 1:05 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "13:12",
+    "quote": "His wrists aren’t going to tie themselves, you feel me?”\n\nCHAPTER 40 Thursday, 1:12 p.m. “I THINK I may know why Old Man Randy is so eager to sideline us,” Mike Hardy said.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "13:15",
@@ -5474,6 +5831,12 @@
     "language": "en"
   },
   {
+    "time": "13:15",
+    "quote": "CHAPTER 43 Thursday, 1:15 p.m. “YOUR LIPS ARE very soft,” Boo said after she pulled back from the embrace. “You know, for a ruthless and dangerously violent kidnapper.” “Don’t worry,” Two said. “This is only…",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "13:16",
     "quote": "‘Monsieur has well slept this morning,’ he said, smiling. ‘What o’clock is it, Victor?’ asked Dorian Gray, sleepily. ‘One hour and a quarter, monsieur.’",
     "title": "The Picture of Dorian Gray",
@@ -5486,6 +5849,12 @@
     "title": "The Curious Incident of the Dog in the Night-time",
     "author": "Mark Haddon",
     "language": "en"
+  },
+  {
+    "time": "13:22",
+    "quote": "…“Probably not a good idea, right?” She smiled. “You really are new at this, aren’t you?”\n\nCHAPTER 44 Thursday, 1:22 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "13:23",
@@ -5607,7 +5976,7 @@
     "language": "en"
   },
   {
-    "time": "13:57",
+    "time": "01:57",
     "quote": "…life is worth.’ “The warning was no idle one, for two nights later I happened to look out\nof my bedroom window about two o’clock in the morning.",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Arthur Conan Doyle",
@@ -5642,7 +6011,7 @@
     "language": "en"
   },
   {
-    "time": "13:59",
+    "time": "01:59",
     "quote": "…your life is worth.’ “The warning was no idle one, for two nights later I happened to look out\nof my bedroom window about two o’clock in the morning.",
     "title": "The Adventures of Sherlock Holmes",
     "author": "Arthur Conan Doyle",
@@ -5901,7 +6270,7 @@
     "language": "en"
   },
   {
-    "time": "14:02",
+    "time": "03:57",
     "quote": "…on his way to “John Ferdinando,” as he calls the\n      modern Juan Fernandes. “In our way thither,” he says, “about four o’clock\n      in the morning, when we were about one hundred and fifty leagues from the\n      Main of America, our ship felt a terrible shock, which put our men in such\n      consternation that they could…",
     "title": "Moby Dick; Or, The Whale",
     "author": "Herman Melville",
@@ -6062,6 +6431,20 @@
     "language": "en"
   },
   {
+    "time": "14:30",
+    "quote": "So I give it a shake, and out drops a little piece of paper with “ Half-past two ” wrote on it with a pencil.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "Half-past two"
+  },
+  {
+    "time": "14:30",
+    "quote": "I judged that that piece of paper meant that Miss Sophia was to meet Harney somewheres at half-past two and run off; and I judged I ought to told her father about that paper and the curious way she acted, and then maybe he would a locked her up, and this awful mess wouldn’t ever…",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "half-past two"
+  },
+  {
     "time": "14:32",
     "quote": "The superior, the very reverend John Conmee SJ reset his smooth watch in his interior pocket as he came down the presbytery steps. Five to three. Just nice time to walk to Artane.",
     "title": "Ulysses",
@@ -6125,6 +6508,18 @@
     "language": "en"
   },
   {
+    "time": "14:45",
+    "quote": "CHAPTER 45 Thursday, 2:45 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "14:47",
+    "quote": "And I very much do not want to lose my wife.”\n\nCHAPTER 46 Thursday, 2:47 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "14:50",
     "quote": "Stands the Church clock at ten to three? And is there honey still for tea?",
     "title": "The Old Vicarage, Grantchester",
@@ -6160,6 +6555,13 @@
     "language": "en"
   },
   {
+    "time": "14:56",
+    "quote": "I heard one man say it was nearly three o’clock, and he hoped daylight wouldn’t wait more than about a week longer.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "three o’clock"
+  },
+  {
     "time": "14:59",
     "quote": "It must have been about three o’clock when we\nreached a narrow valley, between h",
     "title": "Twenty Thousand Leagues under the Sea",
@@ -6181,7 +6583,7 @@
     "language": "en"
   },
   {
-    "time": "15:00",
+    "time": "03:00",
     "quote": "The scent and smoke and sweat of a casino are nauseating at three in the morning. Then the soul-erosion produced by high gambling - a compost of greed and fear and nervous tension - becomes unbearable and the senses awake and revolt from it.",
     "title": "Casino Royale",
     "author": "Ian Fleming",
@@ -6398,14 +6800,14 @@
     "language": "en"
   },
   {
-    "time": "15:00",
+    "time": "17:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "At last, at five o’clock in the evening, loaded with our riches, we quitted the\nshore, and half an hour after we hailed the Nautilus .",
     "language": "en"
   },
   {
-    "time": "15:00",
+    "time": "11:04",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "About eleven o’clock in the morning, the first range of mountains that form the\ncentre of the island was traversed, and we had killed nothing.",
@@ -6419,7 +6821,7 @@
     "language": "en"
   },
   {
-    "time": "15:00",
+    "time": "08:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "It was eight o’clock in the morning.",
@@ -6503,7 +6905,7 @@
     "language": "en"
   },
   {
-    "time": "15:00",
+    "time": "09:00",
     "quote": "On the fifth of December, 1715, we cast anchor in the Downs, about nine in the morning, and |at three in the afternoon| I got safe to my house at Rotherhith.",
     "title": "Gulliver's Travels",
     "author": "Jonathan Swift",
@@ -6522,6 +6924,12 @@
     "title": "Twenty Thousand Leagues under the Sea",
     "author": "Jules Verne",
     "language": "en"
+  },
+  {
+    "time": "15:04",
+    "quote": "The time is 3:04 p.m.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk"
   },
   {
     "time": "15:07",
@@ -6545,11 +6953,41 @@
     "language": "en"
   },
   {
+    "time": "15:14",
+    "quote": "They join in the laughter and eventually erupt in a round of applause. ]\n\nDAY ONE\n\nCHAPTER 2 Wednesday, 3:14 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "15:14",
+    "quote": "CHAPTER 5 Wednesday, 3:14 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "15:14",
+    "quote": "CHAPTER 9 Wednesday, 3:14 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "15:14",
+    "quote": "Back on the studio lot in the real world, it was 3:14 p.m., but here on the Mexican coast of Baja California, time ceased to exist, along with all the rules. “Bring that gorgeous ass over here,” Cass said to Tyler with the come-hither…",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "15:15",
     "quote": "I shall be back at exactly THREE fourteen, for our hour of revery together, real sweet revery darling",
     "title": "On the Road",
     "author": "Jack Kerouac",
     "language": "en"
+  },
+  {
+    "time": "15:15",
+    "quote": "He held his Timex up in front of his face and used the dial-light. 3:15 PM .",
+    "title": "Virtual Light",
+    "author": "William Gibson"
   },
   {
     "time": "15:27",
@@ -6580,7 +7018,7 @@
     "language": "en"
   },
   {
-    "time": "15:30",
+    "time": "14:30",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "It was within 638 miles of the coast of Ireland; and at half-past\ntwo in the afternoon they discovered that communication with Europe had ceased.",
@@ -6599,6 +7037,31 @@
     "title": "Adventures of Huckleberry Finn",
     "author": "Mark Twain",
     "language": "en"
+  },
+  {
+    "time": "15:30",
+    "quote": "So he locked me in and took the skiff, and started off towing the raft about half-past three.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "half-past three"
+  },
+  {
+    "time": "15:30",
+    "quote": "…“Tell me, Cassandra,” Five said, “will you still love him even without his perfect smile?”\n\nCHAPTER 11 Wednesday, 3:30 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "15:30",
+    "quote": "At 3:30 p.m., she had an appointment with Rachel for a complete hair treatment.",
+    "title": "The Color of Death",
+    "author": "Trey Gowdy"
+  },
+  {
+    "time": "15:31",
+    "quote": "She checked the time on her dash—3:31 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "15:37",
@@ -6643,6 +7106,12 @@
     "language": "en"
   },
   {
+    "time": "15:56",
+    "quote": "…look on her mother’s face. “Some kind of national disaster?” “More like three at once.”\n\nCHAPTER 12 Wednesday, 3:56 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "15:57",
     "quote": "About four o’clock, the soil, generally composed of a thick mud mixed with\npetri",
     "title": "Twenty Thousand Leagues under the Sea",
@@ -6655,6 +7124,12 @@
     "title": "Twenty Thousand Leagues under the Sea",
     "author": "Jules Verne",
     "language": "en"
+  },
+  {
+    "time": "15:58",
+    "quote": "CHAPTER 48 Thursday, 3:58 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "16:00",
@@ -6804,6 +7279,12 @@
     "language": "en"
   },
   {
+    "time": "16:00",
+    "quote": "…more than a few days. (In the end it took six\n            months.) The first shots near our house went off around 4:00 p.m.",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
+  },
+  {
     "time": "16:02",
     "quote": "against a table in the hall, heavy with dejection or sleep. “Nothing happened,” he said wanly. “I waited, and about four o’clock she came to the window and stood there for a minute and then turned out the light.” His house had never seemed so enormous to me as it did that night when we hunted through the…",
     "title": "The Great Gatsby",
@@ -6909,6 +7390,12 @@
     "language": "en"
   },
   {
+    "time": "16:21",
+    "quote": "CHAPTER 50 Thursday, 4:21 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "16:23",
     "quote": "They were hurrying west, trying to reach the river before sunset. The warming-related 'adjustments' to Earth's orbit had shortened the winter days, so that now, in January, sunset was taking place at 4.23.",
     "title": "A visit from the goon squad",
@@ -6921,6 +7408,12 @@
     "title": "The Man with the Twisted Lip",
     "author": "Arthur Conan-Doyle",
     "language": "en"
+  },
+  {
+    "time": "16:27",
+    "quote": "…presented seem to be dry runs for exactly what happened to the Schraeders this afternoon.”\n\nCHAPTER 15 Wednesday, 4:27 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "16:30",
@@ -7350,6 +7843,12 @@
     "language": "en"
   },
   {
+    "time": "17:00",
+    "quote": "You do.”\n\nChapter 32 It was closing in on 5:00 p.m. as I make my way down the row of cubicles toward the Sheriff’s Office, hoping to catch him\n            before he left for the day.",
+    "title": "The Color of Death",
+    "author": "Trey Gowdy"
+  },
+  {
     "time": "17:01",
     "quote": "About five in themorning I discovered my lovely boy, whom the night before I had seen bloomingand active in health, stretched on the grass livid and motionless; the print ofthe murder’s finger was on…",
     "title": "Frankenstein; or, the modern prometheus",
@@ -7371,11 +7870,47 @@
     "language": "en"
   },
   {
+    "time": "17:07",
+    "quote": "But the clock is ticking for poor Boo Schraeder.”\n\nCHAPTER 51 Thursday, 5:07 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "17:07",
+    "quote": "CHAPTER 108 Friday, 5:07 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "17:13",
+    "quote": "CHAPTER 16 Wednesday, 5:13 p.m. “OH, WOW, you have Mastermind!” Finney exclaimed. “Of course we have Mastermind,” Three said. “That happens to be our all-time favorite game.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "17:13",
+    "quote": "See you there?” “No place I’d rather be,” Mike said. “Liar.”\n\nCHAPTER 52 Thursday, 5:13 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "17:14",
+    "quote": "The message came in at 5:14 p.m., the day she was murdered.",
+    "title": "The Color of Death",
+    "author": "Trey Gowdy"
+  },
+  {
     "time": "17:15",
     "quote": "…house, but I was told he was expected from London by the six o’clock\ntrain from",
     "title": "The war of the worlds",
     "author": "H. G. Wells",
     "language": "en"
+  },
+  {
+    "time": "17:21",
+    "quote": "Who’s the Mastermind now ?”\n\nCHAPTER 17 Wednesday, 5:21 p.m. “SO WHAT NOW?” Boo Schraeder asked. “What do you mean, what now?” Two said.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "17:23",
@@ -7390,6 +7925,12 @@
     "title": "Never Flinch",
     "author": "Stephen King",
     "language": "en"
+  },
+  {
+    "time": "17:24",
+    "quote": "…kidnapping scheme. “Like I said,” Two told her, “I’m just a guy waiting for a phone call.”\n\nCHAPTER 18 Wednesday, 5:24 p.m. “AGENT GORDON?",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "17:30",
@@ -7418,6 +7959,18 @@
     "title": "Never Flinch",
     "author": "Stephen King",
     "language": "en"
+  },
+  {
+    "time": "17:34",
+    "quote": "I note the time, 5:34 p.m.",
+    "title": "The Color of Death",
+    "author": "Trey Gowdy"
+  },
+  {
+    "time": "17:43",
+    "quote": "…text message\n            from Martin’s wife.” I flip to page nine to read the exact time and the exchange. “At 5:43 PM, Tiffany Weber texted Martin: UPSTAIRS WITH HEADACHE.",
+    "title": "The Color of Death",
+    "author": "Trey Gowdy"
   },
   {
     "time": "17:45",
@@ -7581,7 +8134,7 @@
     "language": "en"
   },
   {
-    "time": "18:00",
+    "time": "06:00",
     "quote": "But his\nonly attendant was a deaf and rheumatic old crone who went to bed at six\no’clock every evening and got up at six in the morning.",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
@@ -7679,7 +8232,7 @@
     "language": "en"
   },
   {
-    "time": "18:00",
+    "time": "06:00",
     "quote": "I set sail on the twenty-fourth day of September 1701, at six in the morning; and when I had gone about four leagues to the northward, the wind being at south-east, |at six in the evening| I descried a small island, about half a league to the north-west.",
     "title": "Gulliver's Travels",
     "author": "Jonathan Swift",
@@ -7698,6 +8251,12 @@
     "title": "The King in Yellow",
     "author": "Robert W. Chambers",
     "language": "en"
+  },
+  {
+    "time": "18:00",
+    "quote": "At 1800 hours, Poole would awaken, and he would hand over command.",
+    "title": "2001: A Space Odyssey",
+    "author": "Arthur C. Clarke"
   },
   {
     "time": "18:02",
@@ -7789,6 +8348,12 @@
     "title": "Never Flinch",
     "author": "Stephen King",
     "language": "en"
+  },
+  {
+    "time": "18:20",
+    "quote": "Chapter 25 To my amazement, Jet calls my burner phone at 6:20 p.m. and tells me she’s five minutes from my house.",
+    "title": "Cemetery Road: A Novel",
+    "author": "Greg Iles"
   },
   {
     "time": "18:25",
@@ -7896,6 +8461,12 @@
     "language": "en"
   },
   {
+    "time": "18:34",
+    "quote": "I was just being a castrating bitch.”\n\nCHAPTER 23 Wednesday, 6:34 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "18:35",
     "quote": "And then it was 6.35 pm and I heard Father come home in his van and I moved the bed up against the door so he couldn't get in and he came into the house and he and Mother shouted at each other.",
     "title": "The Curious Incident of the Dog in the Night-time",
@@ -7922,6 +8493,18 @@
     "title": "The Family Reunion",
     "author": "TS Eliot",
     "language": "en"
+  },
+  {
+    "time": "18:40",
+    "quote": "CHAPTER 54 Thursday, 6:40 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "18:42",
+    "quote": "…hushed tone, as if sharing a dirty secret: “Do we have to kill someone to get your attention?”\n\nCHAPTER 57 Thursday, 6:42 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "18:45",
@@ -7994,6 +8577,12 @@
     "language": "en"
   },
   {
+    "time": "18:54",
+    "quote": "CHAPTER 59 Thursday, 6:54 p.m. “IT’S CUED UP, Ms.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "18:56",
     "quote": "About seven o’clock Ned and Conseil joined me. “Well, Sir Naturalist,” said the ",
     "title": "Twenty Thousand Leagues under the Sea",
@@ -8006,6 +8595,12 @@
     "title": "The Tay Bridge Disaster",
     "author": "William McGonagall",
     "language": "en"
+  },
+  {
+    "time": "18:58",
+    "quote": "CHAPTER 62 Thursday, 6:58 p.m. “YOU REALLY DON’T know what you’re doing,” Boo Schraeder said with a sweet smile. “Pretty sure I know the usual moves.” Two couldn’t help himself—he leaned forward for another…",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "18:59",
@@ -8085,7 +8680,7 @@
     "language": "en"
   },
   {
-    "time": "19:00",
+    "time": "14:52",
     "quote": "But before\nthree o’clock in the afternoon that something took place to which I\nalluded at the end of the last book, something so unexpected by all of us and\nso contrary to the general hope, that, I repeat, this trivial…",
     "title": "The Brothers Karamazov",
     "author": "Fyodor Dostoyevsky",
@@ -8113,7 +8708,7 @@
     "language": "en"
   },
   {
-    "time": "19:00",
+    "time": "03:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "At three o’clock in the morning of the 26th of November the Nautilus crossed the tropic of Cancer at 172° long.",
@@ -8176,11 +8771,35 @@
     "language": "en"
   },
   {
+    "time": "19:05",
+    "quote": "We think the 8 is actually an 0.” “Why?” “We think 1985 is actually 1905,” Crater says. “In military parlance that’s 7:05 p.m.” “Yeah?” I mutter. “So?” “There’s a TWA flight leaving Charles de Gaulle this Friday, November 15, at 7:05,” Palakon says. “So what?” I’m asking. “Aren’t there a lot of flights…",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis"
+  },
+  {
     "time": "19:06",
     "quote": "To shoot him! 9 7:06 PM.",
     "title": "Never Flinch",
     "author": "Stephen King",
     "language": "en"
+  },
+  {
+    "time": "19:07",
+    "quote": "…smart enough to get us out of this place alive. “Tim Dowd.” “Well, then, let’s go, Tim Dowd.”\n\nCHAPTER 65 Thursday, 7:07 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "19:08",
+    "quote": "CHAPTER 66 Thursday, 7:08 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
+    "time": "19:09",
+    "quote": "CHAPTER 68 Thursday, 7:09 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "19:10",
@@ -8230,6 +8849,12 @@
     "title": "Never Flinch",
     "author": "Stephen King",
     "language": "en"
+  },
+  {
+    "time": "19:17",
+    "quote": "Or would you do anything in your power—and I mean anything —to guarantee her safe return?”\n\nCHAPTER 25 Wednesday, 7:17 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "19:23",
@@ -8349,6 +8974,13 @@
     "title": "Game, Set & Murder: The deliciously gripping new cosy murder mystery for 2025!",
     "author": "Judy Murray",
     "language": "en"
+  },
+  {
+    "time": "19:58",
+    "quote": "The declivity was so small, that I walked near a mile before I got to the shore, which I conjectured was about eight o’clock in the evening.",
+    "title": "Gulliver's Travels into Several Remote Nations of the World",
+    "author": "Jonathan Swift",
+    "time_match": "eight o’clock in the evening"
   },
   {
     "time": "20:00",
@@ -8568,7 +9200,7 @@
     "language": "en"
   },
   {
-    "time": "20:00",
+    "time": "10:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "Look! just\nnow, it is ten o’clock in the morning.” “Exactly.” “Another application of electricity.",
@@ -8589,7 +9221,7 @@
     "language": "en"
   },
   {
-    "time": "20:00",
+    "time": "13:01",
     "author": "H. G. Wells",
     "title": "The war of the worlds",
     "quote": "About one o’clock in the afternoon\nthe thinning remnant of a cloud of the black vapour appeared between the arches\nof Blackfriars Bridge.",
@@ -8666,6 +9298,13 @@
     "language": "en"
   },
   {
+    "time": "20:05",
+    "quote": "It was now about eight o’clock at night, and the captain ordered supper immediately, thinking I had already fasted too long.",
+    "title": "Gulliver's Travels into Several Remote Nations of the World",
+    "author": "Jonathan Swift",
+    "time_match": "eight o’clock at night"
+  },
+  {
     "time": "20:07",
     "quote": "Bennie pulled the transcripts for that night. The first call had come in at 8:07, with a positive ID.",
     "title": "Mistaken Identity",
@@ -8678,6 +9317,12 @@
     "title": "Infinite Jest",
     "author": "David Foster Wallace",
     "language": "en"
+  },
+  {
+    "time": "20:13",
+    "quote": "Finally, at 8:13 p.m., when the rest of the strike force was in position, the order to fire was given.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "20:15",
@@ -8757,6 +9402,12 @@
     "language": "en"
   },
   {
+    "time": "20:30",
+    "quote": "At 8:30 p.m. the alarm on McGee’s watch went off.",
+    "title": "Edge of Honor: A Thriller",
+    "author": "Brad Thor"
+  },
+  {
     "time": "20:35",
     "quote": "Left Munich at 8.35 p.m. on 1st May, arriving at Vienna early the next morning",
     "title": "Dracula",
@@ -8804,6 +9455,12 @@
     "title": "A Handful of Dust",
     "author": "Evelyn Waugh",
     "language": "en"
+  },
+  {
+    "time": "20:47",
+    "quote": "…returned to his phone conversation. “We have the two of them,” he said. “One hundred percent.”\n\nCHAPTER 71 Thursday, 8:47 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "20:50",
@@ -8860,6 +9517,13 @@
     "title": "The Adventures of Sherlock Holmes",
     "author": "Arthur Conan Doyle",
     "language": "en"
+  },
+  {
+    "time": "20:55",
+    "quote": "It was nearly nine o’clock when I       found myself in the sitting-room once more.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "nine o’clock"
   },
   {
     "time": "20:57",
@@ -9072,21 +9736,21 @@
     "language": "en"
   },
   {
-    "time": "21:00",
+    "time": "18:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "At six o’clock in the evening we had regained the shore; our boat was moored to\nthe usual place.",
     "language": "en"
   },
   {
-    "time": "21:00",
+    "time": "10:59",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "As for the savages, they returned to the shore\nabout eleven o’clock in the morning, as soon as the coral tops began to\ndisappear under the rising tide; but I saw their numbers had increased\nconsiderably on the shore.",
     "language": "en"
   },
   {
-    "time": "21:00",
+    "time": "17:00",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "At five o’clock in the evening, before that fleeting twilight which binds night\nto day in tropical zones, Conseil and I were astonished by a curious spectacle.",
@@ -9205,6 +9869,12 @@
     "language": "en"
   },
   {
+    "time": "21:00",
+    "quote": "Chapter 4 As 9:00 P.M.",
+    "title": "License Invoked",
+    "author": "Robert Asprin"
+  },
+  {
     "time": "21:01",
     "quote": "It was now about nine o’clock, and the room seeming almost supernaturally\n      quiet after these orgies, I began to congratulate myself upon a little\n      plan that had occurred to me just previous to the…",
     "title": "Moby Dick; Or, The Whale",
@@ -9219,7 +9889,7 @@
     "language": "en"
   },
   {
-    "time": "21:01",
+    "time": "14:00",
     "quote": "…mother\n      dragged me by the legs out of the chimney and packed me off to bed, though\n      it was only two o’clock in the afternoon of the 21st June, the longest day\n      in the year in our hemisphere.",
     "title": "Moby Dick; Or, The Whale",
     "author": "Herman Melville",
@@ -9345,7 +10015,7 @@
     "language": "en"
   },
   {
-    "time": "21:30",
+    "time": "14:00",
     "author": "Stephen King",
     "title": "Never Flinch",
     "quote": "It’s only two o’clock in the afternoon, but there are at least twenty customers, mostly men, sitting at the bar and imbibing their own drug of choice, which happens to be legal.",
@@ -9583,6 +10253,13 @@
     "language": "en"
   },
   {
+    "time": "21:56",
+    "quote": "We laid low and kept still, and never shoved out till nearly ten o’clock; then we slid by, pretty wide away from the town, and didn’t hoist our lantern till we was clear out of sight of it.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "ten o’clock"
+  },
+  {
     "time": "21:58",
     "quote": "…he deposed, that he had been out fishing the night before\nwith his son and brother-in-law, Daniel Nugent, when, about ten o'clock,\nthey observed a strong northerly blast rising, and they accordingly put\nin for port.",
     "title": "Frankenstein; Or, The Modern Prometheus",
@@ -9609,6 +10286,12 @@
     "title": "The murder of Roger Ackroyd",
     "quote": "…did you do\n    when you got back to the house?” “I went up to my room.” “And stayed there until when?” “Until about ten o’clock.” “Is there any one who can prove that?” “Prove?",
     "language": "en"
+  },
+  {
+    "time": "21:58",
+    "quote": "The woman pulled a phone out of her purse, pressed a number, and said: “One hundred percent.”\n\nCHAPTER 74 Thursday, 9:58 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "22:00",
@@ -9723,7 +10406,7 @@
     "language": "en"
   },
   {
-    "time": "22:00",
+    "time": "14:02",
     "author": "Jules Verne",
     "title": "Twenty Thousand Leagues under the Sea",
     "quote": "…and for the few moments when we\nwere stationary, we were likely to be entirely blocked, which did indeed happen\nabout two o’clock in the afternoon, the fresh ice forming around its sides with\nastonishing rapidity.",
@@ -9835,11 +10518,44 @@
     "language": "en"
   },
   {
+    "time": "22:00",
+    "quote": "Well, next day they found out the nigger was gone; they found out he hadn’t ben seen sence ten o’clock the night the murder was done.",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "Every night now I used to slip ashore towards ten o’clock at some little village, and buy ten or fifteen cents’ worth of meal or bacon or other stuff to eat; and sometimes I lifted a chicken that warn’t roosting comfortable, and took…",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "When we was three-quarters of a mile below we hoisted up our signal lantern; and about ten o’clock it come on to rain and blow and thunder and lighten like everything; so the king told us to both stay on watch till the weather got better; then him and the duke crawled into…",
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "We’ll catch whoever’s behind this.”\n\nChapter 12 At 10:00 P.M., the SATN-TV host pointed into the camera lens. “Yes, ladies and gentlemen, you, yes, you !",
+    "title": "License Invoked",
+    "author": "Robert Asprin"
+  },
+  {
     "time": "22:08",
     "quote": "'My watch is always a little fast,' I said. 'What time do you make it now?' 'Ten eight.' 'Ten eighteen by mine. You see.'",
     "title": "The Quiet American",
     "author": "Graham Greene",
     "language": "en"
+  },
+  {
+    "time": "22:11",
+    "quote": "Damn it!”\n\nCHAPTER 27 Wednesday, 10:11 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "22:12",
@@ -9912,11 +10628,23 @@
     "language": "en"
   },
   {
+    "time": "22:22",
+    "quote": "CHAPTER 75 Thursday, 10:22 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "22:25",
     "quote": "Got new cassette in now. Right. Turn to \"Recording.................. Aargh Newsnight is starting",
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
     "language": "en"
+  },
+  {
+    "time": "22:29",
+    "quote": "Let’s find these sons of bitches.”\n\nCHAPTER 76 Thursday, 10:29 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "22:30",
@@ -10199,11 +10927,23 @@
     "language": "en"
   },
   {
+    "time": "23:02",
+    "quote": "CHAPTER 78 Thursday, 11:02 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
+  },
+  {
     "time": "23:03",
     "quote": "Then it grew dark; she would have had them to bed, but they begged sadly to be allowed to stay up; and, just about eleven o’clock, the door-latch was raised quietly, and in stepped the master.",
     "title": "Wuthering Heights",
     "author": "Emily Brontë",
     "language": "en"
+  },
+  {
+    "time": "23:03",
+    "quote": "CHAPTER 80 Thursday, 11:03 p.m.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "23:05",
@@ -10269,6 +11009,13 @@
     "language": "en"
   },
   {
+    "time": "23:30",
+    "quote": "Holmes,       it’s half-past eleven now and I am going back right away to my hotel.",
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "time_match": "half-past eleven"
+  },
+  {
     "time": "23:32",
     "quote": "And then it was 11.32pm and I heard voices of people walking along the street.",
     "title": "The Curious Incident Of The Dog In The Nightime",
@@ -10290,11 +11037,23 @@
     "language": "en"
   },
   {
+    "time": "23:43",
+    "quote": "So I wrote full—scale cock tracing, you know, 11:43 p.m., sunday, november 24th or whatever the date was.",
+    "title": "Vox",
+    "author": "Nicholson Baker"
+  },
+  {
     "time": "23:45",
     "quote": "At 11:50 P.M., I got up extremely quietly, took my things from under the bed, and opened the door one millimeter at a time, so it wouldn't make any noise.",
     "title": "Extremely Loud and Incredibly Close",
     "author": "Jonathan Safran Foer",
     "language": "en"
+  },
+  {
+    "time": "23:49",
+    "quote": "CHAPTER 81 Thursday, 11:49 p.m. “WHERE ARE WE going, exactly?” “We are looking for a car.” “Something wrong with the one we’re currently using?” “Sooner or later the owner is going to notice it’s missing.",
+    "title": "Billion-Dollar Ransom",
+    "author": "James Patterson"
   },
   {
     "time": "23:50",
@@ -10318,7 +11077,7 @@
     "language": "en"
   },
   {
-    "time": "23:56",
+    "time": "06:00",
     "quote": "As early as six o’clock in the morning, sallow faces peeping\n      through its barred windows had descried other faces within, bending over\n      measures of wine.",
     "title": "A Tale of Two Cities",
     "author": "Charles Dickens",
