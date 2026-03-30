@@ -1300,5 +1300,215 @@
         "timestamp": "2026-03-23T03:00:11.077728"
       }
     ]
+  },
+  {
+    "batch_date": "2026-03-29T21:11:07.521410",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 6,
+    "details": [
+      {
+        "file": "The_Power_of_the_Dog_Don_Winslow.epub",
+        "title": "The Power of the Dog",
+        "author": "Don Winslow",
+        "total_found": 67,
+        "high_added": 1,
+        "review_queued": 6,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T21:11:05.842564"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-29T21:12:26.001866",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "American_Gods_Neil_Gaiman.epub",
+        "title": "American Gods",
+        "author": "Neil Gaiman",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T21:12:25.060875"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-29T21:14:49.641341",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 3,
+    "details": [
+      {
+        "file": "Snow_Crash_Neal_Stephenson.epub",
+        "title": "Snow Crash",
+        "author": "Neal Stephenson",
+        "total_found": 69,
+        "high_added": 2,
+        "review_queued": 3,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T21:14:48.997655"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-29T22:16:16.410293",
+    "books_processed": 13,
+    "quotes_added": 5,
+    "quotes_review": 634,
+    "details": [
+      {
+        "file": "gutenberg_110.epub",
+        "title": "Tess of the d'Urbervilles: A Pure Woman",
+        "author": "Thomas Hardy",
+        "total_found": 73,
+        "high_added": 0,
+        "review_queued": 32,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:02.534968"
+      },
+      {
+        "file": "gutenberg_1184.epub",
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "total_found": 411,
+        "high_added": 1,
+        "review_queued": 201,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:03.167031"
+      },
+      {
+        "file": "gutenberg_1342.epub",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "total_found": 31,
+        "high_added": 0,
+        "review_queued": 6,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:05.373946"
+      },
+      {
+        "file": "gutenberg_135.epub",
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "total_found": 339,
+        "high_added": 1,
+        "review_queued": 159,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:05.955071"
+      },
+      {
+        "file": "gutenberg_1399.epub",
+        "title": "Anna Karenina",
+        "author": "graf Leo Tolstoy",
+        "total_found": 137,
+        "high_added": 0,
+        "review_queued": 73,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:08.480842"
+      },
+      {
+        "file": "gutenberg_158.epub",
+        "title": "Emma",
+        "author": "Jane Austen",
+        "total_found": 45,
+        "high_added": 0,
+        "review_queued": 8,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:09.860025"
+      },
+      {
+        "file": "gutenberg_161.epub",
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "total_found": 47,
+        "high_added": 0,
+        "review_queued": 13,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:10.514847"
+      },
+      {
+        "file": "gutenberg_2147.epub",
+        "title": "The Works of Edgar Allan Poe — Volume 1",
+        "author": "Edgar Allan Poe",
+        "total_found": 108,
+        "high_added": 0,
+        "review_queued": 35,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:11.007257"
+      },
+      {
+        "file": "gutenberg_2148.epub",
+        "title": "The Works of Edgar Allan Poe — Volume 2",
+        "author": "Edgar Allan Poe",
+        "total_found": 54,
+        "high_added": 0,
+        "review_queued": 7,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:11.413268"
+      },
+      {
+        "file": "gutenberg_2489.epub",
+        "title": "Moby Dick; Or, The Whale",
+        "author": "Herman Melville",
+        "total_found": 86,
+        "high_added": 1,
+        "review_queued": 11,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:11.835912"
+      },
+      {
+        "file": "gutenberg_2600.epub",
+        "title": "War and Peace",
+        "author": "graf Leo Tolstoy",
+        "total_found": 244,
+        "high_added": 0,
+        "review_queued": 64,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:12.703250"
+      },
+      {
+        "file": "gutenberg_3409.epub",
+        "title": "Barchester Towers",
+        "author": "Anthony Trollope",
+        "total_found": 67,
+        "high_added": 2,
+        "review_queued": 18,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:15.247964"
+      },
+      {
+        "file": "gutenberg_521.epub",
+        "title": "The Life and Adventures of Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "total_found": 98,
+        "high_added": 0,
+        "review_queued": 7,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:16:15.972614"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-29T22:18:08.929409",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "Mrs_Dalloway_Virginia_Woolf.epub",
+        "title": "Mrs Dalloway",
+        "author": "Virginia Woolf",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-29T22:18:08.479722"
+      }
+    ]
   }
 ]
