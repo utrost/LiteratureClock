@@ -358,6 +358,14 @@
     "time_match": "one o’clock"
   },
   {
+    "time": "00:55",
+    "quote": "…strained as she went through the catalogue of natural and man-made disasters that had struck the planet since about one o’clock that morning. ‘When you killed the Giant,’ said the pigeon.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "one o’clock"
+  },
+  {
     "time": "00:56",
     "quote": "It was 12:56 A.M. when Gerald drove up onto the grass and pulled the limousine right next to the cemetery.",
     "title": "Extremely Loud and Incredibly Close",
@@ -614,6 +622,22 @@
     "time_match": "one o’clock"
   },
   {
+    "time": "01:00",
+    "quote": "It’s swimming through the tank to my left, at the sphere’s one o’clock, tracking our motion.",
+    "title": "Hull Zero Three",
+    "author": "Greg Bear",
+    "confidence": "medium",
+    "time_match": "one o’clock"
+  },
+  {
+    "time": "01:00",
+    "quote": "…person who had the entire world in his head was Devin, since he had delivered a thousand pages of new material at one o’clock this morning, emailing it from his room in the North Tower of the Schloss, and no one had had time to do more than scan it.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "one o’clock"
+  },
+  {
     "time": "01:04",
     "quote": "Not long after one o’clock there was a slight creak in the darkened\nfarmhouse once the mansion of the d’Urbervilles.",
     "title": "Tess of the d'Urbervilles: A Pure Woman",
@@ -798,6 +822,14 @@
     "title": "The Adventures of Sherlock Holmes",
     "author": "Arthur Conan Doyle",
     "language": "en"
+  },
+  {
+    "time": "01:56",
+    "quote": "…mass of gray and brown and white very slowly comes back into view, then stops, parking itself “below” us at about two o’clock as I look outboard and forward.",
+    "title": "Hull Zero Three",
+    "author": "Greg Bear",
+    "confidence": "medium",
+    "time_match": "two o’clock"
   },
   {
     "time": "01:57",
@@ -1180,6 +1212,14 @@
     "time_match": "two o’clock in the morning"
   },
   {
+    "time": "02:00",
+    "quote": "So I wound up on the roof of the castle at two o’clock in the morning of New Year’s Eve, waiting in stillness and silence.",
+    "title": "Twelve Months",
+    "author": "Jim Butcher",
+    "confidence": "medium",
+    "time_match": "two o’clock in the morning"
+  },
+  {
     "time": "02:02",
     "quote": "About two o’clock when everything was quiet, and even Fyodor Pavlovitch\nhad gone to bed, Ivan had got into bed, firmly resolved to fall asleep at once,\nas he felt fearfully exhausted.",
     "title": "The Brothers Karamazov",
@@ -1243,6 +1283,22 @@
     "author": "Matt Dinniman"
   },
   {
+    "time": "02:24",
+    "quote": "At 12:38 he had been waiting in line at Sea-Tac to have his retina scanned by Homeland Security, and at 2:24 he was slamming back pints in the hotel restaurant and getting the job done.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "At 12:38"
+  },
+  {
+    "time": "02:24",
+    "quote": "At 12:38 he had been waiting in line at Sea-Tac to have his retina scanned by Homeland Security, and at 2:24 he was slamming back pints in the hotel restaurant and getting the job done.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 2:24"
+  },
+  {
     "time": "02:30",
     "quote": "Inc, I tried to pull her off about 0230, and there was this fucking...sound",
     "title": "Infinite Jest",
@@ -1293,6 +1349,22 @@
     "time_match": "half past two"
   },
   {
+    "time": "02:30",
+    "quote": "He looked at his watch; it was half-past two in the morning.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "half-past two"
+  },
+  {
+    "time": "02:30",
+    "quote": "…will be yours again.\" \"Yes,\" she says, placing her hand over my eyes. \"Please sleep now.\" She wakes me at exactly half past two.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "half past two"
+  },
+  {
     "time": "02:31",
     "quote": "And then I woke up because there were people shouting in the flat and it was 2.31 am. And one of the people was Father and I was frightened.",
     "title": "The Curious Incident of the Dog in the Night-time",
@@ -1311,6 +1383,14 @@
     "quote": "There’s no traffic on the streets at quarter to three in the morning.",
     "title": "The Power of the Dog",
     "author": "Don Winslow",
+    "confidence": "medium",
+    "time_match": "quarter to three"
+  },
+  {
+    "time": "02:45",
+    "quote": "It’s quarter to three.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
     "confidence": "medium",
     "time_match": "quarter to three"
   },
@@ -1866,6 +1946,14 @@
     "author": "graf Leo Tolstoy",
     "confidence": "medium",
     "time_match": "three o’clock"
+  },
+  {
+    "time": "03:00",
+    "quote": "I don’t like sherry.’ So it was that Malcolm found himself sharing a bottle of gin with the Prince of Nibelheim at three o’clock in the morning.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "three o’clock in the morning"
   },
   {
     "time": "03:02",
@@ -2490,6 +2578,22 @@
     "time_match": "half-past four"
   },
   {
+    "time": "04:30",
+    "quote": "Wake her up at 4:00 so that when you rouse the men at 4:30, water will be hot and breakfast ready.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 4:00"
+  },
+  {
+    "time": "04:30",
+    "quote": "Wake her up at 4:00 so that when you rouse the men at 4:30, water will be hot and breakfast ready.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 4:30"
+  },
+  {
     "time": "04:32",
     "quote": "…going to be a beautiful day and… well, this is embarrassing to admit, but I’m a very huge fan.”\n\nCHAPTER 96 Friday, 4:32 a.m.",
     "title": "Billion-Dollar Ransom",
@@ -2963,6 +3067,14 @@
     "time_match": "five o’clock"
   },
   {
+    "time": "05:00",
+    "quote": "…at me. “You look remarkably put-together considering last night’s carousing.” She pouts, pushes her lips out. “It is five o’clock, though.” “Good genes.” I shrug. “Nice robe,” she says, drifting upstairs. “Hey, it’s freezing in here,” Bobby says, finally letting go of Jamie. “Then get dressed,” she says…",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "five o’clock"
+  },
+  {
     "time": "05:03",
     "quote": "On reaching the library, he found that it was just after five o’clock andthat the tea had been already brought up.",
     "title": "The Picture of Dorian Gray",
@@ -3017,6 +3129,38 @@
     "quote": "Our main switchboard started ringing off the hook at\n            5:30 a.m. , as the print subscribers began calling in to voice their displeasure.",
     "title": "Cemetery Road: A Novel",
     "author": "Greg Iles"
+  },
+  {
+    "time": "05:30",
+    "quote": "…and the city looks vaguely unreal, there’s a sky like from October 1973 or something hanging over it and right now at 5:30 this is Manhattan as Loud Place: jackhammers, horns, sirens, breaking glass, recycling trucks, whistles, booming bass from the new Ice Cube, unwanted sound trailing behind me as…",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "at 5:30"
+  },
+  {
+    "time": "05:30",
+    "quote": "He’s saying “Shhh.” 26 Because métro service doesn’t begin until 5:30 I’m walking aimlessly through a dark early-morning fog, staggering for long stretches, until automatic timers turn the streetlights off and clubs are just closing and a figure,…",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "until 5:30"
+  },
+  {
+    "time": "05:30",
+    "quote": "So figure we meet there at 5:30 and get under way.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 5:30"
+  },
+  {
+    "time": "05:30",
+    "quote": "Jahandar and Ershut will, inshallah, come up here at around 5:30 to let you know that we are ready to go; when you see them, lead the rest of the expedition down to the trail.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "around 5:30"
   },
   {
     "time": "05:35",
@@ -3643,6 +3787,26 @@
     "time_match": "half-past six"
   },
   {
+    "time": "06:30",
+    "quote": "The phone told her it was 6:30 a.m.",
+    "title": "The Midnight Library",
+    "author": "Matt Haig"
+  },
+  {
+    "time": "06:30",
+    "quote": "Why was she getting up at 6:30 a.m.?",
+    "title": "The Midnight Library",
+    "author": "Matt Haig"
+  },
+  {
+    "time": "06:30",
+    "quote": "Although it was only half-past six, the girl was working already.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "half-past six"
+  },
+  {
     "time": "06:32",
     "quote": "We need you to open up right now !”\n\nCHAPTER 29 Thursday, 6:32 a.m.",
     "title": "Billion-Dollar Ransom",
@@ -3695,6 +3859,14 @@
     "title": "The Sign of the Four",
     "quote": "It was nearly two o’clock when we reached Mrs.",
     "language": "en"
+  },
+  {
+    "time": "06:49",
+    "quote": "This was the text message that Olivia found on the phone when she turned it on while peeing in a thicket at 6:49 the next morning.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 6:49"
   },
   {
     "time": "06:55",
@@ -3995,6 +4167,14 @@
     "author": "James Patterson"
   },
   {
+    "time": "07:05",
+    "quote": "…that’s 7:05 p.m.” “Yeah?” I mutter. “So?” “There’s a TWA flight leaving Charles de Gaulle this Friday, November 15, at 7:05,” Palakon says. “So what?” I’m asking. “Aren’t there a lot of flights leaving on that date, near that time?” “Its flight number is 511,” Palakon says. 9 I’m told to stay calm.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "at 7:05"
+  },
+  {
     "time": "07:07",
     "quote": "When he came outside again, a little after seven, he was reminded of the conversation because he heard Mrs.",
     "title": "The Great Gatsby",
@@ -4108,6 +4288,14 @@
     "time_match": "half-past seven"
   },
   {
+    "time": "07:30",
+    "quote": "…met she looks eerily familiar, as if we’ve known her forever.” 27 Vespa toward the club to have breakfast with Damien at 7:30, with stops at three newsstands to check the papers (nothing, no photo, small-time relief, maybe something more), and in the main dining room, which this morning looks stark and…",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "at 7:30"
+  },
+  {
     "time": "07:35",
     "quote": "I looked at my watch. Seven thirty-five.",
     "title": "Bare Bones",
@@ -4127,6 +4315,14 @@
     "title": "Thud!",
     "author": "Terry Pratchett",
     "language": "en"
+  },
+  {
+    "time": "07:51",
+    "quote": "…before this all happened.” “Actually it was after, ” Corvallis said. “What do you mean?” “Their connection went dead at 7:51.” Corvallis picked up his phone and thumbed away at it for a few minutes. “Zula called me at 8:42.” “Okay.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 7:51"
   },
   {
     "time": "07:55",
@@ -4980,6 +5176,14 @@
     "time_match": "half-past eight"
   },
   {
+    "time": "08:30",
+    "quote": "Half past eight. \"What are your plans for the day?\" she asked. \"Let's leave here at nine,\" I said, \"and go to a park.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "Half past eight"
+  },
+  {
     "time": "08:32",
     "quote": "8.32 a.m. Catch bus to school",
     "title": "The Curious Incident of the Dog in the Night-time",
@@ -5012,6 +5216,22 @@
     "quote": "About 8:40 a.m. a retired kayaker discovered a man he believed to be Buck Ferris wedged in the fork of a cottonwood snag in the Mississippi\n            River, four hundred yards south of the…",
     "title": "Cemetery Road: A Novel",
     "author": "Greg Iles"
+  },
+  {
+    "time": "08:42",
+    "quote": "…went dead at 7:51.” Corvallis picked up his phone and thumbed away at it for a few minutes. “Zula called me at 8:42.” “Okay.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 8:42"
+  },
+  {
+    "time": "08:42",
+    "quote": "She called you at 8:42 and told you this story about working with me on the REAMDE investigation and said she needed to know who had cast a healing spell on her character.” “Yeah, and it turned out to…",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 8:42"
   },
   {
     "time": "08:43",
@@ -5757,6 +5977,30 @@
     "time_match": "nine o'clock"
   },
   {
+    "time": "09:00",
+    "quote": "The first assistant director glances at a call sheet and tells both of us to be on the main set by 9:00 tomorrow.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "by 9:00"
+  },
+  {
+    "time": "09:00",
+    "quote": "Save for those days when I was feverish, he has always awakened me at nine o'clock without fail, bearing a breakfast tray.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "nine o'clock"
+  },
+  {
+    "time": "09:00",
+    "quote": "…of Manila traffic, she allocated four hours for the three-mile taxi ride to the airport and found herself airborne at nine o’clock the following morning.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "nine o’clock"
+  },
+  {
     "time": "09:01",
     "quote": "9:01 am lay in bed, staring at ceiling",
     "title": "A fraction of the whole",
@@ -6073,6 +6317,14 @@
     "time_match": "half-past nine"
   },
   {
+    "time": "09:30",
+    "quote": "Dressing, Watermelon, Chaos The clock read half past nine when she got out of bed, picked up her clothes from the floor, and slowly, leisurely, put them on.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "half past nine"
+  },
+  {
     "time": "09:35",
     "quote": "Nine-thirty-five. He really must be gone. The bird is no longer feeding but sitting at the apex of a curl of razor wire.",
     "title": "The Memory of Love",
@@ -6211,6 +6463,14 @@
     "title": "The Diary of Samuel Pepys",
     "author": "Samuel Pepys",
     "language": "en"
+  },
+  {
+    "time": "09:58",
+    "quote": "Jones was at about ten o’clock, and lower down than Richard had been expecting, since he had apparently thrown himself down to await the results of the grenade.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "ten o’clock"
   },
   {
     "time": "09:59",
@@ -6927,6 +7187,14 @@
     "time_match": "ten o’clock"
   },
   {
+    "time": "10:01",
+    "quote": "At 10:01 the bomb is officially activated.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "At 10:01"
+  },
+  {
     "time": "10:02",
     "quote": "In this room, at about ten o’clock in the morning, the banker himself had been\nwalking to and fro for some minutes thoughtfully and in evident uneasiness,\nwatching both doors, and listening to every sound.",
     "title": "The Count of Monte Cristo",
@@ -6935,12 +7203,36 @@
     "time_match": "ten o’clock in the morning"
   },
   {
+    "time": "10:04",
+    "quote": "At 10:04 I spot the phones.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "At 10:04"
+  },
+  {
     "time": "10:05",
     "quote": "In the morning, about ten o’clock, after\nbreakfast, when she had succeeded in enticing her father into the garden\nfor a quarter of an hour, and when she was pacing up and down in the\nsunlight in front of the…",
     "title": "Les Misérables",
     "author": "Victor Hugo",
     "confidence": "medium",
     "time_match": "ten o’clock"
+  },
+  {
+    "time": "10:05",
+    "quote": "At 10:05 I place the Prada bag at my feet.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "At 10:05"
+  },
+  {
+    "time": "10:06",
+    "quote": "I check my watch at 10:06.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "at 10:06"
   },
   {
     "time": "10:10",
@@ -6954,6 +7246,14 @@
     "quote": "They reached the hotel at 10:12 A.M. and the hotel bar at 10:13, and after dutifully gulping down glasses of water for technical rehydration purposes, they moved on to alcohol. “You can’t tell me that bizjet…",
     "title": "Reamde",
     "author": "Neal Stephenson"
+  },
+  {
+    "time": "10:13",
+    "quote": "They reached the hotel at 10:12 A.M. and the hotel bar at 10:13, and after dutifully gulping down glasses of water for technical rehydration purposes, they moved on to alcohol. “You can’t tell me that bizjet doesn’t have enough fuel to reach…",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 10:13"
   },
   {
     "time": "10:15",
@@ -7112,6 +7412,14 @@
     "title": "Harry Potter and the Chamber of Secrets",
     "author": "J.K.Rowling",
     "language": "en"
+  },
+  {
+    "time": "10:45",
+    "quote": "It seemed that a flight from Taipei was coming in to the local terminal at 10:45.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "at 10:45"
   },
   {
     "time": "10:50",
@@ -7562,6 +7870,46 @@
     "author": "graf Leo Tolstoy",
     "confidence": "medium",
     "time_match": "eleven o’clock"
+  },
+  {
+    "time": "11:00",
+    "quote": "At 11:00 Tammy finally twirls into the room, holding a bunch of white lilies, her arms dotted with sores, most of them concentrated in a patch in the crook of her elbow.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "At 11:00"
+  },
+  {
+    "time": "11:00",
+    "quote": "At eleven o'clock, I left the apartment, headed for the supermarket near the station, stopping next at the liquor store for some red wine, soda water, and orange juice.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "eleven o'clock"
+  },
+  {
+    "time": "11:00",
+    "quote": "At eleven o'clock, I had visitors.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "eleven o'clock"
+  },
+  {
+    "time": "11:00",
+    "quote": "It was not until eleven o’clock the following morning that she was really able to get down to work on the NAG, the North American Gambit, which was her name for the theory that Jones had found some way to fly…",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "eleven o’clock"
+  },
+  {
+    "time": "11:00",
+    "quote": "At eleven o'clock the next morning, the agent is still alive.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "eleven o'clock"
   },
   {
     "time": "11:01",
@@ -8947,6 +9295,14 @@
     "language": "en"
   },
   {
+    "time": "13:25",
+    "quote": "At 1:25 this afternoon, Flight 2039, nonstop from here to Sydney, will be hijacked by a maniac and crash somewhere in the Australian outback.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "At 1:25"
+  },
+  {
     "time": "13:30",
     "quote": "She was a a sticker. A clock away in the town struck half past one.",
     "title": "Brighton Rock",
@@ -9660,6 +10016,38 @@
     "time_match": "two o’clock in the afternoon"
   },
   {
+    "time": "14:00",
+    "quote": "…(‘German farmers in rain horror’) and observed that the storm had started at three o’clock their time, which was two o’clock our time, which was when Malcolm’s new secretary had finally managed to corner him and force him to sign five letters.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "two o’clock"
+  },
+  {
+    "time": "14:00",
+    "quote": "It's two o'clock Saturday afternoon so according to my daily planner, I'm about to boil five lobsters for them to practice eating.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "two o'clock"
+  },
+  {
+    "time": "14:00",
+    "quote": "We have to be there by two o'clock.\" She takes my hand in her amazing cold hand, cold and dry even in the heat, and we push in through the doors, into the air conditioning and first floor with piles of what's…",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "two o'clock"
+  },
+  {
+    "time": "14:00",
+    "quote": "…in the stall next to mine, whispering: \"There's a cruise ship hitting an iceberg tomorrow night.\" Whispering, \"At two o'clock p.m., eastern standard time, next Wednesday, the Bolivian gray panther will become extinct.\" The agent is saying, a major problem for most Americans is disposing of pornographic…",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "two o'clock"
+  },
+  {
     "time": "14:01",
     "quote": "It was almost two o’clock, but nothing moved, Stari Teočak was silent and so empty it seemed abandoned, and yet Tijmen constantly felt he was being observed by invisible eyes.",
     "title": "King of Tuzla",
@@ -9775,6 +10163,14 @@
     "title": "Never Flinch",
     "author": "Stephen King",
     "language": "en"
+  },
+  {
+    "time": "14:15",
+    "quote": "At approximately quarter past two on this particular day, a well-dressed IC1 male in his late sixties, possibly older, entered the shop, approached the counter and proceeded to shout at the members of staff, in…",
+    "title": "Tales From the Folly",
+    "author": "Ben Aaronovitch",
+    "confidence": "medium",
+    "time_match": "quarter past two"
   },
   {
     "time": "14:20",
@@ -10089,6 +10485,14 @@
     "author": "H. G. Wells",
     "confidence": "medium",
     "time_match": "three o’clock"
+  },
+  {
+    "time": "14:56",
+    "quote": "What's there left to eat?\" This can't be happening because according to my daily planner, it's almost three o'clock.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "three o'clock"
   },
   {
     "time": "14:59",
@@ -10605,6 +11009,46 @@
     "time_match": "three o’clock in the afternoon"
   },
   {
+    "time": "15:00",
+    "quote": "He picked up the Daily Mirror (‘German farmers in rain horror’) and observed that the storm had started at three o’clock their time, which was two o’clock our time, which was when Malcolm’s new secretary had finally managed to corner him and force him to sign five letters.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "three o’clock"
+  },
+  {
+    "time": "15:00",
+    "quote": "I mean …” I stand there. “Oh never mind.” Alison drops the robe and puts on some panties. “Three o’clock tomorrow?” “I’m swamped tomorrow, baby, so spare me,” I stammer. “Now, who told you I’m looking at a new space?” “Okay—three o’clock on Monday.” “Why three o’clock?",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "Three o’clock"
+  },
+  {
+    "time": "15:00",
+    "quote": "…“I’m swamped tomorrow, baby, so spare me,” I stammer. “Now, who told you I’m looking at a new space?” “Okay—three o’clock on Monday.” “Why three o’clock?",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "three o’clock"
+  },
+  {
+    "time": "15:00",
+    "quote": "…baby, so spare me,” I stammer. “Now, who told you I’m looking at a new space?” “Okay—three o’clock on Monday.” “Why three o’clock?",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "three o’clock"
+  },
+  {
+    "time": "15:00",
+    "quote": "Which put me at three o'clock.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "three o'clock"
+  },
+  {
     "time": "15:01",
     "quote": "Now for the facts. “On June 3rd, that is, on Monday last, McCarthy left his house at\nHatherley about three in the afternoon and walked down to the Boscombe Pool,\nwhich is a small lake formed by the spreading out of the stream which runs down\nthe Boscombe Valley.",
     "title": "The Adventures of Sherlock Holmes",
@@ -10663,6 +11107,14 @@
     "author": "Victor Hugo",
     "confidence": "medium",
     "time_match": "three o’clock"
+  },
+  {
+    "time": "15:04",
+    "quote": "For weeks, the water has been dripping inside the walls, dissolving plaster, rotting wood, rusting metal, and at 3:04 next Tuesday afternoon, the mammoth crystal chandelier in the middle of the lobby ceiling will drop.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "at 3:04"
   },
   {
     "time": "15:05",
@@ -10822,6 +11274,14 @@
     "author": "Alexandre Dumas",
     "confidence": "medium",
     "time_match": "half-past three"
+  },
+  {
+    "time": "15:30",
+    "quote": "The hands of the clock reached half past three, so I paid up and left.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "half past three"
   },
   {
     "time": "15:31",
@@ -11336,6 +11796,54 @@
     "author": "graf Leo Tolstoy",
     "confidence": "medium",
     "time_match": "four o’clock in the afternoon"
+  },
+  {
+    "time": "16:00",
+    "quote": "So, when the English Rose came knocking on his door at four o’clock, he expected nothing worse than a recital of her holiday plans.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "four o’clock"
+  },
+  {
+    "time": "16:00",
+    "quote": "It leaves New York at four o’clock this afternoon.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "four o’clock"
+  },
+  {
+    "time": "16:00",
+    "quote": "…“You have a reservation in a first-class cabin on the QE2,” Palakon says again, undeterred. “It leaves New York at four o’clock this afternoon.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "four o’clock"
+  },
+  {
+    "time": "16:00",
+    "quote": "As best he could make out from the charts and the GPS, they would reach the island group at something like four o’clock this afternoon.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "four o’clock"
+  },
+  {
+    "time": "16:00",
+    "quote": "…\"I want to be able to look at your planner,\" the speakerphone yells at me, \"and know exactly where I can find you at four o'clock on this day five years from now.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "four o'clock"
+  },
+  {
+    "time": "16:00",
+    "quote": "The beets thing will be at four o'clock.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "four o'clock"
   },
   {
     "time": "16:01",
@@ -12314,6 +12822,38 @@
     "time_match": "five\n      o’clock"
   },
   {
+    "time": "17:00",
+    "quote": "Have you heard today’s news?’ Malcolm looked at his watch; it was five o’clock, and he leaned forward to switch on the radio.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "five o’clock"
+  },
+  {
+    "time": "17:00",
+    "quote": "…“I’m taking commands from someone who uses the word ‘dish’ as a verb?” I yell. “Shut up.” “Fashion Café,” JD says. “Five o’clock.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "Five o’clock"
+  },
+  {
+    "time": "17:00",
+    "quote": "But Fashion Café at five o’clock, Victor!” Beau shouts out. “Why hasn’t anyone found Mica yet?” I shout, moving farther down into the club. “Victor,” JD shouts from behind me. “Can you tell the difference…",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "five o’clock"
+  },
+  {
+    "time": "17:00",
+    "quote": "At five o'clock, the agent is still alive, and I'm getting strapped into a white tuxedo with a white bow tie.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "five o'clock"
+  },
+  {
     "time": "17:01",
     "quote": "About five in themorning I discovered my lovely boy, whom the night before I had seen bloomingand active in health, stretched on the grass livid and motionless; the print ofthe murder’s finger was on…",
     "title": "Frankenstein; or, the modern prometheus",
@@ -12491,6 +13031,38 @@
     "time_match": "half-past five"
   },
   {
+    "time": "17:30",
+    "quote": "He had chosen half-past four in the afternoon as the best time for reading the daily papers, and from half-past four to half-past five (occasionally a quarter to six) each day he almost made himself feel…",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "half-past four"
+  },
+  {
+    "time": "17:30",
+    "quote": "He had chosen half-past four in the afternoon as the best time for reading the daily papers, and from half-past four to half-past five (occasionally a quarter to six) each day he almost made himself feel that he enjoyed being extremely nice and bored stiff, for he knew that all the good news that filled the…",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "half-past five"
+  },
+  {
+    "time": "17:30",
+    "quote": "They had tried six shops, and it was nearly half-past five. ‘It’s no good,’ said the girl. ‘I don’t like any of the ones we’ve seen.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "half-past five"
+  },
+  {
+    "time": "17:30",
+    "quote": "…a set,” I’m saying. “Forget about it.” 11 Though the restaurant doesn’t serve until 6 Jamie gets us into Le Caprice at 5:30 with a cryptic phone call she makes in the cab on the way to Arlington Square. “I was supposed to have dinner with Amanda Harlech but I think this will be much more, er,…",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "at 5:30"
+  },
+  {
     "time": "17:33",
     "quote": "Then darkens to black. 10 5:33 PM.",
     "title": "Never Flinch",
@@ -12515,6 +13087,14 @@
     "title": "Never Flinch",
     "author": "Stephen King",
     "language": "en"
+  },
+  {
+    "time": "17:45",
+    "quote": "…afternoon as the best time for reading the daily papers, and from half-past four to half-past five (occasionally a quarter to six) each day he almost made himself feel that he enjoyed being extremely nice and bored stiff, for he knew that all the good news that filled the papers was, in one way or another,…",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "quarter to six"
   },
   {
     "time": "17:48",
@@ -13077,6 +13657,62 @@
     "time_match": "six o’clock in the\n      evening"
   },
   {
+    "time": "18:00",
+    "quote": "Silence falls over me like a fine dust. \"I will return tomorrow at six o'clock in the evening,\" I say. \"Good-bye,\" she says.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "six o'clock in the evening"
+  },
+  {
+    "time": "18:00",
+    "quote": "At six o'clock, I push open the door, have supper with the Librarian, then read old dreams.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "six o'clock"
+  },
+  {
+    "time": "18:00",
+    "quote": "At six o'clock, the chubby girl still hadn't shown.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "six o'clock"
+  },
+  {
+    "time": "18:00",
+    "quote": "Why couldn't they just leave work at six o'clock, go home, and lights-out by ten?",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "six o'clock"
+  },
+  {
+    "time": "18:00",
+    "quote": "The library closes at six o'clock on Sundays.\" \"Will do,\" I said. \"And thanks again.\" \"You're very welcome,\" said she, then hung up.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "six o'clock"
+  },
+  {
+    "time": "18:00",
+    "quote": "At six o'clock, a bell sounded.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "six o'clock"
+  },
+  {
+    "time": "18:00",
+    "quote": "At six o'clock, the Super Bowl begins.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "six o'clock"
+  },
+  {
     "time": "18:02",
     "quote": "Then about six o’clock I can.",
     "title": "Ulysses",
@@ -13352,6 +13988,14 @@
     "time_match": "half-past six"
   },
   {
+    "time": "18:30",
+    "quote": "I waited until half past six.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "half past six"
+  },
+  {
     "time": "18:33",
     "quote": "Every evening, Michel took the train home, changed at Esbly and usually arrived in Crécy on the 6.33pm train where Annabelle would be waiting at the station",
     "title": "Atomised",
@@ -13458,6 +14102,14 @@
     "time": "18:45",
     "quote": "…be\nnoticed, which is why Y.T.'s mom is sliding into the first unoccupied\nworkstation and signing on to her machine at quarter to seven.",
     "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "quarter to seven"
+  },
+  {
+    "time": "18:45",
+    "quote": "It was now about quarter to seven.",
+    "title": "Reamde",
     "author": "Neal Stephenson",
     "confidence": "medium",
     "time_match": "quarter to seven"
@@ -13953,6 +14605,22 @@
     "time_match": "seven o’clock"
   },
   {
+    "time": "19:00",
+    "quote": "Fred Palakon calls at 7:00.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "at 7:00"
+  },
+  {
+    "time": "19:00",
+    "quote": "…for my crisis hotline she writes an address, repeating the number and street into the phone. \"Fine,\" she says. \"Seven o'clock then.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "Seven o'clock"
+  },
+  {
     "time": "19:01",
     "quote": "At\nShaston, however, he found he must hire; but the way was such that he did not\nenter Joan’s place till about seven o’clock in the evening, having\ntraversed a distance of over twenty miles since leaving Marlott.",
     "title": "Tess of the d'Urbervilles: A Pure Woman",
@@ -14171,6 +14839,14 @@
     "time_match": "half-past seven"
   },
   {
+    "time": "19:30",
+    "quote": "…of pattern being revealed, and then departure. 9 While I’m getting dressed to meet Marina at the Queen’s Grill Lounge at 7:30 before dinner with the Wallaces, the captain makes an announcement over the intercom, something about a distress signal emanating from a shipping vessel that the QE2 will be…",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "at 7:30"
+  },
+  {
     "time": "19:40",
     "quote": "Jerome takes the gun and runs for the Holman Rink. 11 7:40 PM.",
     "title": "Never Flinch",
@@ -14230,6 +14906,14 @@
     "time_match": "quarter before eight"
   },
   {
+    "time": "19:45",
+    "quote": "Sleep was good in this life, and she didn’t wake up until the alarm went off at a quarter to eight.",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "confidence": "medium",
+    "time_match": "quarter to eight"
+  },
+  {
     "time": "19:53",
     "quote": "Wednesday, 11 th December 1963. 7.53 p.m. 'Help me. You've got to help me.' The woman's voice quavered on the edge of tears. The duty constable who had picked up the phone heard a hiccuping gulp, as if the caller was struggling to speak.",
     "title": "A Place of Execution",
@@ -14241,6 +14925,14 @@
     "quote": "…purchased food as usual, and their night march began, the boundary\nbetween Upper and Mid-Wessex being crossed about eight o’clock.",
     "title": "Tess of the d'Urbervilles: A Pure Woman",
     "author": "Thomas Hardy",
+    "confidence": "medium",
+    "time_match": "eight o’clock"
+  },
+  {
+    "time": "19:56",
+    "quote": "It’s happening.” “It’s also almost eight o’clock, dudes,” Damien says. “The worst thing in the world, guys, is a shitty DJ.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
     "confidence": "medium",
     "time_match": "eight o’clock"
   },
@@ -14714,6 +15406,30 @@
     "time_match": "eight o’clock"
   },
   {
+    "time": "20:00",
+    "quote": "Less than a month after the pulse, Chicago was back in the dark ages, with a curfew of eight o’clock, and candles and chemical glow sticks provided most of the light after sundown.",
+    "title": "Twelve Months",
+    "author": "Jim Butcher",
+    "confidence": "medium",
+    "time_match": "eight o’clock"
+  },
+  {
+    "time": "20:00",
+    "quote": "Will was doing most of the talking, while I nodded and made the occasional monosyllabic comment, and at precisely eight o’clock, someone started pounding on the castle’s great door.",
+    "title": "Twelve Months",
+    "author": "Jim Butcher",
+    "confidence": "medium",
+    "time_match": "eight o’clock"
+  },
+  {
+    "time": "20:00",
+    "quote": "It was winter, it was maybe eight o’clock at night, very dark, I hadn’t turned on the light in the room.",
+    "title": "Vox",
+    "author": "Nicholson Baker",
+    "confidence": "medium",
+    "time_match": "eight o’clock at night"
+  },
+  {
     "time": "20:03",
     "quote": "On the way, Marya\nKondratyevna remembered that at about eight o’clock she heard a dreadful\nscream from their garden, and this was no doubt Grigory’s scream,\n“Parricide!” uttered when he caught hold of Mitya’s leg. “Some one person screamed out and…",
     "title": "The Brothers Karamazov",
@@ -14782,6 +15498,14 @@
     "title": "Bridget Jones's Diary",
     "author": "Helen Fielding",
     "language": "en"
+  },
+  {
+    "time": "20:15",
+    "quote": "At 8:15 the crew finally says it’s time for the next setup, that the Wallaces are waiting.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "At 8:15"
   },
   {
     "time": "20:20",
@@ -15041,6 +15765,14 @@
     "author": "Richard Osman",
     "confidence": "medium",
     "time_match": "at 3:32"
+  },
+  {
+    "time": "20:55",
+    "quote": "Sleep came over me in my wasteland of a home a little before nine o'clock.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "nine o'clock"
   },
   {
     "time": "20:56",
@@ -15639,6 +16371,30 @@
     "time_match": "nine o'clock"
   },
   {
+    "time": "21:00",
+    "quote": "In the distance, a BBC camera crew were unrolling miles of flex, so it would probably all be on the 9 O’Clock News that evening.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "9 O’Clock"
+  },
+  {
+    "time": "21:00",
+    "quote": "…embarrassing until the department manager had insisted that he make his choice and leave—it was closing time, nine o’clock.",
+    "title": "Reamde",
+    "author": "Neal Stephenson",
+    "confidence": "medium",
+    "time_match": "nine o’clock"
+  },
+  {
+    "time": "21:00",
+    "quote": "Messengers arrived at the castle to ask for my help around nine o’clock, each time right when I was about to do my evening ritual.",
+    "title": "Twelve Months",
+    "author": "Jim Butcher",
+    "confidence": "medium",
+    "time_match": "nine o’clock"
+  },
+  {
     "time": "21:01",
     "quote": "It was now about nine o’clock, and the room seeming almost supernaturally\n      quiet after these orgies, I began to congratulate myself upon a little\n      plan that had occurred to me just previous to the…",
     "title": "Moby Dick; Or, The Whale",
@@ -15924,6 +16680,14 @@
     "time_match": "half-past nine"
   },
   {
+    "time": "21:30",
+    "quote": "At about half-past nine, even this theme collapsed into silence, and Malcolm resigned himself to yet another disappointment.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "half-past nine"
+  },
+  {
     "time": "21:35",
     "quote": "The Sergeant jotted it down on a piece of paper. 'That checks up with his own story: 9.35 p.m. Budd leaves; the North dame arrives.'",
     "title": "A Blunt Instrument",
@@ -16185,6 +16949,14 @@
     "quote": "If only Ackroyd\n    could have been proved to have been killed before a quarter to ten, and\n    not after.",
     "title": "The murder of Roger Ackroyd",
     "author": "Agatha Christie",
+    "confidence": "medium",
+    "time_match": "quarter to ten"
+  },
+  {
+    "time": "21:45",
+    "quote": "A farmer from the small village of Combe in Somerset had been out shooting rabbits at a quarter to ten last night, and had seen his ten-acre field of wheat change before his eyes into ten acres of roses, peonies, narcissi, daffodils and tulips.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
     "confidence": "medium",
     "time_match": "quarter to ten"
   },
@@ -16724,6 +17496,54 @@
     "quote": "At ten o’clock that evening the Rostóv family and the wounded traveling\n      with them were all distributed in the yards and huts of that large\n      village.",
     "title": "War and Peace",
     "author": "graf Leo Tolstoy",
+    "confidence": "medium",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "I mean eleven-thirty at Metro CC?” I yell back up. “What happened to ten o’clock at Café Tabac?” A longish pause. “She now says nine-thirty at Bowery Bar.",
+    "title": "Glamorama",
+    "author": "Bret Easton Ellis",
+    "confidence": "medium",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "By the time I finally manage to extract two dreams, it is already past ten o'clock.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "ten o'clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "At ten o'clock the Colonel, bringing coffee, knocks on my door and finds me face down on the bed, rubbing my eyes with a cold towel.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "ten o'clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "At ten o'clock, the housemother locks the front door of the house and stops on her walk back to the kitchen to ask if our daughter is doing any better.",
+    "title": "Survivor: A Novel",
+    "author": "Chuck Palahniuk",
+    "confidence": "medium",
+    "time_match": "ten o'clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "…way over and kissed the top of her head. “Thanks, punkin.” — Bear drove Molly and me to the Raith estate around ten o’clock in an armored limousine.",
+    "title": "Twelve Months",
+    "author": "Jim Butcher",
+    "confidence": "medium",
+    "time_match": "ten o’clock"
+  },
+  {
+    "time": "22:00",
+    "quote": "Well, I’m driving down the expressway of an eastern city one evening around ten o’clock, in town on business, in my rented midsize car, my Ford Topaz, with the radio going, a classics oldie station, playing ‘Ain’t Nobody,’ and I’m just driving along, and as usual I…",
+    "title": "Vox",
+    "author": "Nicholson Baker",
     "confidence": "medium",
     "time_match": "ten o’clock"
   },
@@ -17366,6 +18186,22 @@
     "time_match": "eleven o'clock"
   },
   {
+    "time": "23:00",
+    "quote": "…this job was so dangerous?’ I said ‘Ah, yes, librarianship,’ said Ms Winstanley. ‘It’s not for the faint hearted.’ By eleven o’clock that evening we were all set up, so we cracked open one of the industrial sized thermoses I’d brought from the Folly while we waited for the last of the staff to vacate the…",
+    "title": "Tales From the Folly",
+    "author": "Ben Aaronovitch",
+    "confidence": "medium",
+    "time_match": "eleven o’clock"
+  },
+  {
+    "time": "23:00",
+    "quote": "By eleven o'clock, I can scarcely stand from fatigue.",
+    "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+    "author": "Haruki Murakami",
+    "confidence": "medium",
+    "time_match": "eleven o'clock"
+  },
+  {
     "time": "23:02",
     "quote": "CHAPTER 78 Thursday, 11:02 p.m.",
     "title": "Billion-Dollar Ransom",
@@ -17484,6 +18320,14 @@
     "title": "The Curious Incident Of The Dog In The Nightime",
     "author": "Mark Haddon",
     "language": "en"
+  },
+  {
+    "time": "23:32",
+    "quote": "…slightly, ‘can you tell me the time?’ ‘Certainly,’ said the tall man, without looking at his watch, ‘it’s just after half-past eleven.’ The two policemen turned and walked away quickly.",
+    "title": "Expecting Someone Taller",
+    "author": "Tom Holt",
+    "confidence": "medium",
+    "time_match": "half-past eleven"
   },
   {
     "time": "23:36",

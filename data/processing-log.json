@@ -1510,5 +1510,221 @@
         "timestamp": "2026-03-29T22:18:08.479722"
       }
     ]
+  },
+  {
+    "batch_date": "2026-03-30T20:52:57.398005",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 2,
+    "details": [
+      {
+        "file": "Rivers_of_London_1_Aaronovitch_Ben_Tales_From_the_Folly_2020.epub",
+        "title": "Tales From the Folly",
+        "author": "Ben Aaronovitch",
+        "total_found": 16,
+        "high_added": 0,
+        "review_queued": 2,
+        "duplicates": 0,
+        "timestamp": "2026-03-30T20:52:57.188572"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:53:44.382222",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "A_Prayer_for_the_Crown-Shy_Becky_Chambers.epub",
+        "title": "A Prayer for the Crown-Shy--A Monk and Robot Book",
+        "author": "Becky Chambers",
+        "total_found": 6,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-30T20:53:44.196072"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:54:35.533221",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 16,
+    "details": [
+      {
+        "file": "Expecting_Someone_Taller_Tom_Holt.epub",
+        "title": "Expecting Someone Taller",
+        "author": "Tom Holt",
+        "total_found": 32,
+        "high_added": 0,
+        "review_queued": 16,
+        "duplicates": 0,
+        "timestamp": "2026-03-30T20:54:35.219778"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:55:16.372680",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 24,
+    "details": [
+      {
+        "file": "Glamorama_Bret_Easton_Ellis.epub",
+        "title": "Glamorama",
+        "author": "Bret Easton Ellis",
+        "total_found": 82,
+        "high_added": 0,
+        "review_queued": 24,
+        "duplicates": 1,
+        "timestamp": "2026-03-30T20:55:15.440860"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:56:02.795577",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 2,
+    "details": [
+      {
+        "file": "Hull_Zero_Three_Greg_Bear.epub",
+        "title": "Hull Zero Three",
+        "author": "Greg Bear",
+        "total_found": 38,
+        "high_added": 0,
+        "review_queued": 2,
+        "duplicates": 0,
+        "timestamp": "2026-03-30T20:56:02.392481"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:56:44.453528",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "A_Little_Hatred_Joe_Abercrombie.epub",
+        "title": "A Little Hatred: Book One (The Age of Madness)",
+        "author": "Joe Abercrombie",
+        "total_found": 34,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-03-30T20:56:43.636474"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:57:10.568576",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 19,
+    "details": [
+      {
+        "file": "Hard_Boiled_Wonderland_Haruki_Murakami.epub",
+        "title": "Hard-Boiled Wonderland and the End of the World: A Novel",
+        "author": "Haruki Murakami",
+        "total_found": 69,
+        "high_added": 0,
+        "review_queued": 19,
+        "duplicates": 1,
+        "timestamp": "2026-03-30T20:57:10.056717"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:58:08.213185",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 20,
+    "details": [
+      {
+        "file": "Reamde_Neal_Stephenson.epub",
+        "title": "Reamde",
+        "author": "Neal Stephenson",
+        "total_found": 189,
+        "high_added": 0,
+        "review_queued": 20,
+        "duplicates": 4,
+        "timestamp": "2026-03-30T20:58:06.488017"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:59:04.280130",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 13,
+    "details": [
+      {
+        "file": "Survivor_Chuck_Palahniuk.epub",
+        "title": "Survivor: A Novel",
+        "author": "Chuck Palahniuk",
+        "total_found": 69,
+        "high_added": 0,
+        "review_queued": 13,
+        "duplicates": 1,
+        "timestamp": "2026-03-30T20:59:03.766060"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T20:59:55.011786",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 1,
+    "details": [
+      {
+        "file": "The_Midnight_Library_Matt_Haig.epub",
+        "title": "The Midnight Library",
+        "author": "Matt Haig",
+        "total_found": 25,
+        "high_added": 2,
+        "review_queued": 1,
+        "duplicates": 0,
+        "timestamp": "2026-03-30T20:59:54.602091"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T21:00:46.254881",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 5,
+    "details": [
+      {
+        "file": "Twelve_Months_Dresden_Files_18_Jim_Butcher.epub",
+        "title": "Twelve Months",
+        "author": "Jim Butcher",
+        "total_found": 59,
+        "high_added": 0,
+        "review_queued": 5,
+        "duplicates": 0,
+        "timestamp": "2026-03-30T21:00:45.520519"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-03-30T21:01:17.386130",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 2,
+    "details": [
+      {
+        "file": "Vox_Nicholson_Baker.epub",
+        "title": "Vox",
+        "author": "Nicholson Baker",
+        "total_found": 26,
+        "high_added": 0,
+        "review_queued": 2,
+        "duplicates": 1,
+        "timestamp": "2026-03-30T21:01:17.204993"
+      }
+    ]
   }
 ]
