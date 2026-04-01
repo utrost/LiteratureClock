@@ -10,6 +10,18 @@ A minimal web clock that displays a literary quote matching the current time. Ev
 |:---:|:---:|
 | ![Web](docs/screenshot-web.jpg) | ![Android PWA](docs/screenshot-pwa-android.jpg) |
 
+## Android Widget
+
+<p align="center">
+  <img src="docs/app-icon-512.png" width="128" alt="Literature Clock App Icon" />
+</p>
+
+A homescreen widget that shows the current literary quote — always visible, fully offline. Available in three sizes (4×2, 4×3, 2×1), with dark/light theme support.
+
+<p align="center">
+  <img src="docs/feature-graphic-1024x500.png" width="600" alt="Literature Clock Feature Graphic" />
+</p>
+
 ## The Clock
 
 A single screen. The time. A quote. The book. The author. Nothing else.
