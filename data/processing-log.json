@@ -8679,5 +8679,7267 @@
         "timestamp": "2026-04-06T11:09:09.120257"
       }
     ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:14.250161",
+    "books_processed": 2,
+    "quotes_added": 9,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:13.659538",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2159.epub",
+        "title": "Hazardous Duty - PA 8",
+        "author": "W. E. B. Griffin",
+        "total_found": 47,
+        "high_added": 9,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:13.659690"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:19.118661",
+    "books_processed": 2,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:18.145018",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2160.epub",
+        "title": "The Best Military Science Fiction of the 20th Century",
+        "author": "Harry Turtledove",
+        "total_found": 93,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:18.145202"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:23.624350",
+    "books_processed": 2,
+    "quotes_added": 134,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:23.024704",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2161.epub",
+        "title": "Semper Mars",
+        "author": "Ian Douglas",
+        "total_found": 198,
+        "high_added": 134,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:23.024853"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:28.251880",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:27.602766",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2164.epub",
+        "title": "The Darkest Road",
+        "author": "Guy Gavriel Kay",
+        "total_found": 19,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:27.602916"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:32.652161",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:32.190228",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2165.epub",
+        "title": "The Wandering Fire",
+        "author": "Guy Gavriel Kay",
+        "total_found": 22,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:32.190381"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:37.460509",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:36.669949",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2166.epub",
+        "title": "The Lions of Al-Rassan",
+        "author": "Guy Gavriel Kay",
+        "total_found": 49,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:36.670112"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:41.775246",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:41.389244",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2167.epub",
+        "title": "Lord Tophet",
+        "author": "Gregory Frost",
+        "total_found": 5,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:41.389398"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:46.221540",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:45.766632",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2168.epub",
+        "title": "Shadowbridge",
+        "author": "Gregory Frost",
+        "total_found": 24,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:45.766785"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:50.803936",
+    "books_processed": 2,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:50.232302",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2169.epub",
+        "title": "The Summer Tree",
+        "author": "Guy Gavriel Kay",
+        "total_found": 24,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:50.232456"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:21:55.339744",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:54.793157",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2170.epub",
+        "title": "Shipstar",
+        "author": "Benford, Gregory",
+        "total_found": 19,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:54.793309"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:02.184460",
+    "books_processed": 2,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:59.353742",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2171.epub",
+        "title": "The Wicked Years Complete Collection",
+        "author": "Gregory Maguire",
+        "total_found": 137,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:21:59.353891"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:06.719537",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:06.206777",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2172.epub",
+        "title": "Bowl of Heaven",
+        "author": "Gregory Benford",
+        "total_found": 37,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:06.206947"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:11.458180",
+    "books_processed": 2,
+    "quotes_added": 9,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:11.006356",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2173.epub",
+        "title": "Community",
+        "author": "Graham Masterton",
+        "total_found": 46,
+        "high_added": 9,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:11.006559"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:16.334325",
+    "books_processed": 2,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:15.550512",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2175.epub",
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "total_found": 88,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:15.550669"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:21.666253",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:20.670393",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2177.epub",
+        "title": "Surrender to the Will of the Night",
+        "author": "Cook, Glen",
+        "total_found": 45,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:20.670542"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:26.134623",
+    "books_processed": 2,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:25.651053",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2179.epub",
+        "title": "Give in to Me",
+        "author": "K. M. Scott",
+        "total_found": 33,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:25.651210"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:31.149901",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:30.561254",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2182.epub",
+        "title": "God of Vengeance",
+        "author": "Giles Kristian",
+        "total_found": 21,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:30.561405"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:36.046284",
+    "books_processed": 2,
+    "quotes_added": 7,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:35.460121",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2188.epub",
+        "title": "Talulla Rising",
+        "author": "Glen Duncan",
+        "total_found": 44,
+        "high_added": 7,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:35.460271"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:47.286443",
+    "books_processed": 2,
+    "quotes_added": 26,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:45.957139",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2194.epub",
+        "title": "Rogues",
+        "author": "George R. R. Martin",
+        "total_found": 104,
+        "high_added": 26,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:45.957295"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:52.588536",
+    "books_processed": 2,
+    "quotes_added": 13,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:51.301708",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2195.epub",
+        "title": "Dangerous Women",
+        "author": "Unknown",
+        "total_found": 101,
+        "high_added": 13,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:51.301860"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:22:57.177156",
+    "books_processed": 2,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:56.675397",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2196.epub",
+        "title": "The Land Across",
+        "author": "Gene Wolfe",
+        "total_found": 41,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:22:56.675550"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:01.626915",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:01.246719",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2197.epub",
+        "title": "Soldier of Sidon",
+        "author": "Gene Wolfe",
+        "total_found": 10,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:01.246876"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:06.338797",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:05.866194",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2198.epub",
+        "title": "Soldier of Arete",
+        "author": "Gene Wolfe",
+        "total_found": 15,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:05.866348"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:11.075387",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:10.591121",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2199.epub",
+        "title": "Soldier of the Mist",
+        "author": "Gene Wolfe",
+        "total_found": 27,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:10.591270"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:16.355004",
+    "books_processed": 2,
+    "quotes_added": 46,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:15.182362",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2202.epub",
+        "title": "The Autumn of the Patriarch",
+        "author": "Gabriel García Márquez",
+        "total_found": 100,
+        "high_added": 46,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:15.182523"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:20.971961",
+    "books_processed": 2,
+    "quotes_added": 31,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:20.357455",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2203.epub",
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "total_found": 129,
+        "high_added": 31,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:20.357610"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:25.377033",
+    "books_processed": 2,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:25.034435",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2206.epub",
+        "title": "First Love",
+        "author": "James Patterson",
+        "total_found": 20,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:25.034588"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:30.174747",
+    "books_processed": 2,
+    "quotes_added": 13,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:29.347801",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2208.epub",
+        "title": "Fifty Shades of Grey",
+        "author": "E. L. James",
+        "total_found": 62,
+        "high_added": 13,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:29.347958"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:35.204512",
+    "books_processed": 2,
+    "quotes_added": 10,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:34.284089",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2210.epub",
+        "title": "Fifty Shades Trilogy 01 - Fifty Shades of Grey",
+        "author": "E L James",
+        "total_found": 63,
+        "high_added": 10,
+        "review_queued": 0,
+        "duplicates": 9,
+        "timestamp": "2026-04-06T11:23:34.284241"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:39.875677",
+    "books_processed": 2,
+    "quotes_added": 6,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:39.164448",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2211.epub",
+        "title": "The Revolutions",
+        "author": "Gilman, Felix",
+        "total_found": 34,
+        "high_added": 6,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:39.164602"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:44.372153",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:43.988834",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2212.epub",
+        "title": "Thomas the Rhymer",
+        "author": "Ellen Kushner",
+        "total_found": 8,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:43.988988"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:23:49.584695",
+    "books_processed": 2,
+    "quotes_added": 10,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:48.546363",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2218.epub",
+        "title": "Duty: Memoirs of a Secretary at War",
+        "author": "Gates, Robert M",
+        "total_found": 145,
+        "high_added": 10,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:48.546518"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:00.331299",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:59.610231",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2221.epub",
+        "title": "Sworn in Steel",
+        "author": "Douglas Hulick",
+        "total_found": 39,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:23:59.610384"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:05.205682",
+    "books_processed": 2,
+    "quotes_added": 24,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:04.368380",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2223.epub",
+        "title": "Doctor Sleep: A Novel",
+        "author": "Stephen King",
+        "total_found": 109,
+        "high_added": 24,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:04.368536"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:09.218750",
+    "books_processed": 2,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:09.215581",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:09.215738",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:13.886287",
+    "books_processed": 3,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:13.331587",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:13.331739",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2227.epub",
+        "title": "Hell Bent: A Broken Magic Novel",
+        "author": "Devon Monk",
+        "total_found": 35,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:13.332737"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:20.085106",
+    "books_processed": 3,
+    "quotes_added": 15,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:17.878377",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:17.878531",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2228.epub",
+        "title": "The Chrestomanci Series",
+        "author": "Jones, Diana Wynne",
+        "total_found": 194,
+        "high_added": 15,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:17.879555"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:24.666522",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:24.069117",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:24.069268",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2230.epub",
+        "title": "The Middle Kingdom",
+        "author": "David Wingrove",
+        "total_found": 51,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:24.070281"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:29.226484",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:28.621977",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:28.622135",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2231.epub",
+        "title": "Daylight on Iron Mountain",
+        "author": "David Wingrove",
+        "total_found": 55,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:28.623151"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:33.907965",
+    "books_processed": 3,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:33.244298",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:33.244450",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2232.epub",
+        "title": "Son of Heaven",
+        "author": "David Wingrove",
+        "total_found": 40,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:33.245460"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:38.484591",
+    "books_processed": 3,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:38.031786",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:38.031935",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2233.epub",
+        "title": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
+        "author": "Malcolm Gladwell",
+        "total_found": 60,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:38.032944"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:42.944507",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:42.488498",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:42.488650",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2234.epub",
+        "title": "The Stricken Field",
+        "author": "Dave Duncan",
+        "total_found": 25,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:42.489701"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:47.578350",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:47.117550",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:47.117703",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2235.epub",
+        "title": "Upland Outlaws",
+        "author": "Dave Duncan",
+        "total_found": 18,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:47.118714"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:52.012222",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:51.537190",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:51.537342",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2236.epub",
+        "title": "The Cutting Edge",
+        "author": "Dave Duncan",
+        "total_found": 36,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:51.538357"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:24:56.593952",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:56.072876",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:56.073025",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2238.epub",
+        "title": "Dark Witch: Book One of the Cousins O'Dwyer Trilogy",
+        "author": "Nora Roberts",
+        "total_found": 32,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:24:56.074045"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:01.918538",
+    "books_processed": 3,
+    "quotes_added": 35,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:00.919951",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:00.920103",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2239.epub",
+        "title": "The Flight of the Silvers",
+        "author": "Daniel Price",
+        "total_found": 134,
+        "high_added": 35,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:00.921125"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:06.968336",
+    "books_processed": 3,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:06.392739",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:06.392894",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2240.epub",
+        "title": "Hyde",
+        "author": "Daniel Levine",
+        "total_found": 39,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 1,
+        "timestamp": "2026-04-06T11:25:06.393919"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:11.741186",
+    "books_processed": 3,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:11.089669",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:11.089822",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2241.epub",
+        "title": "Partials",
+        "author": "Dan Wells",
+        "total_found": 50,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:11.090859"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:28.286772",
+    "books_processed": 3,
+    "quotes_added": 60,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:15.991929",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:15.992084",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2242.epub",
+        "title": "The Outlander Series 7-Book Bundle",
+        "author": "Diana Gabaldon",
+        "total_found": 639,
+        "high_added": 60,
+        "review_queued": 0,
+        "duplicates": 7,
+        "timestamp": "2026-04-06T11:25:15.993169"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:33.427259",
+    "books_processed": 3,
+    "quotes_added": 26,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:32.877362",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:32.877514",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2244.epub",
+        "title": "Cross My Heart",
+        "author": "James Patterson",
+        "total_found": 102,
+        "high_added": 26,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:32.878535"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:38.601506",
+    "books_processed": 3,
+    "quotes_added": 36,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:37.657601",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:37.657759",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2246.epub",
+        "title": "Oxford Time Travel 02 - The Doomsday Book",
+        "author": "Connie Willis",
+        "total_found": 106,
+        "high_added": 36,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:37.658767"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:48.365189",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:48.041015",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:48.041180",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2249.epub",
+        "title": "Fiefdom",
+        "author": "",
+        "total_found": 19,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:48.042231"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:52.870205",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:52.623686",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:52.623839",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2250.epub",
+        "title": "Design as Art",
+        "author": "Bruno Munari",
+        "total_found": 25,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:52.624840"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:25:57.189605",
+    "books_processed": 3,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:56.997823",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:56.997968",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2252.epub",
+        "title": "The Hellbound Heart",
+        "author": "Clive Barker",
+        "total_found": 9,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:25:56.998981"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:01.866720",
+    "books_processed": 3,
+    "quotes_added": 25,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:01.311175",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:01.311323",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2253.epub",
+        "title": "Cockroaches: The Second Inspector Harry Hole Novel",
+        "author": "Jo Nesbø",
+        "total_found": 74,
+        "high_added": 25,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:01.312324"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:06.598925",
+    "books_processed": 3,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:06.019363",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:06.019510",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2255.epub",
+        "title": "The First Fifteen Lives of Harry August",
+        "author": "North, Claire",
+        "total_found": 36,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:06.020516"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:14.346522",
+    "books_processed": 3,
+    "quotes_added": 62,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:10.939470",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:10.939618",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2256.epub",
+        "title": "Churchill",
+        "author": "A Life, Martin Gilbert",
+        "total_found": 290,
+        "high_added": 62,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:10.940660"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:18.933738",
+    "books_processed": 3,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:18.488893",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:18.489046",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2257.epub",
+        "title": "The Heavens Rise",
+        "author": "Christopher Rice",
+        "total_found": 41,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:18.490070"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:23.226948",
+    "books_processed": 3,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:23.050681",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:23.050834",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2258.epub",
+        "title": "Checkpoint",
+        "author": "Baker, Nicholson",
+        "total_found": 3,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:23.051848"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:28.066044",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:27.371822",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:27.371973",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2261.epub",
+        "title": "The Oversight (Oversight Trilogy)",
+        "author": "Charlie Fletcher",
+        "total_found": 31,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:27.372981"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:32.656905",
+    "books_processed": 3,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:32.159476",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:32.159622",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2262.epub",
+        "title": "On Such A Full Sea",
+        "author": "Lee, Chang-Rae",
+        "total_found": 49,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:32.160627"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:37.273479",
+    "books_processed": 3,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:36.817639",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:36.817791",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2263.epub",
+        "title": "The Buried Life",
+        "author": "Carrie Patel",
+        "total_found": 32,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:36.818811"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:42.021441",
+    "books_processed": 3,
+    "quotes_added": 6,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:41.286724",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:41.286878",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2264.epub",
+        "title": "Low Red Moon",
+        "author": "Kiernan, Caitlin R.",
+        "total_found": 33,
+        "high_added": 6,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:41.287903"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:46.433231",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:46.134106",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:46.134261",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2265.epub",
+        "title": "Steel",
+        "author": "Carrie Vaughn",
+        "total_found": 11,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:46.135274"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:51.155482",
+    "books_processed": 3,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:50.519768",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:50.519923",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2266.epub",
+        "title": "Silk",
+        "author": "Kiernan, Caitlin R.",
+        "total_found": 36,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:50.520951"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:55.692430",
+    "books_processed": 3,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:55.552781",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:55.552936",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2267.epub",
+        "title": "The Girl on the Glider",
+        "author": "Brian Keene",
+        "total_found": 12,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:55.553947"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:26:59.900818",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:59.750745",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:59.750902",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2268.epub",
+        "title": "An Occurrence in Crazy Bear Valley",
+        "author": "Brian Keene",
+        "total_found": 7,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:26:59.751921"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:04.964774",
+    "books_processed": 3,
+    "quotes_added": 69,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:03.986522",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:03.986677",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2269.epub",
+        "title": "By Myself and Then Some",
+        "author": "Lauren Bacall",
+        "total_found": 223,
+        "high_added": 69,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:03.987696"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:09.474895",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:08.996353",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:08.996506",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2270.epub",
+        "title": "Lights in the Deep",
+        "author": "Brad R Torgersen",
+        "total_found": 37,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:08.997536"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:13.544998",
+    "books_processed": 3,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:13.537049",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:13.537205",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:13.538221",
+        "error": "'NoneType' object has no attribute 'find'"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:23.788566",
+    "books_processed": 4,
+    "quotes_added": 9,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:23.323117",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:23.323302",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:23.324311",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2272.epub",
+        "title": "Blood Feud: The Clintons vs. the Obamas",
+        "author": "Edward Klein",
+        "total_found": 26,
+        "high_added": 9,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:23.328480"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:28.332087",
+    "books_processed": 4,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:27.856119",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:27.856270",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:27.857279",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2273.epub",
+        "title": "Big Sky Secrets",
+        "author": "Linda Lael Miller",
+        "total_found": 26,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:27.861420"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:32.945627",
+    "books_processed": 4,
+    "quotes_added": 26,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:32.468874",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:32.469026",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:32.470072",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2274.epub",
+        "title": "Blindsided",
+        "author": "Fern Michaels",
+        "total_found": 99,
+        "high_added": 26,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:32.474490"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:37.620416",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:37.085061",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:37.085249",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:37.086291",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2279.epub",
+        "title": "Pile of Bones",
+        "author": "Bailey Cunningham",
+        "total_found": 31,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:37.090557"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:43.440745",
+    "books_processed": 4,
+    "quotes_added": 19,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:41.767113",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:41.767267",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:41.768281",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2280.epub",
+        "title": "The Alex Verus Novels, Books 1-4",
+        "author": "Benedict Jacka",
+        "total_found": 123,
+        "high_added": 19,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:41.772490"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:48.402510",
+    "books_processed": 4,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:47.588894",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:47.589052",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:47.590077",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2281.epub",
+        "title": "Written In Red: A Novel of the Others",
+        "author": "Anne Bishop",
+        "total_found": 37,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:47.594302"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:52.975529",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:52.468108",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:52.468340",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:52.469387",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2283.epub",
+        "title": "Ancillary Justice",
+        "author": "Ann Leckie",
+        "total_found": 42,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:52.473633"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:27:57.764492",
+    "books_processed": 4,
+    "quotes_added": 6,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:57.197534",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:57.197689",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:57.198703",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2284.epub",
+        "title": "And the Mountains Echoed",
+        "author": "Khaled Hosseini",
+        "total_found": 37,
+        "high_added": 6,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:27:57.202867"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:02.141819",
+    "books_processed": 4,
+    "quotes_added": 9,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:01.906058",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:01.906214",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:01.907233",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2285.epub",
+        "title": "An Event in Autumn: A Kurt Wallander Mystery",
+        "author": "Henning Mankell",
+        "total_found": 23,
+        "high_added": 9,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:01.911437"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:06.464283",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:06.282296",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:06.282453",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:06.283471",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2286.epub",
+        "title": "On a Red Station, Drifting",
+        "author": "de Bodard, Aliette",
+        "total_found": 4,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:06.287642"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:11.127695",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:10.627527",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:10.627686",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:10.628704",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2289.epub",
+        "title": "Marked",
+        "author": "Alex Hughes",
+        "total_found": 32,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:10.632934"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:15.753084",
+    "books_processed": 4,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:15.260994",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:15.261153",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:15.262169",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2290.epub",
+        "title": "Sharp",
+        "author": "Alex Hughes",
+        "total_found": 19,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:15.266368"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:20.428529",
+    "books_processed": 4,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:19.937244",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:19.937391",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:19.938435",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2291.epub",
+        "title": "Clean: A Mindspace Investigations Novel",
+        "author": "Alex Hughes",
+        "total_found": 39,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:19.942548"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:25.283110",
+    "books_processed": 4,
+    "quotes_added": 11,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:24.592850",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:24.593001",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:24.594012",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2292.epub",
+        "title": "The Word Exchange",
+        "author": "Alena Graedon",
+        "total_found": 78,
+        "high_added": 11,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:24.598209"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:29.686591",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:29.476840",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:29.476989",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:29.477997",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2293.epub",
+        "title": "Trucksong",
+        "author": "Andrew Macrae",
+        "total_found": 10,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:29.482170"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:34.411880",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:33.879764",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:33.879913",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:33.880926",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2294.epub",
+        "title": "Island",
+        "author": "Aldous Huxley",
+        "total_found": 42,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:33.885088"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:38.783172",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:38.445271",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:38.445424",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:38.446504",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2295.epub",
+        "title": "NOD",
+        "author": "Barnes, Adrian",
+        "total_found": 31,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:38.450643"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:43.636386",
+    "books_processed": 4,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:43.164721",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:43.164874",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:43.165875",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2296.epub",
+        "title": "House of Small Shadows",
+        "author": "Nevill, Adam",
+        "total_found": 24,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:43.170029"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:48.331370",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:47.740638",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:47.740792",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:47.741809",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2297.epub",
+        "title": "Act of War",
+        "author": "Brad Thor",
+        "total_found": 43,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:47.745989"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:28:53.514383",
+    "books_processed": 4,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:52.801354",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:52.801510",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:52.802522",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2298.epub",
+        "title": "A Spy Among Friends",
+        "author": "Ben Macintyre",
+        "total_found": 60,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:28:52.806776"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:04.032470",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:03.115398",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:03.115549",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:03.116570",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2299.epub",
+        "title": "Blue Remembered Earth",
+        "author": "Alastair Reynolds",
+        "total_found": 59,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:03.120760"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:08.368958",
+    "books_processed": 4,
+    "quotes_added": 38,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:08.150008",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:08.150162",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:08.151163",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2300.epub",
+        "title": "A Box of Matches",
+        "author": "Baker, Nicholson",
+        "total_found": 75,
+        "high_added": 38,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:08.155298"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:13.971684",
+    "books_processed": 4,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:12.602274",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:12.602428",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:12.603435",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2301.epub",
+        "title": "A Game of Thrones: A Song of Ice and Fire",
+        "author": "George R. R. Martin",
+        "total_found": 66,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:12.607541"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:19.114246",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:18.466446",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:18.466597",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:18.467602",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2302.epub",
+        "title": "Irenicon",
+        "author": "Aidan Harte",
+        "total_found": 19,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:18.471722"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:23.835772",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:23.387923",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:23.388081",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:23.389099",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2305.epub",
+        "title": "101 Easy-to-Do Magic Tricks",
+        "author": "Bill Tarr",
+        "total_found": 43,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:23.393249"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:29.339257",
+    "books_processed": 4,
+    "quotes_added": 110,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:28.083167",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:28.083316",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:28.084334",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2311.epub",
+        "title": "The Three Musketeers",
+        "author": "Alexandre Dumas",
+        "total_found": 236,
+        "high_added": 110,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:28.088491"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:34.822814",
+    "books_processed": 4,
+    "quotes_added": 27,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:33.574728",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:33.574882",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:33.575898",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2312.epub",
+        "title": "Man in the Iron Mask (Barnes & Noble Classics Series)",
+        "author": "Alexandre Dumas",
+        "total_found": 90,
+        "high_added": 27,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:33.580072"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:40.046943",
+    "books_processed": 4,
+    "quotes_added": 99,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:39.035968",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:39.036124",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:39.037127",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2313.epub",
+        "title": "Count of Monte Cristo (abridged) (Barnes & Noble Classics Series)",
+        "author": "Alexandre Dumas",
+        "total_found": 214,
+        "high_added": 99,
+        "review_queued": 0,
+        "duplicates": 1,
+        "timestamp": "2026-04-06T11:29:39.041226"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:44.481903",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:44.218075",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:44.218227",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:44.219234",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2324.epub",
+        "title": "Zombie Spaceship Wasteland",
+        "author": "Patton Oswalt",
+        "total_found": 20,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:44.223356"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:49.539168",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:48.765924",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:48.766081",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:48.767136",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2325.epub",
+        "title": "Zero History",
+        "author": "William Gibson",
+        "total_found": 17,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:48.771287"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:54.501252",
+    "books_processed": 4,
+    "quotes_added": 7,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:53.774411",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:53.774560",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:53.775580",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2326.epub",
+        "title": "Zero Day",
+        "author": "David Baldacci",
+        "total_found": 86,
+        "high_added": 7,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:53.779732"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:29:58.885967",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:58.698231",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:58.698383",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:58.699385",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2328.epub",
+        "title": "Yours for Christmas (Fool's Gold series)",
+        "author": "Susan Mallery",
+        "total_found": 18,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:29:58.703436"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:03.398595",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:03.173232",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:03.173396",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:03.174442",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2329.epub",
+        "title": "January (Calendar Girl #1)",
+        "author": "Audrey Carlan",
+        "total_found": 15,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 1,
+        "timestamp": "2026-04-06T11:30:03.178790"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:07.942112",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:07.600797",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:07.600950",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:07.601957",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2330.epub",
+        "title": "You Are Not A Stranger Here",
+        "author": "Adam Haslett",
+        "total_found": 26,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:07.606107"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:12.621796",
+    "books_processed": 4,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:12.152889",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:12.153043",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:12.154049",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2331.epub",
+        "title": "You Deserve Nothing",
+        "author": "Alexander Maksik",
+        "total_found": 22,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:12.158174"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:17.407934",
+    "books_processed": 4,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:16.983227",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:16.983378",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:16.984401",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2332.epub",
+        "title": "Women On the Other Shore",
+        "author": "Mitsuyo Kakuta",
+        "total_found": 79,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 1,
+        "timestamp": "2026-04-06T11:30:16.988540"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:22.006047",
+    "books_processed": 4,
+    "quotes_added": 9,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:21.654869",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:21.655025",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:21.656038",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2333.epub",
+        "title": "Women & Other Animals",
+        "author": "Bonnie Jo. Campbell",
+        "total_found": 37,
+        "high_added": 9,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:21.660148"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:27.203122",
+    "books_processed": 4,
+    "quotes_added": 19,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:26.239755",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:26.239911",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:26.240944",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2335.epub",
+        "title": "Wolf Hall",
+        "author": "Hilary Mantel",
+        "total_found": 60,
+        "high_added": 19,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:26.245109"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:37.435768",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:36.948118",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:36.948272",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:36.949291",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2337.epub",
+        "title": "Wish You Well",
+        "author": "David Baldacci",
+        "total_found": 41,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:36.953367"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:42.114125",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:41.652502",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:41.652656",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:41.653678",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2338.epub",
+        "title": "Witch & Wizard: The Gift",
+        "author": "James Patterson",
+        "total_found": 24,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:41.657790"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:46.963379",
+    "books_processed": 4,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:46.609820",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:46.609972",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:46.610982",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2340.epub",
+        "title": "Wingshooters",
+        "author": "Nina Revoyr",
+        "total_found": 38,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:46.615057"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:51.857243",
+    "books_processed": 4,
+    "quotes_added": 28,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:51.147701",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:51.147852",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:51.148858",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2341.epub",
+        "title": "Winter Garden",
+        "author": "Kristin Hannah",
+        "total_found": 86,
+        "high_added": 28,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:51.152968"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:30:56.511138",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:56.134401",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:56.134557",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:56.135570",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2343.epub",
+        "title": "Stoner: Roman (German Edition)",
+        "author": "Williams, John",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:30:56.139667"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:00.929738",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:00.699490",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:00.699646",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:00.700643",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2344.epub",
+        "title": "Willful Creatures",
+        "author": "Aimee Bender",
+        "total_found": 23,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:00.704685"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:05.584966",
+    "books_processed": 4,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:05.066706",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:05.066865",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:05.067880",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2345.epub",
+        "title": "Wild Child. By T. Coraghessan Boyle",
+        "author": "T. Coraghessan Boyle",
+        "total_found": 44,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:05.071942"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:10.588716",
+    "books_processed": 4,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:09.843958",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:09.844135",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:09.845215",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2346.epub",
+        "title": "White Teeth",
+        "author": "Zadie Smith",
+        "total_found": 67,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:09.849523"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:15.791145",
+    "books_processed": 4,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:15.133219",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:15.133370",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:15.134424",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2348.epub",
+        "title": "White Oleander",
+        "author": "Janet Fitch",
+        "total_found": 67,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:15.138538"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:20.562497",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:20.029684",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:20.029838",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:20.030847",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2349.epub",
+        "title": "White Noise",
+        "author": "Don Delillo",
+        "total_found": 43,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:20.034933"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:25.324611",
+    "books_processed": 4,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:24.737067",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:24.737225",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:24.738248",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2350.epub",
+        "title": "Whiplash",
+        "author": "Catherine Coulter",
+        "total_found": 57,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:24.742383"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:29.954368",
+    "books_processed": 4,
+    "quotes_added": 13,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:29.599400",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:29.599558",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:29.600579",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2351.epub",
+        "title": "Where the God of Love Hangs Out: Fiction",
+        "author": "Amy Bloom",
+        "total_found": 56,
+        "high_added": 13,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:29.604702"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:34.440836",
+    "books_processed": 4,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:34.222425",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:34.222581",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:34.223597",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2353.epub",
+        "title": "When the Emperor Was Divine",
+        "author": "Julie Otsuka",
+        "total_found": 23,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:34.227765"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:38.881798",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:38.653940",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:38.654099",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:38.655108",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2354.epub",
+        "title": "Whatever: a novel",
+        "author": "Michel Houellebecq",
+        "total_found": 28,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:38.659190"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:43.187278",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:43.125297",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:43.125451",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:43.126505",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2355.epub",
+        "title": "What Now?",
+        "author": "Ann Patchett",
+        "total_found": 2,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:43.130606"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:47.573706",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:47.431122",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:47.431274",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:47.432281",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2358.epub",
+        "title": "We the Animals",
+        "author": "Justin Torres",
+        "total_found": 7,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:47.436351"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:31:52.594121",
+    "books_processed": 4,
+    "quotes_added": 19,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:51.808703",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:51.808861",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:51.809876",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2360.epub",
+        "title": "We Need to Talk About Kevin",
+        "author": "Lionel Shriver",
+        "total_found": 63,
+        "high_added": 19,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:31:51.813958"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:03.378225",
+    "books_processed": 4,
+    "quotes_added": 11,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:02.792144",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:02.792308",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:02.793389",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2362.epub",
+        "title": "War Trash",
+        "author": "Ha Jin",
+        "total_found": 117,
+        "high_added": 11,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:02.797539"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:08.406105",
+    "books_processed": 4,
+    "quotes_added": 20,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:07.609534",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:07.609691",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:07.610708",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2363.epub",
+        "title": "Warlord",
+        "author": "Ted Bell",
+        "total_found": 126,
+        "high_added": 20,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:07.614860"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:13.302450",
+    "books_processed": 4,
+    "quotes_added": 12,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:12.651520",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:12.651672",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:12.652679",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2366.epub",
+        "title": "Waking the Dead",
+        "author": "Scott Spencer",
+        "total_found": 74,
+        "high_added": 12,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:12.656717"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:17.917206",
+    "books_processed": 4,
+    "quotes_added": 14,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:17.475375",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:17.475529",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:17.476544",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2367.epub",
+        "title": "Waiting",
+        "author": "Ha Jin",
+        "total_found": 61,
+        "high_added": 14,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:17.480710"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:22.579668",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:22.337082",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:22.337241",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:22.338267",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2368.epub",
+        "title": "Vibrator",
+        "author": "Mari Akaska",
+        "total_found": 15,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:22.342470"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:27.207564",
+    "books_processed": 4,
+    "quotes_added": 12,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:26.780176",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:26.780334",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:26.781401",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2369.epub",
+        "title": "Vernon God Little",
+        "author": "Tanya Ronder",
+        "total_found": 55,
+        "high_added": 12,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:26.785652"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:31.972622",
+    "books_processed": 4,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:31.463861",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:31.464018",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:31.465051",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2371.epub",
+        "title": "Veil of Night",
+        "author": "Linda Howard",
+        "total_found": 53,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:31.469120"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:36.645895",
+    "books_processed": 4,
+    "quotes_added": 7,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:36.209361",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:36.209518",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:36.210546",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2372.epub",
+        "title": "Union Atlantic",
+        "author": "Adam Haslett",
+        "total_found": 40,
+        "high_added": 7,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:36.214656"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:41.758793",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:41.191457",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:41.191617",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:41.192672",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2375.epub",
+        "title": "Undemocratic",
+        "author": "Jay Sekulow",
+        "total_found": 32,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:41.196801"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:46.438047",
+    "books_processed": 4,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:46.003839",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:46.004000",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:46.005001",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2376.epub",
+        "title": "Undead and Unfinished",
+        "author": "MaryJanice Davidson",
+        "total_found": 33,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:46.009039"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:51.081087",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:50.657790",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:50.657945",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:50.658958",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2377.epub",
+        "title": "Uglies",
+        "author": "Scott Westerfeld",
+        "total_found": 29,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:50.663084"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:32:55.601435",
+    "books_processed": 4,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:55.372736",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:55.372894",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:55.373913",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2378.epub",
+        "title": "Twinkle Twinkle",
+        "author": "Emi Shimokawa",
+        "total_found": 30,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:55.378020"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:00.449567",
+    "books_processed": 4,
+    "quotes_added": 30,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:59.807264",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:59.807420",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:59.808435",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2379.epub",
+        "title": "U is for undertow",
+        "author": "Sue Grafton",
+        "total_found": 90,
+        "high_added": 30,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:32:59.812547"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:05.048668",
+    "books_processed": 4,
+    "quotes_added": 6,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:04.679735",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:04.679880",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:04.680907",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2380.epub",
+        "title": "Twilight",
+        "author": "William Gay",
+        "total_found": 20,
+        "high_added": 6,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:04.684985"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:09.695888",
+    "books_processed": 4,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:09.344024",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:09.344181",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:09.345203",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2381.epub",
+        "title": "Turtle Moon",
+        "author": "Alice Hoffman",
+        "total_found": 45,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:09.349334"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:14.376134",
+    "books_processed": 4,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:13.946423",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:13.946573",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:13.947593",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2382.epub",
+        "title": "Turn of Mind",
+        "author": "Alice LaPlante",
+        "total_found": 33,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 1,
+        "timestamp": "2026-04-06T11:33:13.951683"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:19.309414",
+    "books_processed": 4,
+    "quotes_added": 15,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:18.693691",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:18.693918",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:18.695021",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2383.epub",
+        "title": "True History of the Kelly Gang",
+        "author": "Peter Carey",
+        "total_found": 45,
+        "high_added": 15,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:18.699330"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:23.949633",
+    "books_processed": 4,
+    "quotes_added": 7,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:23.496069",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:23.496245",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:23.497286",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2384.epub",
+        "title": "Trespass",
+        "author": "Rose Tremain",
+        "total_found": 31,
+        "high_added": 7,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:23.501321"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:28.944760",
+    "books_processed": 4,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:28.216867",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:28.217013",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:28.218033",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2385.epub",
+        "title": "True Blue",
+        "author": "David Baldacci",
+        "total_found": 116,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:28.222058"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:34.123732",
+    "books_processed": 4,
+    "quotes_added": 30,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:33.184940",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:33.185099",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:33.186130",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2386.epub",
+        "title": "Tree of Smoke: A Novel",
+        "author": "Denis Johnson",
+        "total_found": 140,
+        "high_added": 30,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:33.190240"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:44.661166",
+    "books_processed": 4,
+    "quotes_added": 24,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:44.082641",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:44.082834",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:44.083867",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2387.epub",
+        "title": "Treasure Hunt",
+        "author": "John Lescroart",
+        "total_found": 111,
+        "high_added": 24,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:44.087884"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:49.486176",
+    "books_processed": 4,
+    "quotes_added": 10,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:48.892014",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:48.892174",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:48.893208",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2388.epub",
+        "title": "Tough Customer",
+        "author": "Sandra Brown",
+        "total_found": 31,
+        "high_added": 10,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:48.897260"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:33:55.146160",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:53.778274",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:53.778421",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:53.779439",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2389.epub",
+        "title": "Towers of Midnight",
+        "author": "Robert Jordan",
+        "total_found": 68,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:53.783459"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:00.099186",
+    "books_processed": 4,
+    "quotes_added": 10,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:59.614761",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:59.614915",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:59.615948",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2390.epub",
+        "title": "Too Much Happiness",
+        "author": "Alice Munro",
+        "total_found": 39,
+        "high_added": 10,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:33:59.620028"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:04.978016",
+    "books_processed": 4,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:04.439006",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:04.439163",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:04.440190",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2391.epub",
+        "title": "Touch and Go",
+        "author": "Thad Nodine",
+        "total_found": 33,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:04.444228"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:09.981295",
+    "books_processed": 4,
+    "quotes_added": 25,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:09.271421",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:09.271620",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:09.272669",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2392.epub",
+        "title": "Tipping the Velvet",
+        "author": "Sarah Waters",
+        "total_found": 87,
+        "high_added": 25,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:09.276697"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:14.436609",
+    "books_processed": 4,
+    "quotes_added": 11,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:14.203798",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:14.203950",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:14.204956",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2393.epub",
+        "title": "Tinkers",
+        "author": "Paul Harding",
+        "total_found": 28,
+        "high_added": 11,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:14.208944"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:19.857201",
+    "books_processed": 4,
+    "quotes_added": 20,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:18.923276",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:18.923423",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:18.924438",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2397.epub",
+        "title": "Three Seconds",
+        "author": "Anders Roslund",
+        "total_found": 136,
+        "high_added": 20,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:18.928430"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:24.756725",
+    "books_processed": 4,
+    "quotes_added": 9,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:24.109133",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:24.109289",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:24.110308",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2398.epub",
+        "title": "Three Junes",
+        "author": "Julia Glass",
+        "total_found": 72,
+        "high_added": 9,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:24.114380"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:29.569343",
+    "books_processed": 4,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:28.956322",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:28.956475",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:28.957498",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2399.epub",
+        "title": "Third Degree",
+        "author": "Greg Iles",
+        "total_found": 46,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:28.961578"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:35.007325",
+    "books_processed": 4,
+    "quotes_added": 10,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:33.873173",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:33.873373",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:33.874476",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2400.epub",
+        "title": "This Body of Death",
+        "author": "Elizabeth George",
+        "total_found": 60,
+        "high_added": 10,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:33.878637"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:39.855032",
+    "books_processed": 4,
+    "quotes_added": 11,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:39.294326",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:39.294480",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:39.295495",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2401.epub",
+        "title": "Think Twice",
+        "author": "Lisa Scottoline",
+        "total_found": 36,
+        "high_added": 11,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:39.299511"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:44.597287",
+    "books_processed": 4,
+    "quotes_added": 7,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:44.168626",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:44.168778",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:44.169806",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2402.epub",
+        "title": "There But For The",
+        "author": "Ali Smith",
+        "total_found": 33,
+        "high_added": 7,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:44.173840"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:49.470556",
+    "books_processed": 4,
+    "quotes_added": 11,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:48.893686",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:48.893839",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:48.894855",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2404.epub",
+        "title": "Then We Came to the End",
+        "author": "Joshua Ferris",
+        "total_found": 81,
+        "high_added": 11,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:48.898841"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:54.231410",
+    "books_processed": 4,
+    "quotes_added": 7,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:53.713366",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:53.713519",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:53.714554",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2405.epub",
+        "title": "The Zero: A Novel",
+        "author": "Jess Walter",
+        "total_found": 59,
+        "high_added": 7,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:53.718550"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:34:58.944680",
+    "books_processed": 4,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:58.529194",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:58.529352",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:58.530390",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2406.epub",
+        "title": "Theft: A Love Story",
+        "author": "Peter Carey",
+        "total_found": 30,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:34:58.534532"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:35:03.784749",
+    "books_processed": 4,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:03.200240",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:03.200394",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:03.201417",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2407.epub",
+        "title": "The Year of the Flood",
+        "author": "Margaret Atwood",
+        "total_found": 17,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 1,
+        "timestamp": "2026-04-06T11:35:03.205809"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:35:08.950254",
+    "books_processed": 4,
+    "quotes_added": 11,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:08.112417",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:08.112574",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:08.113585",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2408.epub",
+        "title": "The Women",
+        "author": "T. C. Boyle",
+        "total_found": 66,
+        "high_added": 11,
+        "review_queued": 0,
+        "duplicates": 1,
+        "timestamp": "2026-04-06T11:35:08.117608"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:35:14.350704",
+    "books_processed": 4,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:13.635596",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:13.635755",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:13.636771",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2409.epub",
+        "title": "The Woman Who Walked Into Doors",
+        "author": "Roddy Doyle",
+        "total_found": 23,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:13.640769"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T11:35:19.804163",
+    "books_processed": 4,
+    "quotes_added": 38,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:18.971428",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:18.971591",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:18.972596",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2410.epub",
+        "title": "The Wright Brothers",
+        "author": "David McCullough",
+        "total_found": 113,
+        "high_added": 38,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T11:35:18.976619"
+      }
+    ]
   }
 ]
