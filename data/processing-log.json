@@ -1726,5 +1726,2202 @@
         "timestamp": "2026-03-30T21:01:17.204993"
       }
     ]
+  },
+  {
+    "batch_date": "2026-04-03T12:12:10.812967",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 3,
+    "details": [
+      {
+        "file": "Soul Music_ A Novel of Discworl - Terry Pratchett.epub",
+        "title": "Soul Music",
+        "author": "Terry Pratchett",
+        "total_found": 45,
+        "high_added": 0,
+        "review_queued": 3,
+        "duplicates": 0,
+        "timestamp": "2026-04-03T12:12:10.284453"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-03T15:52:09.333948",
+    "books_processed": 1,
+    "quotes_added": 18,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "32.epub",
+        "title": "Looking for Alaska",
+        "author": "John Green",
+        "total_found": 59,
+        "high_added": 18,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-03T15:52:09.014925"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-03T15:52:11.990724",
+    "books_processed": 1,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "33.epub",
+        "title": "An Abundance of Katherines",
+        "author": "Green, Dominic",
+        "total_found": 58,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-03T15:52:11.524751"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:04.307644",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "34.epub",
+        "title": "The Rejected Son (The Coming Out Series)",
+        "author": "Green, John",
+        "total_found": 10,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:04.186403"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:07.027929",
+    "books_processed": 1,
+    "quotes_added": 11,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "35.epub",
+        "title": "Paper Towns",
+        "author": "John Green",
+        "total_found": 66,
+        "high_added": 11,
+        "review_queued": 0,
+        "duplicates": 2,
+        "timestamp": "2026-04-04T03:00:06.577665"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:09.702660",
+    "books_processed": 1,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "38.epub",
+        "title": "Let It Snow: Three Holiday Romances",
+        "author": "Green, John",
+        "total_found": 47,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:09.326970"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:12.182160",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "58.epub",
+        "title": "Das echte Log des Phileas Fogg",
+        "author": "Philip José Farmer",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:11.874121"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:14.931464",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "59.epub",
+        "title": "Lord Tyger",
+        "author": "Farmer, Philip Jose",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:14.393046"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:17.434674",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "68.epub",
+        "title": "Die Irrfahrten des Mr. Green",
+        "author": "Farmer, Philip José",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:17.214582"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:20.044760",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "72.epub",
+        "title": "Farmer im All",
+        "author": "Heinlein, Robert A.",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:19.766230"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:22.303134",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "127.epub",
+        "title": "Requiem",
+        "author": "Heinlein, Robert A.",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:22.256327"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:24.980379",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "183.epub",
+        "title": "Shadowrun - 35 - Psychotro",
+        "author": "Smedman, Lisa",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:24.569881"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:27.534780",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "200.epub",
+        "title": "Shadowrun - 42 - RAGNAROCK",
+        "author": "STEPHEN KENSON",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:27.219905"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:30.191647",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "219.epub",
+        "title": "Das zerissene Land",
+        "author": "Hans Joachim Alpers",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:29.759090"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:33.082501",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "236.epub",
+        "title": "2XS",
+        "author": "Nigel Findley",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:32.549373"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:35.785268",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "444.epub",
+        "title": "The Valkyries",
+        "author": "Coelho, Paulo",
+        "total_found": 20,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:35.514465"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:38.309637",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "460.epub",
+        "title": "Die Nacht von Sinos",
+        "author": "Jack Higgins",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:37.989061"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:40.726050",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "461.epub",
+        "title": "Der Ire",
+        "author": "Jack Higgins",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:40.516840"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:43.124684",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "528.epub",
+        "title": "Mit Sherlock Holmes durch Raum und Zeit 2",
+        "author": "Isaac Asimov",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:42.878497"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:45.488386",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "548.epub",
+        "title": "TTB 109: Unendlichkeit x 5",
+        "author": "Asimov, Isaac",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:45.266944"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:47.685434",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "570.epub",
+        "title": "DNA",
+        "author": "von Schirach, Ferdinand",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:47.661791"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:50.257742",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "603.epub",
+        "title": "Brunetti 05 - Acqua alta",
+        "author": "Donna Leon",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:49.867380"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-04T03:00:52.766423",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "620.epub",
+        "title": "Brunetti 04 - Vendetta",
+        "author": "Donna Leon",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-04T03:00:52.388991"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:04.257381",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "621.epub",
+        "title": "Brunetti 18 - Schöner Schein",
+        "author": "Donna Leon",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:03.888608"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:06.916545",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "622.epub",
+        "title": "Brunetti 02 - Endstation Venedig",
+        "author": "Donna Leon",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:06.503577"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:09.554416",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "625.epub",
+        "title": "Brunetti 06 - Sanft entschlafen",
+        "author": "Donna Leon",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:09.187469"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:12.136573",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "627.epub",
+        "title": "Brunetti 11 - Die dunkle Stunde der Serenissima",
+        "author": "Donna Leon",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:11.747057"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:14.668241",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "681.epub",
+        "title": "Circus",
+        "author": "MacLean, Alistair",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:14.383830"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:17.126647",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "762.epub",
+        "title": "Snuff: Roman (German Edition)",
+        "author": "Palahniuk, Chuck",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:16.889826"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:19.615542",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "965.epub",
+        "title": "Economics in One Lesson",
+        "author": "Henry Hazlitt",
+        "total_found": 14,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:19.319609"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:21.934361",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "970.epub",
+        "title": "The Economics of Freedom: What Your Professors Won't Tell You, Selected Works of Frederic Bastiat",
+        "author": "StudentsFor Liberty",
+        "total_found": 8,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:21.765469"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:24.877027",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "973.epub",
+        "title": "The Economics of Illusion",
+        "author": "L. Albert Hahn",
+        "total_found": 11,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:24.438109"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:27.461897",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "974.epub",
+        "title": "The Economics of Prohibition",
+        "author": "Mark Thornton",
+        "total_found": 11,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:27.095375"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:30.641562",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "975.epub",
+        "title": "Essentials of Economics",
+        "author": "John Bates Clark",
+        "total_found": 68,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:29.999598"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:32.917345",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "976.epub",
+        "title": "Against Intellectual Property",
+        "author": "N. Stephan Kinsella",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:32.803468"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:35.549858",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "977.epub",
+        "title": "The Neatest Little Guide to Stock Market Investing",
+        "author": "Jason Kelly",
+        "total_found": 57,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:35.085231"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:38.677531",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "983.epub",
+        "title": "Ashes of Victory",
+        "author": "David Weber",
+        "total_found": 70,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:37.779393"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:41.409408",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "984.epub",
+        "title": "Changer of Worlds",
+        "author": "David Weber",
+        "total_found": 41,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:40.857544"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:44.407969",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "985.epub",
+        "title": "A Rising Thunder-ARC",
+        "author": "David Weber",
+        "total_found": 52,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:43.668393"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:47.369546",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "986.epub",
+        "title": "Crown of Slaves",
+        "author": "David Weber",
+        "total_found": 61,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:46.574688"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:50.018498",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "987.epub",
+        "title": "Field of Dishonor",
+        "author": "David Weber",
+        "total_found": 36,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:49.537080"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:52.802696",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "988.epub",
+        "title": "On Basilisk Station",
+        "author": "David Weber",
+        "total_found": 57,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:52.275604"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-05T03:00:56.189475",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "989.epub",
+        "title": "David Weber - [Honorverse 03]",
+        "author": "Storm from the Shadows",
+        "total_found": 71,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-05T03:00:55.010858"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:04.748357",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "990.epub",
+        "title": "A Beautiful Friendship-ARC",
+        "author": "David Weber",
+        "total_found": 30,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:04.287465"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:08.218314",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "991.epub",
+        "title": "Shadow of Saganami",
+        "author": "David Weber",
+        "total_found": 116,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:06.904633"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:08.943982",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "991.epub",
+        "title": "Shadow of Saganami",
+        "author": "David Weber",
+        "total_found": 116,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:07.633104",
+        "error": "[Errno 2] No such file or directory: '/home/wintermute/LiteratureClock/inbox/991.epub'"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:12.192533",
+    "books_processed": 1,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "992.epub",
+        "title": "At All Costs",
+        "author": "David Weber",
+        "total_found": 137,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:10.774676"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:15.276994",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "993.epub",
+        "title": "Torch of Freedom",
+        "author": "David Weber",
+        "total_found": 81,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:14.360564"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:18.147641",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "994.epub",
+        "title": "Fire Season-eARC",
+        "author": "David Weber; Jane Lindskold",
+        "total_found": 21,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:17.779005"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:20.833479",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "995.epub",
+        "title": "The Short Victorious War",
+        "author": "David Weber",
+        "total_found": 50,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:20.345703"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:23.609769",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "997.epub",
+        "title": "Flag in Exile",
+        "author": "David Weber",
+        "total_found": 36,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:23.050418"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:26.477988",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "998.epub",
+        "title": "In Enemy Hands",
+        "author": "David Weber",
+        "total_found": 53,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:25.792618"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:29.805163",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "999.epub",
+        "title": "Mission of Honor-ARC",
+        "author": "David Weber",
+        "total_found": 63,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:28.889910"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:32.594413",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1000.epub",
+        "title": "In Fire Forged: Worlds of Honor V-ARC",
+        "author": "David Weber",
+        "total_found": 50,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:32.039622"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:36.104173",
+    "books_processed": 1,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1001.epub",
+        "title": "War of Honor",
+        "author": "David Weber",
+        "total_found": 110,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:34.838553"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:39.301431",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1002.epub",
+        "title": "Honor Among Enemies",
+        "author": "David Weber",
+        "total_found": 68,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:38.607878"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:42.486837",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1003.epub",
+        "title": "Echoes of Honor",
+        "author": "David Weber",
+        "total_found": 136,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:41.486504"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:45.266539",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1004.epub",
+        "title": "Worlds of Honor",
+        "author": "David Weber",
+        "total_found": 49,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:44.709612"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:48.019769",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1006.epub",
+        "title": "The Honor of the Queen",
+        "author": "David Weber",
+        "total_found": 51,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:47.467136"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:50.561212",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1007.epub",
+        "title": "More Than Honor",
+        "author": "David Weber",
+        "total_found": 26,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:50.205157"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:00:57.918446",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1017.epub",
+        "title": "The Rough Guide to Mexico",
+        "author": "Rough Guides",
+        "total_found": 186,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:00:54.413877"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:01:03.650411",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1018.epub",
+        "title": "Lonely Planet Portugal",
+        "author": "Lonely Planet",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:01:01.340448"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:01:07.292348",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1020.epub",
+        "title": "Baedeker Reisefuehrer Toskana",
+        "author": "Baedeker",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:01:06.418743"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T03:01:12.418939",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1034.epub",
+        "title": "The Rough Guide to Colombia",
+        "author": "Stephen Keeling",
+        "total_found": 75,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T03:01:10.804361"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:17:47.723059",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1055.epub",
+        "title": "Lonely Planet - Kanada",
+        "author": "Karla Zimmermann",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:17:43.558287"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:17:50.873108",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1072.epub",
+        "title": "Introvert Power: Why Your Inner Life Is Your Hidden Strength",
+        "author": "Laurie Helgoe",
+        "total_found": 19,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:17:50.472201"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:17:54.006745",
+    "books_processed": 1,
+    "quotes_added": 6,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1073.epub",
+        "title": "How To Win Friends And Influence People",
+        "author": "Carnegie, Dale",
+        "total_found": 34,
+        "high_added": 6,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:17:53.629684"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:17:57.770396",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1175.epub",
+        "title": "The Language Instinct: How the Mind Creates Language",
+        "author": "Steven Pinker",
+        "total_found": 55,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:17:56.784001"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:00.700953",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1240.epub",
+        "title": "Digital photography landscape projects: To make you a better photographer",
+        "author": "Pease, Steve",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:00.593606"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:05.275276",
+    "books_processed": 1,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1259.epub",
+        "title": "Creative Collection , Black and White, Close-Ups, and Night",
+        "author": "Harold Davis",
+        "total_found": 33,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:04.391159"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:08.707220",
+    "books_processed": 1,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1268.epub",
+        "title": "The Plague",
+        "author": "Albert Camus",
+        "total_found": 62,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:08.203583"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:11.936751",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1270.epub",
+        "title": "The Rebel",
+        "author": "Albert Camus",
+        "total_found": 16,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:11.514265"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:15.132486",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1271.epub",
+        "title": "The Conspiracy against the Human Race: A Contrivance of Horror",
+        "author": "Ligotti, Thomas",
+        "total_found": 21,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:14.808148"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:18.564359",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1272.epub",
+        "title": "Introduction to Logic and to the Methodology of Deductive Sciences",
+        "author": "Alfred Tarski",
+        "total_found": 12,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:17.971826"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:21.548860",
+    "books_processed": 1,
+    "quotes_added": 6,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1275.epub",
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "total_found": 18,
+        "high_added": 6,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:21.375118"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:25.739844",
+    "books_processed": 1,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1277.epub",
+        "title": "The Principles of Ethics: Anthology",
+        "author": "Herbert Spencer",
+        "total_found": 67,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:24.310436"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:28.802401",
+    "books_processed": 1,
+    "quotes_added": 7,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1278.epub",
+        "title": "A Happy Death",
+        "author": "Albert Camus",
+        "total_found": 24,
+        "high_added": 7,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:28.578991"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:31.910251",
+    "books_processed": 1,
+    "quotes_added": 20,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1279.epub",
+        "title": "Nausea",
+        "author": "Jean-Paul Sartre",
+        "total_found": 60,
+        "high_added": 20,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:31.586115"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:35.564074",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1282.epub",
+        "title": "The Foundations of Morality",
+        "author": "Henry Hazlitt",
+        "total_found": 17,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:34.805711"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:38.855983",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1283.epub",
+        "title": "Exile and the Kingdom",
+        "author": "Albert Camus",
+        "total_found": 22,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:38.654179"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:43.430482",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1284.epub",
+        "title": "History of Western Philosophy",
+        "author": "Bertrand Russell",
+        "total_found": 57,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:41.711699"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:46.790494",
+    "books_processed": 1,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1285.epub",
+        "title": "Marxism (Routledge Revivals)",
+        "author": "Thomas Sowell",
+        "total_found": 17,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:46.394741"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:18:50.005236",
+    "books_processed": 1,
+    "quotes_added": 25,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1286.epub",
+        "title": "The First Man",
+        "author": "Albert Camus",
+        "total_found": 51,
+        "high_added": 25,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:18:49.626155"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:28.249429",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1287.epub",
+        "title": "The God Delusion",
+        "author": "Dawkins, Richard",
+        "total_found": 40,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:27.701897"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:31.847592",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1288.epub",
+        "title": "Thus spake Zarathustra; A book for all and none",
+        "author": "Nietzsche, Friedrich, 1844-1900",
+        "total_found": 14,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:31.170508"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:34.957599",
+    "books_processed": 1,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1289.epub",
+        "title": "The Myth of Sisyphus and Other Essays",
+        "author": "Albert Camus",
+        "total_found": 14,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:34.691104"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:38.698834",
+    "books_processed": 1,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1291.epub",
+        "title": "Dark Money",
+        "author": "Jane Mayer",
+        "total_found": 69,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:37.884005"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:42.102931",
+    "books_processed": 1,
+    "quotes_added": 8,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1292.epub",
+        "title": "The Big Short: Inside the Doomsday Machine",
+        "author": "Michael Lewis",
+        "total_found": 46,
+        "high_added": 8,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:41.722118"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:45.630940",
+    "books_processed": 1,
+    "quotes_added": 14,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1293.epub",
+        "title": "The Road to Little Dribbling",
+        "author": "Bill Bryson",
+        "total_found": 126,
+        "high_added": 14,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:45.049447"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:49.432946",
+    "books_processed": 1,
+    "quotes_added": 9,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1294.epub",
+        "title": "Toms River",
+        "author": "Dan Fagin",
+        "total_found": 223,
+        "high_added": 9,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:48.527461"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:52.714248",
+    "books_processed": 1,
+    "quotes_added": 26,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1295.epub",
+        "title": "The Demon in the Freezer",
+        "author": "Richard Preston",
+        "total_found": 82,
+        "high_added": 26,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:52.351779"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:56.371292",
+    "books_processed": 1,
+    "quotes_added": 33,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1296.epub",
+        "title": "The Last Jews in Berlin",
+        "author": "Gross, Leonard",
+        "total_found": 78,
+        "high_added": 33,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:55.916429"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:39:59.705129",
+    "books_processed": 1,
+    "quotes_added": 42,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1297.epub",
+        "title": "13 Hours: The Inside Account of What Really Happened in Benghazi",
+        "author": "Mitchell Zuckoff",
+        "total_found": 75,
+        "high_added": 42,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:39:59.272335"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:03.020858",
+    "books_processed": 1,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1299.epub",
+        "title": "When Breath Becomes Air",
+        "author": "Paul Kalanithi",
+        "total_found": 37,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:02.795072"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:06.913556",
+    "books_processed": 1,
+    "quotes_added": 27,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1300.epub",
+        "title": "The Indifferent Stars Above",
+        "author": "Daniel James Brown",
+        "total_found": 110,
+        "high_added": 27,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:06.348738"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:10.090476",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1308.epub",
+        "title": "Mastering Python Design Patterns",
+        "author": "",
+        "total_found": 2,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:09.778557"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:13.122577",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1310.epub",
+        "title": "Mastering Excel: User Forms",
+        "author": "Mark Moore",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:13.062837"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:17.409322",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1326.epub",
+        "title": "Networking The Complete Reference, Third Edition",
+        "author": "Bobbi Sandberg",
+        "total_found": 41,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:16.036864"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:20.879357",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1356.epub",
+        "title": "iPhone for Seniors QuickSteps",
+        "author": "Marty Matthews",
+        "total_found": 6,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:20.379768"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:23.857674",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1363.epub",
+        "title": "Java for Beginners: by Knowledge flow",
+        "author": "Knowledge flow",
+        "total_found": 2,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:23.790855"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:27.093375",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1374.epub",
+        "title": "The Man Versus the State",
+        "author": "Herbert Spencer",
+        "total_found": 19,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:26.783292"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:40:30.177961",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1377.epub",
+        "title": "Notes on Democracy",
+        "author": "H.L. Mencken",
+        "total_found": 11,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:40:30.016425"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:02.392454",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1378.epub",
+        "title": "Freethinkers: A History of American Secularism",
+        "author": "Susan Jacoby",
+        "total_found": 34,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:01.649624"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:05.886907",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1409.epub",
+        "title": "Bluthochdruck senken für Dummies",
+        "author": "Rubin, Alan L.",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:05.343718"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:10.128412",
+    "books_processed": 1,
+    "quotes_added": 27,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1454.epub",
+        "title": "German For Dummies",
+        "author": "Paulina Christensen",
+        "total_found": 38,
+        "high_added": 27,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:09.039861"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:14.210583",
+    "books_processed": 1,
+    "quotes_added": 10,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1459.epub",
+        "title": "Excel 2013 fur Dummies (Für Dummies) (German Edition)",
+        "author": "Harvey, Greg",
+        "total_found": 10,
+        "high_added": 10,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:13.175944"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:17.622928",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1536.epub",
+        "title": "Draw 50 Famous Cartoons",
+        "author": "Lee J. Ames",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:17.463478"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:20.814746",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1537.epub",
+        "title": "Drawing: One Day Drawing Mastery: The Complete Beginner’s Guide to Learning to Draw in Under 1 Day! A Step by Step Process to Learn – Inspiring Images ... (Art Drawing Pencil Graphic Design)",
+        "author": "Ellen Warren",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:20.737995"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:24.908564",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1540.epub",
+        "title": "Drawing Comics Lab",
+        "author": "Robyn Chapman",
+        "total_found": 18,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:24.533742"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:28.352489",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1544.epub",
+        "title": "Draw the Draw 50 Way",
+        "author": "Lee J. Ames",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:28.188987"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:31.696203",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1551.epub",
+        "title": "How to Draw Collection 1-12 (Over 400 Pages) (How to Draw Collections)",
+        "author": "offir, amit",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:31.594203"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:35.402399",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1575.epub",
+        "title": "Freehand Perspective and Sketching",
+        "author": "Dora Miriam Norton",
+        "total_found": 9,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:35.101372"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:38.874402",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1586.epub",
+        "title": "Draw 50 Vehicles",
+        "author": "Lee J. Ames",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:38.718450"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:42.497717",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1606.epub",
+        "title": "Draw 50 Sharks, Whales, and Other Sea Creatures",
+        "author": "Lee J. Ames",
+        "total_found": 3,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:42.320806"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:46.474354",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1615.epub",
+        "title": "Draw 50 Monsters",
+        "author": "Lee J. Ames",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:46.292803"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:50.120681",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1618.epub",
+        "title": "Draw 50 Airplanes, Aircraft, and Spacecraft",
+        "author": "Lee J. Ames",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:49.992693"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:53.590136",
+    "books_processed": 1,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1634.epub",
+        "title": "Draw 50 Animals",
+        "author": "Lee J. Ames",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:53.466584"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:42:57.382611",
+    "books_processed": 1,
+    "quotes_added": 3,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1647.epub",
+        "title": "Jacqueline Bouvier Kennedy Onassis: The Untold Story",
+        "author": "Barbara Leaming",
+        "total_found": 49,
+        "high_added": 3,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:42:56.838105"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:43:01.400980",
+    "books_processed": 1,
+    "quotes_added": 22,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1652.epub",
+        "title": "Neil Patrick Harris",
+        "author": "Neil Patrick Harris",
+        "total_found": 46,
+        "high_added": 22,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:43:00.888811"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:43:04.904686",
+    "books_processed": 1,
+    "quotes_added": 6,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1704.epub",
+        "title": "High Heat: A Jack Reacher Novella",
+        "author": "Lee Child",
+        "total_found": 16,
+        "high_added": 6,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:43:04.761563"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:43:08.926420",
+    "books_processed": 1,
+    "quotes_added": 46,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1705.epub",
+        "title": "Tripwire",
+        "author": "Lee Child",
+        "total_found": 125,
+        "high_added": 46,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:43:08.216597"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T09:43:12.969989",
+    "books_processed": 1,
+    "quotes_added": 34,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1706.epub",
+        "title": "Without Fail",
+        "author": "Lee Child",
+        "total_found": 152,
+        "high_added": 34,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T09:43:12.297018"
+      }
+    ]
   }
 ]
