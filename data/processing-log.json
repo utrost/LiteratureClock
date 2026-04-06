@@ -129544,5 +129544,3927 @@
         "timestamp": "2026-04-06T14:46:56.577053"
       }
     ]
+  },
+  {
+    "batch_date": "2026-04-06T21:35:54.800704",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:35:53.909515",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:35:53.909680",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:35:53.910718",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:35:53.914645",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:35:53.914757",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:35:54.089493",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:35:54.095657",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:35:54.100302",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6809.epub",
+        "title": "Time Scout 1 - Time Scout",
+        "author": "Asprin, Robert",
+        "total_found": 59,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 7,
+        "timestamp": "2026-04-06T21:35:54.100392"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:36:02.861331",
+    "books_processed": 9,
+    "quotes_added": 9,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:01.901158",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:01.901317",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:01.902355",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:01.906271",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:01.906381",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:02.080129",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:02.086143",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:02.090774",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6810.epub",
+        "title": "Time Scout 4 - The House That Jack Built",
+        "author": "Asprin, Robert",
+        "total_found": 53,
+        "high_added": 9,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:02.090865"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:36:10.746664",
+    "books_processed": 9,
+    "quotes_added": 5,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:10.015442",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:10.015597",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:10.016616",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:10.020478",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:10.020591",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:10.193803",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:10.199785",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:10.204411",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6812.epub",
+        "title": "Time Scout 5 - License Invoked",
+        "author": "Asprin, Robert",
+        "total_found": 35,
+        "high_added": 5,
+        "review_queued": 0,
+        "duplicates": 1,
+        "timestamp": "2026-04-06T21:36:10.204500"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:36:18.275433",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.738986",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.739145",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.740189",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.744109",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.744222",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.915775",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.921838",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.926416",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6819.epub",
+        "title": "Thieves World 03 - Shadows of Sanctuary",
+        "author": "Asprin, Robert",
+        "total_found": 10,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:17.926533"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:36:25.768611",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.272417",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.272576",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.273620",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.277538",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.277648",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.451563",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.457576",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.462284",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6822.epub",
+        "title": "Thieves World 11 - Uneasy Alliances",
+        "author": "Asprin, Robert",
+        "total_found": 6,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:25.462377"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:36:33.495885",
+    "books_processed": 9,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.775393",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.775553",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.776585",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.780528",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.780644",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.954819",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.960925",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.965614",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6827.epub",
+        "title": "Phule 05 - No Phule Like An Old Phule",
+        "author": "Asprin, Robert",
+        "total_found": 26,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:32.965730"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:36:41.458823",
+    "books_processed": 9,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.762345",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.762503",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.763531",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.767414",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.767525",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.938793",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.944737",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.949364",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6830.epub",
+        "title": "Phule 06 - Phule's Errand",
+        "author": "Asprin, Robert",
+        "total_found": 34,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:40.949479"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:36:49.021042",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.571360",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.571520",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.572554",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.576399",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.576509",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.751252",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.757412",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.762076",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6832.epub",
+        "title": "Myth 11 - Sweet myth-Tery Of Life",
+        "author": "Asprin, Robert",
+        "total_found": 8,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:48.762166"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:36:56.524754",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.134445",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.134600",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.135641",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.139494",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.139604",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.312878",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.318953",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.323573",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6835.epub",
+        "title": "Myth 08 - M.Y.T.H. Inc. Link",
+        "author": "Asprin, Robert",
+        "total_found": 15,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:36:56.323688"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:37:04.160609",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.684663",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.684817",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.685871",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.689729",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.689838",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.862094",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.868059",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.872667",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6836.epub",
+        "title": "Myth 12 - Myth-ion Improbable",
+        "author": "Asprin, Robert",
+        "total_found": 18,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:03.872754"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:37:11.942356",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.476046",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.476207",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.477272",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.481180",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.481292",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.654412",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.660303",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.664910",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6838.epub",
+        "title": "Myth 03 - Myth Conceptions",
+        "author": "Asprin, Robert",
+        "total_found": 18,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:11.665025"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:37:20.466106",
+    "books_processed": 9,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.792368",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.792526",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.793559",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.797453",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.797564",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.972033",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.978091",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.982829",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6840.epub",
+        "title": "Myth 19 - Myth-Chief",
+        "author": "Asprin, Robert",
+        "total_found": 28,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:19.982930"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:37:28.274094",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:27.845642",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:27.845800",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:27.846823",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:27.850672",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:27.850782",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:28.024233",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:28.030199",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:28.034848",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6843.epub",
+        "title": "Myth 06 - Myth-Ing Person's",
+        "author": "Asprin, Robert",
+        "total_found": 4,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:28.034939"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:37:35.646491",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.224512",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.224714",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.225817",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.229592",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.229701",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.400278",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.406275",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.410958",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6844.epub",
+        "title": "Myth 13 - Something M.Y.T.H. Inc.",
+        "author": "Asprin, Robert",
+        "total_found": 6,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:35.411077"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:37:44.067493",
+    "books_processed": 9,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.391591",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.391748",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.392790",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.396629",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.396738",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.567191",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.573097",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.577801",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6845.epub",
+        "title": "Myth 15 - Myth Alliances",
+        "author": "Asprin, Robert",
+        "total_found": 31,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:43.577914"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:37:51.445588",
+    "books_processed": 9,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.735745",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.735908",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.736942",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.740828",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.740938",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.915147",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.921274",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.926060",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6846.epub",
+        "title": "Myth 18 - Myth-Gotten Gains",
+        "author": "Asprin, Robert",
+        "total_found": 37,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:50.926183"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:37:59.016528",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.403726",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.403883",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.404919",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.408764",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.408874",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.581913",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.588021",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.592636",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6848.epub",
+        "title": "Myth 17 - Class Dis-Mythed",
+        "author": "Asprin, Robert",
+        "total_found": 50,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:37:58.592725"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:38:15.650466",
+    "books_processed": 9,
+    "quotes_added": 7,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:14.817085",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:14.817245",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:14.818269",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:14.822165",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:14.822275",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:14.994586",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:15.000475",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:15.005039",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "6852.epub",
+        "title": "Griffen McCandles 03 - Dragons Deal",
+        "author": "Asprin, Robert",
+        "total_found": 64,
+        "high_added": 7,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:15.005144"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:38:22.529290",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.099432",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.099596",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.100617",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.104466",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.104574",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.275462",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.281484",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.286078",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7014.epub",
+        "title": "Of Man and Manta 1 - Omnivore",
+        "author": "Anthony, Piers",
+        "total_found": 12,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:22.286194"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:38:30.189695",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.649046",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.649255",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.650337",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.654259",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.654410",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.826933",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.832928",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.837536",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7015.epub",
+        "title": "Pornucopia 2 - The Magic Fart",
+        "author": "Anthony, Piers",
+        "total_found": 10,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:29.837626"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:38:37.826222",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.267081",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.267239",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.268258",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.272117",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.272227",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.443021",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.449226",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.453834",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7018.epub",
+        "title": "Of Man and Manta 2 - Orn",
+        "author": "Anthony, Piers",
+        "total_found": 32,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:37.453936"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:38:45.905807",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.180544",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.180704",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.181726",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.185606",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.185717",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.357348",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.363228",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.367779",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7019.epub",
+        "title": "Mode 3 - Chaos Mode",
+        "author": "Anthony, Piers",
+        "total_found": 28,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:45.367868"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:38:53.981224",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.204937",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.205103",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.206132",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.210038",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.210156",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.382524",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.388507",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.393071",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7021.epub",
+        "title": "Mode 2 - Fractal Mode",
+        "author": "Anthony, Piers",
+        "total_found": 29,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:38:53.393188"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:39:01.805755",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.050638",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.050793",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.051823",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.055747",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.055864",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.229657",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.235688",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.240362",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7022.epub",
+        "title": "Mode 4 - DoOon Mode",
+        "author": "Anthony, Piers",
+        "total_found": 32,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:01.240455"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:39:10.130607",
+    "books_processed": 9,
+    "quotes_added": 4,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:08.958723",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:08.958881",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:08.959988",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:08.963905",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:08.964016",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:09.138441",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:09.144836",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:09.149628",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7023.epub",
+        "title": "Geodyssey 4 - Muse of Art",
+        "author": "Anthony, Piers",
+        "total_found": 59,
+        "high_added": 4,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:09.149744"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:39:18.244829",
+    "books_processed": 9,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.100039",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.100205",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.101244",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.105176",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.105287",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.277587",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.283536",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.288090",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7024.epub",
+        "title": "Geodyssey 3 - Hope of Earth",
+        "author": "Anthony, Piers",
+        "total_found": 53,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:17.288207"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:39:26.038096",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.136974",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.137142",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.138180",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.142139",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.142251",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.315430",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.321426",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.326000",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7025.epub",
+        "title": "Geodyssey 2 - Shame of Man",
+        "author": "Anthony, Piers",
+        "total_found": 39,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:25.326125"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:39:33.792668",
+    "books_processed": 9,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:32.828607",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:32.828804",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:32.829846",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:32.833756",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:32.833893",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:33.006476",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:33.012608",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:33.017274",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7026.epub",
+        "title": "Geodyssey 1 - Isle of Woman",
+        "author": "Anthony, Piers",
+        "total_found": 41,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:33.017375"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:39:41.799307",
+    "books_processed": 9,
+    "quotes_added": 6,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.651919",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.652079",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.653111",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.656933",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.657043",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.829612",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.835748",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.840304",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7027.epub",
+        "title": "The Last Page",
+        "author": "Huso, Anthony",
+        "total_found": 54,
+        "high_added": 6,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:40.840418"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:39:49.327680",
+    "books_processed": 9,
+    "quotes_added": 2,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.264661",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.264817",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.265844",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.269762",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.269875",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.441547",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.447717",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.452306",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7031.epub",
+        "title": "Black Bottle",
+        "author": "Anthony Huso",
+        "total_found": 38,
+        "high_added": 2,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:48.452409"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:39:56.079650",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:55.824093",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:55.824295",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:55.825395",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:55.829464",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:55.829620",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:56.004176",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:56.010200",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:56.014870",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7038.epub",
+        "title": "Death and the Knight",
+        "author": "Anderson, Poul",
+        "total_found": 1,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:39:56.014960"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:40:03.656288",
+    "books_processed": 9,
+    "quotes_added": 1,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.061884",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.062044",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.063084",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.066952",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.067068",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.241224",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.247227",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.251864",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7039.epub",
+        "title": "No World of Their Own",
+        "author": "Anderson, Poul",
+        "total_found": 13,
+        "high_added": 1,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:03.251955"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:40:10.996179",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.530648",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.530810",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.531854",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.535692",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.535805",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.707937",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.713981",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.718636",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7040.epub",
+        "title": "The Byworlder",
+        "author": "Anderson, Poul",
+        "total_found": 25,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:10.718755"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:40:19.338376",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.433770",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.433972",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.435011",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.438987",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.439148",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.611785",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.617700",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.622354",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7041.epub",
+        "title": "Murasaki",
+        "author": "Anderson, Poul",
+        "total_found": 42,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:18.622469"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:40:27.071116",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.551770",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.551928",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.552956",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.556878",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.556992",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.729210",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.735158",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.740004",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7043.epub",
+        "title": "Vault of the Ages",
+        "author": "Anderson, Poul",
+        "total_found": 9,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:26.740099"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:40:34.545795",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.295784",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.295943",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.296971",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.300817",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.300925",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.475005",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.481040",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.485713",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7049.epub",
+        "title": "The Martian Crown Jewels",
+        "author": "Anderson, Poul",
+        "total_found": 3,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:34.485830"
+      }
+    ]
+  },
+  {
+    "batch_date": "2026-04-06T21:40:42.031327",
+    "books_processed": 9,
+    "quotes_added": 0,
+    "quotes_review": 0,
+    "details": [
+      {
+        "file": "1971.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.591110",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "2224.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.591272",
+        "error": "\"There is no item named 'OEBPS/Images/cover1.jpeg' in the archive\""
+      },
+      {
+        "file": "2271.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.592301",
+        "error": "'NoneType' object has no attribute 'find'"
+      },
+      {
+        "file": "2925.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.596165",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "3912.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.596274",
+        "error": "\"There is no item named 'index_split_001.html' in the archive\""
+      },
+      {
+        "file": "5280.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.767710",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5281.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.773660",
+        "error": "\"There is no item named 'OEBPS/fonts/CharisSILB.ttf' in the archive\""
+      },
+      {
+        "file": "5770.epub",
+        "title": "",
+        "author": "",
+        "total_found": 0,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.778359",
+        "error": "'Bad Zip file'"
+      },
+      {
+        "file": "7050.epub",
+        "title": "The High Crusade",
+        "author": "Anderson, Poul",
+        "total_found": 10,
+        "high_added": 0,
+        "review_queued": 0,
+        "duplicates": 0,
+        "timestamp": "2026-04-06T21:40:41.778473"
+      }
+    ]
   }
 ]
