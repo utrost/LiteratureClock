@@ -353,7 +353,7 @@
   // --- Init ---
   async function init() {
     try {
-      const res = await fetch('data/quotes.json');
+      const res = await fetch('/clock/data/quotes.json');
       allQuotes = await res.json();
     } catch (e) {
       console.error('Failed to load quotes:', e);
@@ -399,14 +399,20 @@
     setTimeout(() => showNavHint(), 2000);
   }
 
-  // Register Service Worker for offline support
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.js').catch(() => {});
-  }
-
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
+    document.addEventListener('DOMContentLoaded', () => {
+      init();
+      registerServiceWorker();
+    });
   } else {
     init();
+    registerServiceWorker();
+  }
+
+  // Register Service Worker for offline support under the deployed /clock/ path.
+  function registerServiceWorker() {
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/clock/sw.js', { scope: '/clock/' }).catch(() => {});
+    }
   }
 })();
